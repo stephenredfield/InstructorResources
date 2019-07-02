@@ -14,8 +14,7 @@ Questions to ask yourself before you start designing the assignment. (Answer if 
 
 #### Formative Assessments
 The purpose of formative assessment is to aid the student in the learning process. These can be short or long, but generally should be low-stakes, while maintaining the standard of work quality. These can take the form of short coding exercises, reflections, low-point-value quizzes with multiple attempts, etc.  The emphasis on this assignment is not gauging the students’ knowledge, but on helping them learn and helping them understand how they learn better.
-- What module learning outcomes does this assignment help the student learn?
-
+- What module learning outcomes does this assignment help the student learn?   
 You may want to refer back to your module learning outcomes regarding…
   - Why these key questions are important?
   - What are some use cases for the topics related to the key questions?
