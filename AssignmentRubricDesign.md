@@ -57,10 +57,9 @@ Unsurprisingly, one key to good assignment design is ensuring you’re actually 
 
 
 ##### Outcome: Use tools to clean and transform datasets for use in database systems
-| :Criteria: | :Developing: | :Meeting: | :Exceeding: | 
+|:Criteria:|:Developing:|:Meeting:|:Exceeding:| 
 | ----- | ----- | ----- | ----- |
 |Data converted to CSV or TSV | CSV or TSV formatted, but errors handling quotes/commas in fields or NULL fields. | CSV formatted, no errors due to quotes/commas NULL fields | Meets Criteria, and also supports extended character sets (e.g. Unicode) |
-| ----- | ----- | ----- | ----- |
 | Data loads into R, SQL, or MatPlot | Data loaded into tool, but incomplete | Data fully loaded into tool and evidence provided | N/A |
 
 These may or may not be assignment specific, but don’t worry about that now, you can fix it later. The reason we’re filling in the rubric before the assignment is to give us a framework in the actual assignment design. Keep going until you have a complete grading criteria sheet. This is the first real design step, so take your time.  A good grading criteria sheet will address all the desired outcomes in detail, and explain specifically how the student is learning or demonstrating them. Ideally, it’ll also fit with the assignment you’d had in mind as well!  Remember, good rubrics take time to design upfront, but they save time and headaches, and eliminate student complaints, in the long run.
