@@ -12,7 +12,7 @@ NOTE: You can also view a [Demo](https://slackdemo.com/) which Slack has put out
 After you've downloaded Slack, when you boot it up you should arrive at a login similar to the following. 
 ![Slack Homepage](images/SlackWorkspaceConnection.png "Slack Homepage")
 
-Please connect to the Workspace [**__oregonstate.enterprise.slack.com__**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
+Please connect to the Workspace [**_oregonstate.enterprise.slack.com_**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
 
 Here's how we use the Departmental Slack:
 - pb-instructors (request an invite if you're not already in!)   
