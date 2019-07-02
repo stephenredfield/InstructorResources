@@ -57,6 +57,7 @@ Unsurprisingly, one key to good assignment design is ensuring you’re actually 
 
 
 ##### Outcome: Use tools to clean and transform datasets for use in database systems
+
 | Criteria | Developing | Meeting | Exceeding | 
 | ----- | ----- | ----- | ----- |
 |Data converted to CSV or TSV | CSV or TSV formatted, but errors handling quotes/commas in fields or NULL fields. | CSV formatted, no errors due to quotes/commas NULL fields | Meets Criteria, and also supports extended character sets (e.g. Unicode) |
