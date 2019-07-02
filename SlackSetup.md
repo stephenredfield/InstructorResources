@@ -31,6 +31,7 @@ Now that you're set up and ready to go, it's time to create a Workspace for your
 3. Select "Class Slack Workspace" and "Add a new class slack workspace".
 4. Select your new course from the Course List menu, add your TAs' ONID usernames to the "Special list members (TA's, etc):", separated by commas, and hit SUBMIT!   
 *Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
+
 That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
 
 ## Configuring your Class Workspace
@@ -76,9 +77,10 @@ Off-topic discussions within your course.
 
 
 ## Encouraging Use of Slack
-One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Slack, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating this page which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
+One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Slack, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [\*\*\*this page\*\*\*](TBD which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
 
-Additionaly [INTRO ACTIVITY]
+\*\*\* Intro Activity Placeholder\*\*\*
 
 ## Other Slack Information
 Your Workspace won't be the only one your students have.  Here is some information about how the student Slack experience is configured.
+\*\*\* Info Placeholder\*\*\*
