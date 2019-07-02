@@ -15,6 +15,7 @@ NOTE: You can also read the [Piazza support documentation](https://support.piazz
 [Piazza Resources](#Resources)  
 
 <a name='AddNavPanel'/>  
+
 ## Adding Piazza to your class' Navigation Panel
 To add a Piazza link to the course Nav bar…
 
@@ -27,6 +28,7 @@ Shared Secret: piazza_nk8-6df4
 Make sure to check the box which shows “Show in Course Navigation”
 
 <a name='StartInstance'/>  
+
 ## Starting a new Class instance
 To begin a new class instance, click the Piazza link in the navigation sidebar for your class. If no class instance yet exists, you should see a screen similar to this:
 
@@ -35,6 +37,7 @@ To begin a new class instance, click the Piazza link in the navigation sidebar f
 The top half of the "OR" is where you create a new class.  I recommend filling out more intuitive course Name and Numbers (these are visible to students, so simplicity is important) rather than using the defaults.  For this example I would enter "Intro to Computer Networks" for the Name (rather than the all-caps version here) and "CS 372" for the number.  If there are multiple sections, I would include that as well (e.g. "CS 372_400"). Use the catalog max capacity for your Enrollment estimate.
 
 <a name='EnrollStudents'/>  
+
 ## Enrolling Your Students (and TAs)
 Now that you have a class instance, you should make sure all your students are enrolled.  If you use Piazza for official announcements or assignment clarifications, this is mandatory.
 
@@ -47,6 +50,7 @@ That's it! The students will receive an activation email and will be able to acc
 NOTE: If you have TAs you want to enroll in the class you should paste their emails into the "Enroll Professors/TAs" box.
 
 <a name='RecSettings'/>  
+
 ## Recommended Settings
 We have found the following Class and Q&A Settings to be the best fit for most classes in the program and recommend you use the same:
 
@@ -60,10 +64,12 @@ We have found the following Class and Q&A Settings to be the best fit for most c
   - We don't have a recommended setting here, but you should be aware that Piazza allows you to setup how/when/if you receive emailed notifications of Piazza activity, and this is where you set that up.
 
 <a name='IntroThread'/>  
+
 ## Introduction Thread
 Online engagement best practices inform us that an introduction thread is important for building a constructive online learning environment.  Piazza is the ideal place for us to do this. At the beginning of each term you should post an introductory thread and request that students post replies.  I recommend attaching a photo of yourself and writing your own introduction here even though you've provided an Instructor Introduction video in the Canvas course.  You should also keep up with the student posts and respond to at least a few. Both of these will show that you're engaged in the forum and that you're an active resource for them to utilize.
 
 <a name='QA'/>  
+
 ## Piazza Q & A
 The "Q & A" section is your bread and butter here. This is where students ask questions and you have the opportunity to answer them or allow other students to do that. I also recommend getting your TAs involved in the forum.  Here are some key points for the Piazza Q & A Section.
 
@@ -76,6 +82,7 @@ Notes are the default post type.  They are essentially standard discussion threa
 The in-class poll can be used to gather information quickly of the entire class, without the overhead of managing a Canvas poll.
 
 <a name='Groups'/>  
+
 ## Piazza Groups
 Groups in Piazza are more annoying to create than in Canvas. The creation mechanism is in the "Manage Class" subsection under "Create Groups".
 
@@ -85,5 +92,6 @@ Calculate the number of groups you'll need, then create them in "Enable Group Ba
 I recommend using Canvas to generate groups, then pulling the emails from Canvas and pasting them into the Piazza "Manage students in this group" individually.
 
 <a name='Resources'/>  
+
 ## Piazza Resources
 Piazza has the ability to serve as a repository for course materials (Homework assignments, solutions, lectures, etc).  I don't recommend using this, since we prefer to keep as much information in the Canvas page as possible so information drift can be limited, but if you elect to post this information in Piazza that's fine.
