@@ -11,6 +11,7 @@ NOTE: You can also view a [Demo](https://slackdemo.com/) which Slack has put out
 ## Connecting to our Departmental Workspace
 After you've downloaded Slack, when you boot it up you should arrive at a login similar to the following. 
 ![Slack Homepage](images/SlackWorkspaceConnection.png "Slack Homepage")
+
 Please connect to the Workspace [**__oregonstate.enterprise.slack.com__**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
 
 Here's how we use the Departmental Slack:
@@ -34,6 +35,7 @@ That's it! Your students will be automatically added and you'll be the Workspace
 
 ## Configuring your Class Workspace
 Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Administration" heading)
+
 ![Slack Workspace Settings](images/SlackWorkplaceSettings.png "Slack Workspace Settings")
 - Change Workspace Info
   - In the Workspace Settings, under the "Settings" tab find "Workspace Name, Description, and URL."
