@@ -24,10 +24,10 @@
   - Program-wide Tools
 
 ## Regarding TAs and GTAs
-- TA Roles
-- TA Organization
+- [TA Roles and Duties](TARolesDuties.html)
+- [TA Organization](TAOrganization.html)
 - Recruiting Undergrad TAs
-- Common TA Issues & Suggested Resolutions
+- [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
 ## Course Design
 - Course learning Outcomes (CLOs)
