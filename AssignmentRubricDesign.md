@@ -12,7 +12,7 @@ Questions to ask yourself before you start designing the assignment. (Answer if 
   - Do I need to assist the students in learning and reinforcing concepts? (Formative)
   - Do I need to evaluate students on what they’ve already learned? (Summative)
 
-### Formative Assessments
+#### Formative Assessments
 The purpose of formative assessment is to aid the student in the learning process. These can be short or long, but generally should be low-stakes, while maintaining the standard of work quality. These can take the form of short coding exercises, reflections, low-point-value quizzes with multiple attempts, etc.  The emphasis on this assignment is not gauging the students’ knowledge, but on helping them learn and helping them understand how they learn better.
 - What module learning outcomes does this assignment help the student learn?
 You may want to refer back to your module learning outcomes regarding…
@@ -28,7 +28,7 @@ You may want to refer back to your module learning outcomes regarding…
 - What modules/topics/lectures will assist the student when they’re working towards these outcomes?
 - What active learning techniques lend themselves to use in these topics?
 
-### Summative Assessments
+#### Summative Assessments
 The purpose of a summative assessment is to gauge the students’ accrued knowledge.  These can take the form of exams, observed programming, submitted projects and reports. The emphasis should not be on helping the student to learn, but determining whether each student has met the module learning outcomes.
 - From the students’ perspective: “What would I be able to do if I have met module learning outcome X?”
 - What module learning outcomes do I need to evaluate the students on?
@@ -40,10 +40,10 @@ The purpose of a summative assessment is to gauge the students’ accrued knowle
 ## Brainstorm Assignment Ideas
 Once you have answered these questions, you should be starting to have a very high-level view of **what you want from this assignment,** and (for Formative) **what you want the students to get out of it**.  Now for a big jump...
 
-### Formative
+#### Formative
 Looking back at what learning outcomes you want to help the students achieve in this assignment, brainstorm (preferably with someone else) some ideas on interesting activities that will give students low-stakes opportunities to practice those outcomes in a way that is engaging as well as informative.  
 
-### Summative
+#### Summative
 Looking back at what learning outcomes you want to evaluate in this assignment, brainstorm (preferably with someone else) on how to test those specific areas of knowledge, preferably with as little dependence on other learning outcomes as possible.
 
 ## Sketch the Assignment
@@ -56,7 +56,7 @@ Just because an assignment is fun, doesn’t necessarily mean it does what we wa
 Unsurprisingly, one key to good assignment design is ensuring you’re actually awarding grades based on what you want the students to learn (or to have learned already, in the case of summative assessments). You’ve already determined what module outcomes you’re addressing, so the next step is to draw up a grading criteria sheet.  A grading criteria sheet is to a rubric as a tadpole is to a frog - sort of an infant-stage in the development. In this you’ll tie in objectives in the assignment to learning outcomes.  Good labels for these fields are “developing, meeting, exceeding”. An partial example might look like the table below. The “Exceeding” column will likely be empty for many of your rows, but it’s a good place to slot in potential extra credit.
 
 
-| Outcome: Use tools to clean and transform datasets for use in database systems |
+##### Outcome: Use tools to clean and transform datasets for use in database systems
 | :Criteria: | :Developing: | :Meeting: | :Exceeding: | 
 | ----- | ----- | ----- | ----- |
 |Data converted to CSV or TSV | CSV or TSV formatted, but errors handling quotes/commas in fields or NULL fields. | CSV formatted, no errors due to quotes/commas NULL fields | Meets Criteria, and also supports extended character sets (e.g. Unicode) |
