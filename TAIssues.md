@@ -17,5 +17,11 @@ In general, it is easy to remedy these issues if you have established a rapport 
 
 **NOTE:** It is vital that you document this process.  Keep the emails, and write up some notes after any meetings.  
 
+## Alternate Resolution Possibilities 
+From time to time I've had to resort to more extreme measures to get the wheels back on the wagon. I wouldn't suggest jumping into any of these early, or using any of them frequently, but they can be useful in the right situation.
+- For GTAs, speaking with their advisor can radically shift their priorities. This will likely destroy any rapport you've established.
+- Shifting their duties, as mentioned in the upper section, can be an efficient and practical method, but coordinating this with the other TAs is sometimes quite difficult.
+- If all else fails, ask for a replacement GTA or recruit an undergrad TA to take over the duties which are being neglected.
+
 ## TA Evaluation
-Part of the reason we keep these records is for TA evaluation. for undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the GTA evaluation form.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html).
+Part of the reason we keep records of these interactions is for TA evaluation. for undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the GTA evaluation form.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html).
