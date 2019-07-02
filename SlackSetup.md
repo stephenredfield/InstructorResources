@@ -10,7 +10,7 @@ NOTE: You can also view a [Demo](https://slackdemo.com/) which Slack has put out
 
 ## Connecting to our Departmental Workspace
 After you've downloaded Slack, when you boot it up you should arrive at a login similar to the following. 
-![Slack Homepage](images\SlackWorkspaceConnection.png "Slack Homepage")
+![Slack Homepage](images/SlackWorkspaceConnection.png "Slack Homepage")
 Please connect to the Workspace [**__oregonstate.enterprise.slack.com__**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
 
 Here's how we use the Departmental Slack:
@@ -26,7 +26,7 @@ Now that you're set up and ready to go, it's time to create a Workspace for your
 
 1. Sign on to [TEACH](https://teach.engr.oregonstate.edu/) using your department login.  The login info is the same as your ONID login, but this requires an ENGR account. If you don't have one yet, please [contact support](https://it.engineering.oregonstate.edu/webform/email-support-engineering-it) to have one set up for you.
 2. Select Class Administration from the TEACH navigation bar   
-![Teach Navigation Bar](images\TeachClassAdministration.png "Teach Navigation Bar")
+![Teach Navigation Bar](images/TeachClassAdministration.png "Teach Navigation Bar")
 3. Select "Class Slack Workspace" and "Add a new class slack workspace".
 4. Select your new course from the Course List menu, add your TAs' ONID usernames to the "Special list members (TA's, etc):", separated by commas, and hit SUBMIT!   
 *Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
@@ -34,18 +34,18 @@ That's it! Your students will be automatically added and you'll be the Workspace
 
 ## Configuring your Class Workspace
 Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Administration" heading)
-![Slack Workspace Settings](images\SlackWorkplaceSettings.png "Slack Workspace Settings")
+![Slack Workspace Settings](images/SlackWorkplaceSettings.png "Slack Workspace Settings")
 - Change Workspace Info
   - In the Workspace Settings, under the "Settings" tab find "Workspace Name, Description, and URL."
   - Alter the Name and Description to be more intuitive for the students, but don't touch the URL   
-  ![Slack Change Workspace Info](images\SlackChangeWorkspaceInfo.png "Slack Change Workspace Info")
+  ![Slack Change Workspace Info](images/SlackChangeWorkspaceInfo.png "Slack Change Workspace Info")
 - Update Workspace Icon 
   - In the Workspace Settings, under the "Settings" tab find "Workspace Icon"
   - Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) and upload it as the Workspace Icon. This will make it easier to navigate to the correct class' workspace for students and yourself.
 - Set up landing channel
   - It is important for the landing channel to be a neutral environment for our students.  Slack gives us two channels by default (#general and #random) but we can only easily restrict contribution permissions for #general so we will use it as an entry point.  First we'll have to rename it to #announcements.
   - Back in your Slack app in your class Workspace, enter the #general channel and select the Settings wheel for it...   
-  ![Slack Channel Settings Gear](images\SlackChannelSettingsWheel.png "Slack Channel Settings Gear")
+  ![Slack Channel Settings Gear](images/SlackChannelSettingsWheel.png "Slack Channel Settings Gear")
   - Choose "Additional Options" then "Rename this Channel" and rename the channel to "announcements"
   - Back in your Workspace Settings (not the Slack App) under the "Permissions" tab, expand "Messaging", and then set "People who can post to #announcements" to "Workspace Owners and Admins only".  This will lock down the channel so only you and your TAs can post here. Mission Accomplished!
 - Set up new **__#general__** channel   
