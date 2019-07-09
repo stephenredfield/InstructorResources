@@ -52,34 +52,34 @@ Now that you have a Slack Workspace for your class, it's time to get it properly
   - In the Workspace Settings, under the "Settings" tab find "Workspace Icon"
   - Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) and upload it as the Workspace Icon. This will make it easier to navigate to the correct class' workspace for students and yourself.
 - Set up landing channel
-  - It is important for the landing channel to be a neutral environment for our students.  Slack gives us two channels by default (#general and #random) but we can only easily restrict contribution permissions for #general so we will use it as an entry point.  First we'll have to rename it to #announcements.
-  - Back in your Slack app in your class Workspace, enter the #general channel and select the Settings wheel for it...  
+  - It is important for the landing channel to be a neutral environment for our students.  Slack gives us two channels by default (**_\#general_** and **_\#random_**) but we can only easily restrict contribution permissions for **_\#general_** so we will use it as an entry point.  First we'll have to rename it to **_\#announcements_**.
+  - Back in your Slack app in your class Workspace, enter the **_\#general_** channel and select the Settings wheel for it...  
   ![Slack Channel Settings Gear](images/SlackChannelSettingsWheel.png "Slack Channel Settings Gear")
   - Choose "Additional Options" then "Rename this Channel" and rename the channel to "announcements"
-  - Back in your Workspace Settings (not the Slack App) under the "Permissions" tab, expand "Messaging", and then set "People who can post to #announcements" to "Workspace Owners and Admins only".  This will lock down the channel so only you and your TAs can post here. Mission Accomplished!
-- Set up new **__#general__** channel  
-  Every student who joins your workspace will now land in *#announcements* but be unable to post there.  This makes it a good place to post announcements, but we've now robbed ourselves of a *#general* channel. We'll have to make a new one and provide a link for students to "opt in" to that channel, and then we can use it for office hours and other synchronous communications.
-  - To create a new channel, within the Slack application's navigation bar, next to the "Channels" heading there should be a ⊕. Click this button to create a new #general channel and define it's purpose.
-  - A "channel purpose" is displayed to all who join that channel - you can set this one for however you intend to use it, but we'll need the purpose for the #announcements channel for something special.
-- Provide students a link to your new **__#general__** channel.
-  - Since Slack doesn't allow students the anonymity which Piazza does, we need to let our students 'opt in' to our class-oriented Slack channel.  We now have all the channels we need, but the students don't have any way to see the #general channel. Let's give them a link.
-  - Back in your #announcements channel, go back to the channel settings (See "Set up landing channel" image for help)
+  - Back in your Workspace Settings (not the Slack App) under the "Permissions" tab, expand "Messaging", and then set "People who can post to **_\#announcements_**" to "Workspace Owners and Admins only".  This will lock down the channel so only you and your TAs can post here. Mission Accomplished!
+- Set up new **_\#general_** channel  
+  Every student who joins your workspace will now land in **_\#announcements_** but be unable to post there.  This makes it a good place to post announcements, but we've now robbed ourselves of a *#general* channel. We'll have to make a new one and provide a link for students to "opt in" to that channel, and then we can use it for office hours and other synchronous communications.
+  - To create a new channel, within the Slack application's navigation bar, next to the "Channels" heading there should be a ⊕. Click this button to create a new **_#general channel and define it's purpose.
+  - A "channel purpose" is displayed to all who join that channel - you can set this one for however you intend to use it, but we'll need the purpose for the **_#announcements channel for something special.
+- Provide students a link to your new **_\#general_** channel.
+  - Since Slack doesn't allow students the anonymity which Piazza does, we need to let our students 'opt in' to our class-oriented Slack channel.  We now have all the channels we need, but the students don't have any way to see the **_\#general_** channel. Let's give them a link.
+  - Back in your **_\#announcements_** channel, go back to the channel settings (See "Set up landing channel" image for help)
   - Select "Additional Options" and "Set the channel purpose"
   - Set the purpose to something like the following. The purpose will be visible until the posts of the channel push it off the screen.  
-  "This channel is for class-wide communication and announcements. All members are in this channel by default, but only Instructors/TAs may post. For class discussion and office hours, please use the #general channel."
-  - At the top of the channel there is a spot to set the channel topic. Set the topic to "Join #general for office hours and class discussion" or something along those lines.
-  - You may also elect to keep a link to *#general* in the body of the most recent message in the channel.
-  - The point here is to always provide a visible link to *#general* for students 'just now' joining your workspace or viewing it for the first time.
+  "This channel is for class-wide communication and announcements. All members are in this channel by default, but only Instructors/TAs may post. For class discussion and office hours, please use the **_\#general_** channel."
+  - At the top of the channel there is a spot to set the channel topic. Set the topic to "Join **_\#general_** for office hours and class discussion" or something along those lines.
+  - You may also elect to keep a link to **_\#general_** in the body of the most recent message in the channel.
+  - The point here is to always provide a visible link to **_\#general_** for students 'just now' joining your workspace or viewing it for the first time.
   
 ## Recommended Channels
 
 Some additional channels you may elect to use:
 
-- *#administration* (private)  
+- **_\#administration_** (private)  
 Used to communicate with your TAs.
-- *#ta_discussion* (private to your TAs)  
+- **_\#ta_discussion_** (private to your TAs)  
 Used among your TAs to discuss their duties.  We recommend you are not a member of this channel.
-- *#random* (a default channel)  
+- **_\#random_** (a default channel)  
 Off-topic discussions within your course.
 
 ## Encouraging Use of Slack
