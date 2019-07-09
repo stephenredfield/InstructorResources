@@ -34,6 +34,7 @@ See [Proctored Exams](ProctoredExams.html)
 ## Canvas Syllabus Page Requirements
 
 Details and necessary files are in the [Online CS Program Canvas page](https://oregonstate.instructure.com/courses/1622724) under Files =>  “Week 0 Materials & Video”
+
 - [ ] **The following materials are part of the Canvas “Syllabus” page, and are presented by HTML tabs.**
 - [ ] **TAB: Course Introduction**
   - [ ] **Meet the Instructor Video** (Course instructor self-intro, background, etc)
