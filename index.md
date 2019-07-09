@@ -9,7 +9,7 @@
   - ABET
 - Course Setup
   - Textbook Requisitions
-  - Week 0
+  - [Week 0](Week0List.html)
   - [Proctored Exams](ProctoredExams.html)
   - Adding TAs
 - Succeeding at Student Engagement
