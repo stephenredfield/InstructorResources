@@ -66,11 +66,10 @@ NOTE: If you do directly email ProctorU, you should request the grant the additi
 - Alternate Exam  
 This is essentially the same as the first option, but you'll make a separate Canvas Quiz and notify eCampus (or the student's proctor) of the Canvas Quiz name.
 
-#### Suspected Academic Misconduct
+#### Suspected Academic Misconduct or Exam Rule Violation
 
+When a proctor suspects academic misconduct, they report it to our eCampus Testing coordinator.  The coordinator will review the case and email you with their thoughts.  It is strongly recommended to request the recorded session so you can review it yourself and make a determination.  If you do believe the student violated the rules of the exam, [Submit a Academic Misconduct report](https://cm.maxient.com/reportingform.php?OregonStateUniv&layout_id=6).  You can read more about the student code of conduct [HERE](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty).
 
+### Life Emergency
 
-#### Rule Violation
-
-
-### Loss of connectivity
+Our students are people, just like we are... and just like we do, they sometimes have urgent concerns which override their academic pursuits.  It is our believe as a Program that we should be as accommodating as possible of these unplanned and unexpected emergencies.  Any life-changing circumstance which could not be planned for merits an expanded window of availability for an exam.  If this concerns the Final Exam, consider offering the student an [Incomplete](https://registrar.oregonstate.edu/incomplete-grade-policy) and allowing them to finish the course at a later time.  Please note, however, that Incomplete grades can only be offered if the student is *passing the class at the time of the request*. For more info, see the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0).
