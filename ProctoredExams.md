@@ -8,7 +8,7 @@ There are a few things to keep in mind when setting up a proctored exam in Canva
 
 ### Minimum Open Window  
 
-The OnlineCS Program has determined a bare minimum accessibility window of four days for exams, at least one of which should be on a weekend.  This allows the greatest availaibility for our students, who otherwise may not be able to set aside enough time for a fair attempt.
+The Online CS Program has determined a bare minimum accessibility window of four days for exams, at least one of which should be on a weekend.  This allows the greatest availaibility for our students, who otherwise may not be able to set aside enough time for a fair attempt.
 
 ### Begin and End Exam when you will be Available
 
@@ -16,10 +16,10 @@ Issues happen with proctored exams.  Proctors can receive incorrect information 
 
 ### Passwords  
 
-- Character Sets for Passwords  
+- **Character Sets for Passwords**  
 Because some proctoring centers are not exceptionally tech-savvy, it is best practice to avoid special or similar characters and conflicting characters such as 0,O,\<,\>,\#,1,l,I in your password selection.  This helps avoid complicating the connection process for our students.
 
-- Update Passwords  
+- **Update Passwords**  
   It is generally best practice to update the exam password every term.  If you have trouble thinking up new passwords, you can use a password generator such as [this one](https://passwordsgenerator.net/).
 
 ## Setting Up a Proctored Exam
@@ -60,10 +60,10 @@ If something out of the ordinary occurs during a proctoring session you will rec
 
 If a student's connection drops for a significant amount of time, you may hear about it in an incident report.  Unfortunately, there is a massive grey area in what is considered significant enough to require a report, and your students may have lost time for various reasons without you ever hearing about it, especially if the student doesn't complain to their proctor.  If you do hear about it, there are a number of ways to handle this, and whichever you pick is up to you.
 
-- Full or Partial Exam Retake  
+- **Full or Partial Exam Retake**  
 To allow this, add an attempt in Canvas and ensure the student's Assignment window includes enough time for them to reschedule the exam.  You'll also have to notify their proctor.  In general you can message eCampus Testing (ecampustesting@oregonstate.edu) to notify them of the retake and extension, so they can communicate that information to the student's proctor.  If the student's Proctor is ProctorU, you can also directly message them (passwords@proctoru.com) 24/7 to expedite matters.  
 NOTE: If you do directly email ProctorU, you should request the grant the additional attempt at no charge to the student.
-- Alternate Exam  
+- **Alternate Exam**  
 This is essentially the same as the first option, but you'll make a separate Canvas Quiz and notify eCampus (or the student's proctor) of the Canvas Quiz name.
 
 #### Suspected Academic Misconduct or Exam Rule Violation
