@@ -1,9 +1,11 @@
 # Suggested TA Roles and Duties
+
 Teaching assistants (GTAs) can be invaluable to the success of your course. Learning the best way to utilize these people is vital.
 The most critical duty of a TA is to know the material in the class they are assigned. Graduate TAs will start their assignment 1-4 weeks before the beginning of the term so it is imperative that the GTA has access to the syllabus so they can determine any deficiencies and learn the material.
 NOTE: Much of this document is taken from, or adapted from, the EECS GTA Guide.
 
 Duties of a GTA may include:
+
 - Holding "office hours" via Slack
 - Testing and grading both written and programming assignments. (TAs will need to learn any software used to grade programming assignments.)
 - Preparing solutions to homework assignments
@@ -16,6 +18,7 @@ Duties of a GTA may include:
 - Holding help and review sessions
 
 A more experienced GTA may be given more advanced duties for the course, such as...
+
 - Designing or testing new quizzes and homework assignments
 - Generating or testing grading rubrics
 - Creating a supplementary video
@@ -24,6 +27,7 @@ A more experienced GTA may be given more advanced duties for the course, such as
 - Creating active learning modules
 
 For large classes with many GTAs, a lead GTA may be identified who will primarily manage the other TAs for a course and may have duties such as:
+
 - Manage GTAs.
   - Ensure grading is done on time and correctly.
   - Organize office hours/meetings.

@@ -1,6 +1,7 @@
 # Directory of Resources
 
 ## Course Facilitation
+
 - Course Requirements
   - Syllabus
   - Week 0 Module
@@ -24,12 +25,14 @@
   - Program-wide Tools
 
 ## Regarding TAs and GTAs
+
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
 - Recruiting Undergrad TAs
 - [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
 ## Course Design
+
 - Course learning Outcomes (CLOs)
 - Designing a Syllabus
 - Module Learning Outcomes (MLOs)
@@ -38,6 +41,7 @@
   - Assignment & Rubric Design
 
 ## Improving as an Instructor
+
 - Promotion
 - Continuing Education & Professional Development
   - Oregon State Resources
