@@ -8,8 +8,9 @@
   - CLOs
   - ABET
 - Course Setup
+  - Textbook Requisitions
   - Week 0
-  - Proctored Exams
+  - [Proctored Exams](ProctoredExams.html)
   - Adding TAs
 - Succeeding at Student Engagement
   - Online Presence
@@ -33,7 +34,7 @@
 
 ## Course Design
 
-- Course learning Outcomes (CLOs)
+- Course Learning Outcomes (CLOs)
 - Designing a Syllabus
 - Module Learning Outcomes (MLOs)
 - Assignments
@@ -48,3 +49,4 @@
   - Other Resources
 - Advanced Degrees
   - Faculty as Student at OSU
+- Leadership Techniques
