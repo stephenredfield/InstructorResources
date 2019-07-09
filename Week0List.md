@@ -19,7 +19,7 @@ See [Slack – How To](SlackSetup.html)
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
 ([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9))
 
-- **ReadMe First Page**  
+- [ ] **ReadMe First Page**  
 A page within your course (possibly in the first Module) which will orient the student within your course. I usually use this as my “Home Page” for the first week of each term. May include items such as...  
   1. Course Assignment Overview
   2. Keys to Success
@@ -28,7 +28,7 @@ A page within your course (possibly in the first Module) which will orient the s
   5. Link to course Syllabus Page (syllabus)
   6. …
 
-- **Set up any proctored exams at Exams & Proctoring Site**  
+- [x] **Set up any proctored exams at Exams & Proctoring Site**  
 See [Proctored Exams](ProctoredExams.html)
 
 ## Canvas Syllabus Page Requirements
