@@ -4,7 +4,7 @@
 
 - Course Requirements
   - [Syllabus](Syllabus.html)
-  - Week 0 Module
+  - [Week 0 Module](Week0List.html)
   - CLOs
   - ABET
 - Course Setup
