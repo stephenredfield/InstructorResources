@@ -3,7 +3,7 @@
 ## Course Facilitation
 
 - Course Requirements
-  - Syllabus
+  - [Syllabus](Syllabus.html)
   - Week 0 Module
   - CLOs
   - ABET
@@ -21,7 +21,7 @@
   - Assignment Extensions
   - Student Groups
   - DAS Info
-  - Academic Misconduct (Cheating, Plagiarism, etc.)
+  - [Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
   - Override/Transfer Requests
   - Program-wide Tools
 
