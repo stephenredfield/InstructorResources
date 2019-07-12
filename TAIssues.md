@@ -10,6 +10,7 @@
 - Out of the country (See “GTA Guide”)
 
 ## Standard Resolution Techniques
+
 In general, it is easy to remedy these issues if you have established a rapport with the TA, and are sensitive to any issues they may be going through. See Ben Brewster's Leadership Tips \*\*\*RESOURCE TBDev\*\*\* for help doing this.  Keeping these tips in mind, here are some possible remediation paths.
 
 - Send reminders and Inquire with Empathy  

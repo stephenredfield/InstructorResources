@@ -68,7 +68,7 @@ This is essentially the same as the first option, but you'll make a separate Can
 
 #### Suspected Academic Misconduct or Exam Rule Violation
 
-When a proctor suspects academic misconduct, they report it to our eCampus Testing coordinator.  The coordinator will review the case and email you with their thoughts.  It is strongly recommended to request the recorded session so you can review it yourself and make a determination.  If you do believe the student violated the rules of the exam, [Submit a Academic Misconduct report](https://cm.maxient.com/reportingform.php?OregonStateUniv&layout_id=6).  You can read more about the student code of conduct [HERE](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty).
+When a proctor suspects academic misconduct, they report it to our eCampus Testing coordinator.  The coordinator will review the case and email you with their thoughts.  It is strongly recommended to request the recorded session so you can review it yourself and make a determination.  If you do believe the student violated the rules of the exam, [Submit a Academic Misconduct report](https://cm.maxient.com/reportingform.php?OregonStateUniv&layout_id=6).  You can read more about the student code of conduct [HERE](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) or check the page on it [HERE](AcademicMisconduct.html).
 
 ### Life Emergency
 
