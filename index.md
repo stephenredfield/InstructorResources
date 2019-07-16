@@ -30,6 +30,7 @@
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
 - Recruiting Undergrad TAs
+- [GTA Preference System](GTAPreferences.html)
 - [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
 ## Course Design
