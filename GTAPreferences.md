@@ -30,8 +30,6 @@ These are GTAs whose funding is already guaranteed, either out of department fun
 
 Generally 70-90 students apply for about 50-60 positions.  These students know the best way to get a TA position is to have an instructor *prefer* them.  These students may contact you to request a preference, at which point you might like to ask about their qualifications.  That being said, entering a preference *for* a GTA in the system is not a guarantee due to the complexity of the assignment process and the need to account for PhD vs. MS, students close to graduation vs. new students, students making good academic progress vs. those who are stagnating, etc...
 
-##
-
 ## Notes
 
 - The Graduate Coordinator attempts to stay close to the following Student:GTA FTE ratio
