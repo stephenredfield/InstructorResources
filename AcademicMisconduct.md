@@ -35,7 +35,7 @@ Once you have identified a case where you believe Academic Misconduct has occurr
 ### Filing Tips
 
 - TAs are allowed to help you pull together supporting evidence.
-- Check any boxes (Plagiarism, Cheating, Assiting, etc) you think *may* have occurred. The College Hearing Officer will make a final determination.
+- Check any boxes (Plagiarism, Cheating, Assisting, etc) you think *may* have occurred. The College Hearing Officer will make a final determination.
 - The standard penalty set by the College of Engineering is "Penalty on Assignment" (0 points).  
 NOTE: Even if you make a suggestion for a greater penalty, the College will not approve it.
 - For programming assignments, you should attach all relevant files and/or websites for each submission.  It also helps if you clearly note (in a separate document or in a notes field) the sections of the program that the College Hearing Officer should look at when investigating.

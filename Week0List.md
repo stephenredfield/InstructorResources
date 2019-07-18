@@ -43,7 +43,7 @@ Details and necessary files are in the [Online CS Program Canvas page](https://o
   - Instructional Strategies (discusses reason for strategies used in the course)
   - Assessment Rationale (discusses reason for assessments in the course)
 - **TAB: Syllabus & Schedule**
-  - **Course Syllabus** 
+  - **Course Syllabus**
    Must be either a linked, downloadable PDF or HTML with a “Download Me!” button to generate a downloadable PDF
   - **Course Schedule**  
   Must be either a linked, downloadable PDF or HTML with a “Download Me!” button to generate a downloadable PDF

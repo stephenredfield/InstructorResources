@@ -5,7 +5,7 @@
 Questions to ask yourself before you start designing the assignment. (Answer if you can, and save these answers for later!)
 
 - What course/module learning outcomes should this assignment support?
-- What degree of support structure and material is provided to the students to ease the barriers to learning? 
+- What degree of support structure and material is provided to the students to ease the barriers to learning?
 - What other assignments/assessments are in progress during the time this assignment active?
 - How much time does a student have available to work on this assignment? Remember students should only have to dedicate 12 hours/week to the class, which includes learning the material and engaging in other content.
 - Who will review/test this assignment before deployment?

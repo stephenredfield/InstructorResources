@@ -4,7 +4,7 @@
 
 - Late on Grading duties
 - Missed Office Hours
-- Complains about th enumber of work hours per Week
+- Complains about the number of work hours per Week
 - Rude to Students
 - Doesn’t know material
 - Out of the country (See “GTA Guide”)

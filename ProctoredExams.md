@@ -8,7 +8,7 @@ There are a few things to keep in mind when setting up a proctored exam in Canva
 
 ### Minimum Open Window  
 
-The Online CS Program has determined a bare minimum accessibility window of four days for exams, at least one of which should be on a weekend.  This allows the greatest availaibility for our students, who otherwise may not be able to set aside enough time for a fair attempt.
+The Online CS Program has determined a bare minimum accessibility window of four days for exams, at least one of which should be on a weekend.  This allows the greatest availability for our students, who otherwise may not be able to set aside enough time for a fair attempt.
 
 ### Begin and End Exam when you will be Available
 

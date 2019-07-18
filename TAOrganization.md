@@ -1,6 +1,6 @@
 # TA/Course Organization
 
-Ideally, your course was designed with assessment in mind. The amount of feedback a GTA can give is proportional to the amount of time they’re given on a per-assignment basis when grading. Automating repetitive, quantitative portions will allow GTAs to focus their time on providing more valuable, qualitative feedback. The rest of this page should help you get the most out of your TAs by frontloading some organizational work.
+Ideally, your course was designed with assessment in mind. The amount of feedback a GTA can give is proportional to the amount of time they’re given on a per-assignment basis when grading. Automating repetitive, quantitative portions will allow GTAs to focus their time on providing more valuable, qualitative feedback. The rest of this page should help you get the most out of your TAs by front-loading some organizational work.
 
 ## Define tasks/schedule at beginning of term
 
@@ -32,6 +32,6 @@ Formal evaluations of GTAs are required by the [CGE-OSU contract (Article 15)](h
 - possessed, demonstrated or showed the ability to learn the technical and academic content necessary to answer student questions, competently grade, and perform other duties for this particularly class; and
 - performed tasks on time, responded quickly and professionally to emails and other communications, showed up to meetings and office hours on time, and acted ethically, fairly and consistently.
 
-At the end of the academic year, this feedback will be summarized in an evaluation letter and made available to the GTA. GTAs who do not meet expectations in one or both aspects will be informed in writing with constructive criticism and a plan for improving performance as soon as possible, ideally before the start of a new academic quarter. If a GTA continues to underperform, despite notice and progressive and commensurate intervention, the GTA’s contract may be suspended or the student may become ineligible for a GTA position in the future. Students may refute any charges and may seek the support of Union representatives. Refer to Article 17 of the CGE-OSU contract for details.
+At the end of the academic year, this feedback will be summarized in an evaluation letter and made available to the GTA. GTAs who do not meet expectations in one or both aspects will be informed in writing with constructive criticism and a plan for improving performance as soon as possible, ideally before the start of a new academic quarter. If a GTA continues to under-perform, despite notice and progressive and commensurate intervention, the GTA’s contract may be suspended or the student may become ineligible for a GTA position in the future. Students may refute any charges and may seek the support of Union representatives. Refer to Article 17 of the CGE-OSU contract for details.
 
 Above all else, the aim is to improve the performance of our GTAs so that our classes run smoothly and the educational experience for both undergraduate and graduate students is a positive one. The School of EECS will also recognize our most outstanding GTAs with awards at the end of the academic year.
