@@ -8,9 +8,7 @@ The TA preference entry system is still under development. It will have the foll
 
 - A method to select the course for which you're assigning preferences
 - A list of available graduate TAs
-- Some information provided by these TAs
-  - What their preferred classes are
-  - Possibly some information regarding concept knowledge
+- What the potential GTA's class preferences are
 - A method of entering a preference for each potential GTA
   - Prefer
   - Neutral
