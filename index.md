@@ -6,7 +6,7 @@
   - [Syllabus](Syllabus.html)
   - [Week 0 Module](Week0List.html)
   - CLOs
-  - ABET
+  - [ABET](ABETGuide.html)
 - Course Setup
   - Textbook Requisitions
   - [Week 0](Week0List.html)
