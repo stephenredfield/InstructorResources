@@ -7,6 +7,7 @@
   - [Week 0 Module](Week0List.html)
   - CLOs
   - [ABET](ABETGuide.html)
+  - [Course Grades (Final & Spring Preliminary)](FinalGrades.html)
 - Course Setup
   - Textbook Requisitions
   - [Week 0](Week0List.html)

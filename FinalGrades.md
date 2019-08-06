@@ -2,8 +2,6 @@
 
 All students who finished the class without withdrawing need to receive a final grade.  This includes students who you have elected to offer Incomplete grades to.  Check the [Incomplete Grades Guide](Incompletes.html) for more info on requirements and implementation of the Incomplete process.
 
-_NOTE: This document is intended for Final Grades. There is a separate document for [Spring Term Preliminary Grades](PreliminaryGrades.html)._
-
 ## Pulling Data from Canvas
 
 ### Final Grade Data
@@ -36,7 +34,7 @@ _NOTE: For these students, the final grade should I/X where X is the letter grad
 
 ## Uploading Grades
 
-1. Access the OSU Final Grades Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
+1. Access the MyOSU Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
 2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Final Grades Menu** and finally **Final Grades - File Upload**.
 3. Select the term you wish to enter grades for.  
 _NOTE: From this point on, if you wish to change the Term or Course you may click **RETURN TO MENU**, then **Final Grades Menu** and finally **Term Selection** or **CRN Selection** links._
@@ -59,5 +57,26 @@ It's always a good idea to check your work.  To verify there are no missing fina
 
 Sometimes we have a reason to modify an existing grade.  There is a period of approximately one week after the grading window closes (5pm Monday after the term ends for Fall/Winter/Spring) where we cannot make changes, but outside that window we can change a final grade at any time. To do so...
 
-1. Access the OSU Final Grades Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
+1. Access the MyOSU Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
 2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Final Grades Menu** and finally **Final Grades - Change Posted Grades**.
+
+## Spring Term Preliminary Grades
+
+The University must begin the process of issuing diplomas earlier in Spring Term than the final grade data is available.  To deal with this, we have a process wherein we will issue preliminary grades about halfway through Spring Term.  These are relevant only if the student is failing. Depending on your course, you may have only a few of these or your entire class might have applied for graduation.  For smaller student groups, you may use Keyed Entry, but for larger groups it is recommended to generate a file as follows.
+
+1. While in Grade Center, click the Settings Gear.
+2. Ensure the box _"Treat Ungraded as 0"_ is unchecked.  
+This will ensure that only already-graded assignments will contribute to the generated grade. If the student has missed submission of already-due assignments, issuing a 0-grade at this time is appropriate.
+3. From the _Grade Center_, click **Export**.
+4. Click **CSV File**.  
+This will download the grades as a comma-separated file.
+5. Open the downloaded spreadsheet in the editor of your choice. 
+6. _(Optional)_ Delete unneeded columns
+The only data columns required for grade submission are **SIS User ID** and **Unposted Current Grade**, though it is recommended to keep **Student** as well.
+
+To access the entry portal...
+
+1. Access the OSU Final Grades Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
+2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Spring Term Preliminary Grades Menu** and finally **Preliminary Grades - File Upload** or **Preliminary Grades - Keyed Entry**.
+
+After this point, upload is identical to Final Grades.
