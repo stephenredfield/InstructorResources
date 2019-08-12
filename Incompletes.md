@@ -4,15 +4,15 @@
  
  The purpose of an Incomplete grade is to allow a student to fulfill any remaining course requirements (Assignments, Exams, etc.) outside the normal boundaries of the term they registered. Some key sections of Incomplete policy and practice will be discussed here, but you can refer to the [Incomplete Grade Policy](https://registrar.oregonstate.edu/incomplete-grade-policy) and the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0) for more details.
 
- ## Why an Incomplete?
+## Justification
 
 An incomplete grade is something an Instructor does of their own volition, to benefit a student.  They are not mandatory, and there are few actual policies set for them. There is nothing which says an Instructor _MUST_ provide an Incomplete option for students who meet some criteria, and so it is up to the Instructor to decide whether the student's situation merits one.  The Incomplete simply offers them a longer window to submit the course materials - it does not eliminate or reduce that workload.
 
-## When an Incomplete?
+## Requirements
 
 By University policy, the student applying for an Incomplete must be passing the course at the time of the request.  Beyond this, there is no timeline the student must meet for their request.  That being said, if the student is applying for an Incomplete prior to the **Last Day to Withdraw** it is recommended to have them speak to their advisor about other options.
 
-## How an Incomplete?
+## Process
 
 The process for Incomplete grades is actually quite simple!  The Registrar's office recommends completing a [Contract for Completion of I Grade](https://registrar.oregonstate.edu/sites/registrar.oregonstate.edu/files/forms/contract-for-completion-of-incomplete-i-grade.pdf) so you have some deadline structure to use as a basis for gauging student work.  This also helps the student know what they're getting themselves into!  Beyond that, the only difference from a normal term work is application of grades.
 
