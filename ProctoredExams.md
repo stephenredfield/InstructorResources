@@ -72,4 +72,18 @@ When a proctor suspects academic misconduct, they report it to our eCampus Testi
 
 ### Life Emergency
 
-Our students are people, just like we are... and just like we do, they sometimes have urgent concerns which override their academic pursuits.  It is our believe as a Program that we should be as accommodating as possible of these unplanned and unexpected emergencies.  Any life-changing circumstance which could not be planned for merits an expanded window of availability for an exam.  If this concerns the Final Exam, consider offering the student an [Incomplete](https://registrar.oregonstate.edu/incomplete-grade-policy) and allowing them to finish the course at a later time.  Please note, however, that Incomplete grades can only be offered if the student is *passing the class at the time of the request*. For more info, see the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0).
+Our students are people, just like we are... and just like we do, they sometimes have urgent concerns which override their academic pursuits.  It is our believe as a Program that we should be as accommodating as possible of these unplanned and unexpected emergencies.  Any life-changing circumstance which could not be planned for merits an expanded window of availability for an exam.  If this concerns the Final Exam, consider offering the student an [Incomplete](https://registrar.oregonstate.edu/incomplete-grade-policy) and allowing them to finish the course at a later time.  Please note, however, that Incomplete grades can only be offered if the student is *passing the class at the time of the request*. For more info, see the [Incomplete Grades Guide](Incompletes.html).
+
+The process for offering exam extensions can be simple, depending on the proctors.
+
+1. Email eCampus Testing (ecampustesting@oregonstate.edu) and provide them with the following...
+    - Student Name
+    - Course Number / Section
+    - Exam Name
+    - New Deadline
+    - Any altered accommodations
+2. In Canvas, open the associated Quiz and select **Edit**.
+3. Under **Assign**.
+4. Under **Assign to** enter the name of the student being offered an extension and set the new timeframe for this student in **Due**, **Available from**, and **Until**.
+
+NOTE: If the incident requiring an extension occurs on the weekend, Ecampus Testing may not be able to get this done very quickly.  In that event, you may choose to email the proctor directly.  For ProctorU the appropriate email address is passwords@proctoru.com .
