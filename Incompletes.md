@@ -1,7 +1,7 @@
 # 'Incomplete' Course Grades
 
 ## Background
- 
+
  The purpose of an Incomplete grade is to allow a student to fulfill any remaining course requirements (Assignments, Exams, etc.) outside the normal boundaries of the term they registered. Some key sections of Incomplete policy and practice will be discussed here, but you can refer to the [Incomplete Grade Policy](https://registrar.oregonstate.edu/incomplete-grade-policy) and the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0) for more details.
 
 ## Justification
