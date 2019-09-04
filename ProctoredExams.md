@@ -28,6 +28,10 @@ Because some proctoring centers are not exceptionally tech-savvy, it is best pra
 
 Mostly this will be handled by your course designer, but there are a few things to keep in mind as you set up your exam in Canvas.
 
+#### Changing the Exam Password
+
+It is recommended to change the password to exams each term.
+
 #### Hiding solutions
 
 If you choose to reveal the exam solutions at a specified date, then when a course is forwarded to another term it should update the date automatically.  However, if you have done this manually in the past, then the setting to "Let Students See Their Quiz Responses" and "Let Students See The Correct Answers" will still be set.  Remember to un-check these boxes at the beginning of the term to avoid giving out answers while the exam is open.

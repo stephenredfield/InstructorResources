@@ -31,6 +31,9 @@ A page within your course (possibly in the first Module) which will orient the s
 -  **Set up any proctored exams at Exams & Proctoring Site**  
 See [Proctored Exams](ProctoredExams.html)
 
+-  **"Portfolio" assignment included in coursework**  
+With the exception of a few classes (CS101, CS161, CS225) all our online offerings must have one assignment designated as a *Portfolio assignment*.  Students must be authorized by the instructor to post the entirety of the assignment publicly (e.g. Github, personal website, etc...).  
+
 ## Canvas Syllabus Page Requirements
 
 Details and necessary files are in the [Online CS Program Canvas page](https://oregonstate.instructure.com/courses/1622724) under Files =>  “Week 0 Materials & Video”
