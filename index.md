@@ -21,7 +21,7 @@
 - Assorted
   - Assignment Extensions
   - Student Groups
-  - DAS Info
+  - [DAS Info](DAS.html)
   - [Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
   - Override/Transfer Requests
   - Program-wide Tools
