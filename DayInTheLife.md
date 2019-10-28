@@ -4,36 +4,40 @@ This page briefly describes activities to be engaged in as part of fulfilling bo
 
 ## Continuous Student Engagement
 
+[Online Presence](OnlinePresence.html) has been shown to increase both student success and student satisfaction, and is vital to our success individually and as a Program.
+
 Methods include:
 
 - Answering posted student questions.
 - Engaging with students on Slack - strike up a conversation in real time, in your course workspace or on the Hub.
 - Promptly answering student emails.
 - Sharing relevant personal stories - not just in response, but as a new thread of discussion.
+- Sharing relevant technology current events, also as a new thread.
 
-It is so easy to fall into the trap of thinking that the students are in a correspondence course or are engaging in a “self-directed tour” of your materials. The goal is not to just “clear the board” and leave Piazza, but to create new engagements with your students, however you can.
-*Reflection: How can I show my students that I am here and that I care?
+It is easy to fall into the trap of thinking that the students are in a correspondence course or are engaging in a “self-directed tour” of your materials. The goal is not to just “clear the board” and leave Piazza, but to create new engagements with your students, however you can.
+
+**_Reflection: How can I show my students that I am here and that I care?_**
 
 ## Correcting Obvious Flaws in Courses
 
-Students will frequently report issues with your course. These range from typos to dead links. Fix these obviously incorrect materials mid-course, as soon as you are able.
+Students will frequently report issues with your course. These range from typos and dead links to missing subtitles and references to deprecated course materials. These confuse and frustrate the students and make it seems like OSU and our instructors are unprofessional and don't care.  Fix obviously incorrect materials immediately, as soon as you are able.
 
 ## Modifying and Adding New Material
 
-The Course Owner will be in communication with you about writing new assignments and test questions. Normally, the Final needs to be updated at least in part every term. Often, assignments need to be updated so as to reduce the temptation for students to cheat.
+The Course Owner will be in communication with you about writing new assignments and test questions. Normally, any major exams need to be updated at least in part every term. Often, assignments need to be updated so as to reduce the temptation for students to cheat. This is especially relevant with [Portfolio assignments](PortfolioAssignments.html), which students are allowed to host publicly.
 
-Over the course of a term, all faculty engaged with a course should be collecting information about what students struggle with, or topics that could use expansion. These expansions should be added before the students can access that material, so as to not violate the general rule: “do not modify a running course”.
+Over the course of a term, all faculty engaged with a course should be collecting information about what students struggle with, or topics which would benefit from  expanded explorations. Any new course materials should be added before the students can access the module they're associated with, so as to not violate the general rule: “do not modify a running course”. If they cannot be, they should be pushed to the next term.
 
-Learning content changes in between formal redevelopments could include the following in consultation with the Course Owner:
+Changes to Learning content between formal redevelopments may include the following (in consultation with the Course Owner):
 
 - Assignment changes or variations
 - Final Exam questions
-- How-To videos that show how to use software
+- How-To videos showing software installation/usage
 - Written content that demonstrates a piece of code or technique
 - Links to webpages that could be used as additional references
 - Links to articles discussing the course’s learning content in current media
 
-*Reflection: What concept are the students always tripping on in my course?*
+**_Reflection: What concept are the students always struggling with in my course?_**
 
 ## Preparing for Future Redevelopments
 
@@ -44,7 +48,7 @@ Spend time thinking about the next time your course will be redeveloped. Conside
 - Develop a new visualization for your class.
 - Create a new simulator or simulation for a concept in your class, e.g. network traffic synchronization or memory access.
 
-*Reflection: What have I always wanted to do in this field, or in this class?*
+**_Reflection: What have I always wanted to do in this field, or in this class?_**
 
 ## Course development (new and old)
 
@@ -58,14 +62,16 @@ Your Supervisor and Program Director will help you find relevant and useful prof
 
 Keep track of all the things you do - you’ll need this when you write your list of accomplishments for your performance evaluation. Set your vision and goals and work towards them!
 
+More information can be found at [Continuing Education & Professional Development](CEandPD.html).
+
 ## A Night in the Life of an Online CS Teacher
 
-Because of the highly-connected experience of teaching online, be careful to keep a proper and healthy work/life balance. Carefully and clearly inform your students of to your availability. Consider these techniques:
+Because of the highly-connected experience of teaching online, be careful to keep a proper and healthy work/life balance. Carefully and clearly inform your students of to your availability, and stick to what you say. Consider these techniques:
 
-- Don’t work weekends or evenings
-- Be careful about answering late-night email, as it may create an expectation on the part of your
-students as to your availability. Sometimes you should!
-- Use your vacation time to fully disconnect. Have TAs or others organized to assist while you are absent, and get away!
-- If you have weekend deadlines, you’ll cause you and your TAs to work on the weekends - if not for grading purposes, then perhaps just for Q&A. Consider Mondays instead!
+- Don’t work weekends or evenings - instead, utilize TAs to cover these contact times.
+- Be careful about answering late-night email, as it may create an expectation on the part of your students as to your availability.
+- Use your vacation time to fully disconnect. Arrange ahead-of-time to have TAs or others assist with student engagement while you are absent, and get away!
+- Weekend deadlines basically guarantee a need for weekend online presence (yours and your TAs') for Q&A. Consider Weekday deadlines instead!
+- Consult with your fellow instructors for advice, and reach out to your supervisor if you're feeling overwhelmed.
 
-*Reflection: How can I maintain a healthy work/life balance?*
+**_Reflection: How can I maintain a healthy work/life balance?_**
