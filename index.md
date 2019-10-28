@@ -14,6 +14,7 @@
   - [Proctored Exams](ProctoredExams.html)
   - Adding TAs
 - Succeeding at Student Engagement
+  - [A Day in the Life of an Online CS Instructor](DayInTheLife.html) d
   - Online Presence
   - Student Feedback Suggestions
   - Driving Students to Slack
