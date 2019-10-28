@@ -33,7 +33,8 @@ Now that you're set up and ready to go, it's time to create a Workspace for your
 2. Select Class Administration from the TEACH navigation bar  
 ![Teach Navigation Bar](images/TeachClassAdministration.png "Teach Navigation Bar")
 3. Select "Class Slack Workspace" and "Add a new class slack workspace".
-4. Select your new course from the Course List menu, add your TAs' ONID usernames to the "Special list members (TA's, etc):", separated by commas, and hit SUBMIT!  
+4. Select your new course from the Course List menu
+5. Add your TAs' ONID usernames to the "Special list members (TA's, etc):", separated by commas, and hit SUBMIT!  
 *Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
 
 That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
