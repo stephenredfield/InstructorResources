@@ -1,12 +1,12 @@
 # Reimbursements
 
-The purpose of this document is to help you understand *when reimbursements can be filed*, and *how to file them*. In general, policies related to work-related reimbursements can be found in the [Fiscal Policy Manual](https://fa.oregonstate.edu/fiscal-program/fiscal-policy-manual), or more specifically the [Travel Section](https://fa.oregonstate.edu/fiscal-program/fiscal-policy-manual/travel) of that site.
+The purpose of this document is to help you understand *when reimbursements can be filed*, and *how to file them*. In general, al policies related to work-related reimbursements can be found in the exhaustive [Fiscal Policy Manual](https://fa.oregonstate.edu/fiscal-program/fiscal-policy-manual). Policies specific to Travel and Per Diem reimbursements can be found on the [Travel Section](https://fa.oregonstate.edu/fiscal-program/fiscal-policy-manual/travel) of that site.
 
 ## Qualifying for Reimbursement
 
 Approved Professional Development activities can be reimbursed from your $1,500/year Instructor Professional Development fund. Ecampus also fund some Professional Development activities. For details on getting a Professional Development activity approved see [Funding my Professional Development](FundingProfessionalDevelopment.html).
 
-Additionally, according to OSU Guidelines, any travel which requires you to leave 2 hours earlier, or arrive home 2 hours later than, your normal work day qualifies you for limited 'Per Diem'. Any travel to a location other than your normal work space also qualifies you for mileage reimbursement. There are some special cases (such as meals accompanying Faculty Hiring, or special events). If you have questions about whether something qualififes, contact [Tara DiSante](mailto:tara.disante@oregonstate.edu).
+Additionally, according to OSU Guidelines, any travel which requires you to leave 2 hours earlier, or arrive home 2 hours later than, your normal work day qualifies you for limited 'Per Diem'. Any travel to a location other than your normal work space also qualifies you for mileage reimbursement. There are some special cases (such as meals accompanying Faculty Hiring, or special events). If you have questions about whether something qualifies, contact [Tara DiSante](mailto:tara.disante@oregonstate.edu).
 
 ## General Reimbursement Guidelines
 
@@ -16,7 +16,7 @@ Additionally, according to OSU Guidelines, any travel which requires you to leav
 
 ## Filing for Reimbursement
 
-The current Reimbursement form can be found [HERE](...). When requesting reimbursement you should complete the fillable PDF form and send it, along with any required supporting paperwork (see below) as email attachments to [Tara DiSante](mailto:tara.disante@oregonstate.edu) (tara.disante@oregonstate.edu).
+To file for reimbursement you'll need the current [Travel Reimbursement Request Form](/docs/Travel&#32Reimbursement&#32Request&#32Form.pdf "Travel Reimbursement Request Form") and the [Travel Reference Sheet](/docs/2019&#32Travel&#32Reference&#32Sheet.pdf "Travel Reference Sheet") will also be useful (*NOTE: These files are distributed by email. If there are more up-to-date versions, please notify the Directory owner*). Complete the fillable PDF form and send it, along with any required supporting paperwork (see below) as email attachments to [Tara DiSante](mailto:tara.disante@oregonstate.edu) (tara.disante@oregonstate.edu). You may need to ask the event organizer or consult an MOU (or other funding request approval) for an Index number.
 
 - Receipts / Documents Required
   - Itinerary showing Business Purpose for Travel
