@@ -42,7 +42,7 @@
 - Module Learning Outcomes (MLOs)
 - Assignments
   - Assignment Requirements
-  - Assignment & Rubric Design
+  - [Assignment & Rubric Design](AssignmentRubricDesign.html)
 
 ## Improving as an Instructor
 
