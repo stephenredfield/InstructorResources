@@ -20,16 +20,19 @@ The only data columns required for grade submission are **SIS User ID** and **Un
 
 ### Last Date of Participation (Students with F's and Incompletes)
 
-For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
+For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes. First, in the downloaded grading spreadsheet, add a column for this data.  
 
-1. Sort the Grade Center by _Total_ so that all the F-grades are grouped together.
-2. For each student with an F for a final grade, click the student's name in Grade Center, then open the **Analytics** tool.
-3. In the **Activity by Date** section, locate the last day they viewed or interacted with the course.
-4. Back in the downloaded grading spreadsheet, add a column for this data.  
-_NOTE: Please ensure this column is not auto-formatted (in Excel, select the column, right-click, **Format Cells**, and select **Text**). If this isn't done, the date-format will be overwritten when you save the file and will not be accepted by the system for upload._
-5. Enter the last date of activity for each F-grade student in this column in the format MM/DD/YYYY (e.g. 01/04/2019).  
-_NOTE:  This format is required. The upload will fail for students who have date entries which don't match this format._
-6. Repeat this process for any students you'll be giving Incompletes to.  
+_NOTE: Ensure this column is not auto-formatted (in Excel, select the column, right-click, **Format Cells**, and select **Text**). If this isn't done, the date-format will be overwritten when you save the file and will not be accepted by the system for upload._
+
+#### For each student with an F grade...
+1. From the Course **Navigation** sidebar, select **People**.
+2. After the roster loads, search the student's name.
+3. Pull the **Last Activity** date.
+4. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
+_NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format._
+
+Repeat this process for any students you'll be giving Incompletes to.
+
 _NOTE: For these students, the final grade should I/X where X is the letter grade they'll receive if they never complete their course materials._
 
 ## Uploading Grades
