@@ -26,10 +26,15 @@ For each Assessment Method...
 1. Assessment Method Name
 2. Mean score (%)
 3. Median score (%)
-4. A PDF containing three samples of student work labeled as...
-   - High Quality
-   - Mean Quality
-   - Low Quality
+4. Assignment score percentages that you would consider to be...
+   - **Meet**ing Expectations
+   - **Exceed**ing Expectations
+5. The percentage of students who **met** expectations but did not **exceed** them, according to the definitions above.
+6. The percentage of students who **exceeded** expectations according to the definitions above.
+7. Three PDF samples of student work. Each should be an example of student work consistent with what you defined as...
+   - Exceeds Expectations
+   - Meeds Expectations
+   - Does Not Meet Expectations
 
 ### Qualitative Metrics
 
@@ -37,7 +42,7 @@ For Qualitative Metrics you must provide a detailed description of the measures 
 
 ## Completing the Form
 
-After you've collected the information described above, the process to enter it into the ABET DCT system is quite simple.  Don Heer has provided a [short video](https://www.youtube.com/watch?v=SEP9AASyB7w) detailing the entry of data in the form. Please note this should be completed as soon as possible each term.
+After you've collected the information described above, the process to enter it into the ABET DCT system is quite simple.  Don Heer has provided a [short video](https://www.youtube.com/watch?v=SEP9AASyB7w) detailing the entry of data in the form. Please note this should be completed as soon as possible each term. (This is out of date. It will be updated as soon as a new one is ready.)
 
 ## Issues
 
