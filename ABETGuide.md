@@ -27,8 +27,8 @@ For each Assessment Method...
 2. Mean score (%)
 3. Median score (%)
 4. Assignment score percentages that you would consider to be...
-   - **Meet**ing Expectations
-   - **Exceed**ing Expectations
+   - **Meeting** Expectations
+   - **Exceeding** Expectations
 5. The percentage of students who **met** expectations but did not **exceed** them, according to the definitions above.
 6. The percentage of students who **exceeded** expectations according to the definitions above.
 7. Three PDF samples of student work. Each should be an example of student work consistent with what you defined as...
