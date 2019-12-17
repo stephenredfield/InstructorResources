@@ -29,7 +29,8 @@ _NOTE: Ensure this column is not auto-formatted (in Excel, select the column, ri
 2. After the roster loads, search the student's name.
 3. Pull the **Last Activity** date.
 4. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
-_NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format._
+   - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the (Academic Calendar)[https://registrar.oregonstate.edu/osu-academic-calendar]. Enter this date for any students whose participation outlasted Dead Week.
+   - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format._
 
 Repeat this process for any students you'll be giving Incompletes to.
 
