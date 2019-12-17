@@ -7,7 +7,7 @@ If you're teaching a course which is part of an accredited program, you'll need 
 1. Instructor notified by email at beginning of term.  
 This notice gives you a chance to check the database fields for your course, and ensure they line up with your course's CLOs (in the syllabus) and that they're being properly assessed.
 2. Course Evaluation Request  
-Near the end of the term you'll receive an email which reminds you to file the ABET report.  There will be a link in this email which takes you to the [ABET form page](http://eecs.oregonstate.edu/education/abet/index.php). After the term concludes, you should collect the pertinent information and submit it to this site.
+Near the end of the term you'll receive an email which reminds you to file the ABET report.  There will be a link in this email which takes you to the [ABET form site](http://eecs.oregonstate.edu/education/abet/index.php). After the term concludes, you should collect the pertinent information and submit it to this site.
 
 ## Associating CLOs to Assessments
 
@@ -42,7 +42,10 @@ For Qualitative Metrics you must provide a detailed description of the measures 
 
 ## Completing the Form
 
-After you've collected the information described above, the process to enter it into the ABET DCT system is quite simple.  Don Heer has provided a [short video](https://www.youtube.com/watch?v=SEP9AASyB7w) detailing the entry of data in the form. Please note this should be completed as soon as possible each term. (This is out of date. It will be updated as soon as a new one is ready.)
+After you've collected the information described above, the process to enter it into the ABET DCT system is quite simple.  Don Heer has provided a couple short videos which are linked from the [ABET form site](http://eecs.oregonstate.edu/education/abet/index.php)'s "My Courses" list. I've linked them here as well, for reference.
+
+1. [Demo 1 - New Courses and Overview](https://youtu.be/RDSm5MxSydw)
+2. [Demo 2 - Completing Course and File Upload](https://youtu.be/K2sKCuXnh8o)
 
 ## Issues
 
