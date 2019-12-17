@@ -16,7 +16,7 @@ Additionally, according to OSU Guidelines, any travel which requires you to leav
 
 ## Filing for Reimbursement
 
-To file for reimbursement you'll need the current [Travel Reimbursement Request Form](InstructorResources/docs/Travel_Reimbursement_Request_Form.pdf "Travel Reimbursement Request Form") and the [Travel Reference Sheet](InstructorResources/docs/2019_Travel_Reference_Sheet.pdf "Travel Reference Sheet") will also be useful (*NOTE: These files are distributed by email. If there are more up-to-date versions, please notify the Directory owner*). Complete the fillable PDF form and send it, along with any required supporting paperwork (see below) as email attachments to [Tara DiSante](mailto:tara.disante@oregonstate.edu) (tara.disante@oregonstate.edu). You may need to ask the event organizer or consult an MOU (or other funding request approval) for an Index number.
+To file for reimbursement you'll need the current [Travel Reimbursement Request Form](docs/Travel_Reimbursement_Request_Form.pdf "Travel Reimbursement Request Form") and the [Travel Reference Sheet](docs/2019_Travel_Reference_Sheet.pdf "Travel Reference Sheet") will also be useful (*NOTE: These files are distributed by email. If there are more up-to-date versions, please notify the Directory owner*). Complete the fillable PDF form and send it, along with any required supporting paperwork (see below) as email attachments to [Tara DiSante](mailto:tara.disante@oregonstate.edu) (tara.disante@oregonstate.edu). You may need to ask the event organizer or consult an MOU (or other funding request approval) for an Index number.
 
 - Receipts / Documents Required
   - Itinerary showing Business Purpose for Travel
