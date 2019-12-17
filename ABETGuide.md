@@ -29,9 +29,10 @@ For each Assessment Method...
 4. Assignment score percentages that you would consider to be...
    - **Meeting** Expectations
    - **Exceeding** Expectations
-5. The percentage of students who **met** expectations but did not **exceed** them, according to the definitions above.
-6. The percentage of students who **exceeded** expectations according to the definitions above.
-7. Three PDF samples of student work. Each should be an example of student work consistent with what you defined as...
+5. Performance Target - the percentage of students who must **meet** expectations for you to consider the CLO to be **met** for the *class*.
+6. The percentage of students who **met** expectations but did not **exceed** them, according to the definitions above.
+7. The percentage of students who **exceeded** expectations according to the definitions above.
+8. Three PDF samples of student work. Each should be an example of student work consistent with what you defined as...
    - Exceeds Expectations
    - Meeds Expectations
    - Does Not Meet Expectations
