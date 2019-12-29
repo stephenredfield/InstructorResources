@@ -96,6 +96,21 @@ Used among your TAs to discuss their duties.  We recommend you are not a member 
 - **_\#random_** (a default channel)  
 Off-topic discussions within your course.
 
+## Adding Slack to your Canvas Navigation Panel
+
+Students are encouraged to utilize Slack as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows.
+
+1. In your course, select **Settings**.
+2. Select the **Apps** tab.
+3. Search *Redirect* and select the **Redirect tool** from the results.
+4. Click on **+Add App**
+5. Update Redirect settings as follows (see image below)
+   - **Name:** Slack
+   - **URL redirect:** https://oregonstate.enterprise.slack.com
+   - *check:* **Force open in new tab (For External Links Only)**
+   - *check:* **Show in Course Navigation**
+   ![Canvas Redirect to Slack Settings](images/SlackRedirectConfig.png "Canvas Redirect to Slack Settings")
+
 ## Encouraging Use of Slack
 
 One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Slack, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [this page](https://oregonstate.instructure.com/courses/1622724/pages/slack-how-to-for-students) which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
