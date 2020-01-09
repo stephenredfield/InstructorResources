@@ -1,0 +1,41 @@
+<div class="enhanceable_content tabs">          
+  <p>NOTE: Some links in this syllabus page may only be accessible to currently enrolled students.</p>
+  
+  <!-- An unordered list containing the tab links -->    
+  <ul>        
+    <li><a href="#Intro"><span>Course Introduction</span></a></li>        
+    <li><a href="#Syllabus"><span>Syllabus & Schedule</span></a></li>        
+    <li><a href="#Contact"><span>Where to go for Help?</span></a></li>        
+    <li><a href="#Tools"><span>Tools</span></a></li>      
+  </ul>      
+ 
+  <!-- A div to hold the content for each tab. Note that the id
+ attribute of each div matches the href attribute of its associated
+ tab above.  -->
+
+  <div id="Intro">
+     <p>COURSE INTRODUCTION CONTENT</p>
+     <p>Required: Meet the Instructor Video</p>
+     <p>Recommended: Course Justification Video, Course Designer Intro Video, Instructional Strategies, Assessment Rationale</p>
+  </div>
+ 
+  <div id="Syllabus">
+     <p>SYLLABUS and SCHEDULE CONTENT</p>
+     <p>Required: Click-Downloadable Course Syllabus and Course Schedule, Syllabus Quiz Link</p>
+  </div>
+ 
+
+  <div id="Contact">
+     <p>WHERE TO GO FOR HELP CONTENT</p>
+     <p>Required: Preferred Instructor Contact Info, Office Hours Schedule with Links, Slack Link, Link to Discussion Board</p>
+     <p>Recommended: TA Contact Info/Preference, Link to Ecampus Resources</p>
+ </div>
+
+
+  <div id="Tools">
+     <p>TOOL CONTENT</p>
+     <p>Required: Links/Install directions for any tools used in course.</p>
+     <p>Recommended: Course Justification Video, Course Designer Intro Video, Instructional Strategies, Assessment Rationale</p>
+  </div>
+ 
+</div>
