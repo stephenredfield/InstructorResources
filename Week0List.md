@@ -4,7 +4,8 @@ The intent of this document is to provide a handy checklist of items which each 
 
 **Required Items are BOLD**.
 
-Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [myCOE course list](http://classes.engr.oregonstate.edu/eecs), and click the link for your class.
+Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students. To do so, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [myCOE course list](http://classes.engr.oregonstate.edu/eecs), and click the link for your class.
+
 ## General Course Setup Requirements
 
 - **Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs)**
