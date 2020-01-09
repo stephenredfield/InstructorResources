@@ -4,7 +4,7 @@ This page briefly describes activities to be engaged in as part of fulfilling bo
 
 ## Continuous Student Engagement
 
-[Online Presence](OnlinePresence.html) has been shown to increase both student success and student satisfaction, and is vital to our success individually and as a Program.
+[Instructor Presence](InstructorPresence.html) has been shown to increase both student success and student satisfaction, and is vital to our success individually and as a Program.
 
 Methods include:
 

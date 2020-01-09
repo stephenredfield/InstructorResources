@@ -15,7 +15,7 @@
   - Adding TAs
 - Succeeding at Student Engagement
   - [A Day in the Life of an Online CS Instructor](DayInTheLife.html)
-  - Online Presence
+  - [Instructor Presence](InstructorPresence.html)
   - Student Feedback Suggestions
   - Driving Students to Slack
   - Guiding Quality Discussions
@@ -26,6 +26,8 @@
   - [Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
   - Override/Transfer Requests
   - Program-wide Tools
+    - [Setting up Slack](SlackSetup.html)
+    - [Setting up Piazza](PiazzaSetup.html)
 
 ## Regarding TAs and GTAs
 
@@ -46,10 +48,10 @@
 
 ## Improving as an Instructor
 
-- Promotion
+- [OSU Promotion Guidelines](https://facultyaffairs.oregonstate.edu/faculty-handbook/promotion-and-tenure-guidelines)
 - Continuing Education & Professional Development
   - Oregon State Resources
   - Other Resources
 - Advanced Degrees
-  - Faculty as Student at OSU
+  - [Faculty as Student at OSU](https://gradschool.oregonstate.edu/admissions/faculty-as-student)
 - Leadership Techniques
