@@ -50,8 +50,12 @@
 
 - [OSU Promotion Guidelines](https://facultyaffairs.oregonstate.edu/faculty-handbook/promotion-and-tenure-guidelines)
 - Continuing Education & Professional Development
-  - Oregon State Resources
+  - [Professional Development Opportunities](ProfessionalDevOpportunities.html)
+  - [Funding your Professional Development](ProfessionalDevFunding.html)
   - Other Resources
 - Advanced Degrees
   - [Faculty as Student at OSU](https://gradschool.oregonstate.edu/admissions/faculty-as-student)
 - Leadership Techniques
+  - Interpersonal Effectiveness
+  - Emotional Intelligence
+  - Understanding Organizational Dynamics

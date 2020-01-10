@@ -28,10 +28,11 @@ As a rule in our Program, students should receive feedback on submitted assignme
 
 ### Humanized Interaction
 
-The current best practice for online education is to ensure your students know you are a human being.  Some times to aid in this include...
+The current best practice for online education is to ensure your students know you are a human being.  Some suggestions to aid in this include...
 
 - Posting an introduction with profession *and* personal factoids.
 - Allowing your literary voice to appear in communications (i.e. not being overly distant).
 - Changing from text-based weekly announcements to video announcements recorded in-the-world (e.g. gas station, library, McDonalds, gym, etc...).
-- Responding to student comments in a warm, encouraging manner.
+- Responding to student questions and struggles in a warm, encouraging manner.
 - Relating course concepts to current events.
+- Engaging with students in semi-/un-related discussions in Slack.
