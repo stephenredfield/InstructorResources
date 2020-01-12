@@ -8,7 +8,7 @@ As an Online Instructor in Computer Science in the School of EECS, you are provi
 
 ## Ecampus Research Funding
 
-Oregon State Ecampus provides [Professional Development Funds](https://ecampus.oregonstate.edu/research/opportunities/professional-development/) up to $5,000 per person per term, with the small caveat that you must present the information you learned at one of the several annual Ecampus events.  The above website has details on timing and applications.  This money can be used toward...
+Oregon State Ecampus provides [Professional Development Funds](https://ecampus.oregonstate.edu/research/opportunities/professional-development/) for learning in the areas of Online/Distance and Hybrid Education, up to $5,000 per person per term, with the small caveat that you must present the information you learned at one of the several annual [Ecampus Special Events](https://ecampus.oregonstate.edu/faculty/development/events.htm).  The above website has details on timing and applications.  This money can be used toward...
 
 - Webinar registration
 - Conference registration, travel, and lodging
