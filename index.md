@@ -33,7 +33,7 @@
 
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
-- Recruiting Undergrad TAs
+- [Recruiting Undergrad TAs](RecruitingUTAs.html)
 - [GTA Preference System](GTAPreferences.html)
 - [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
