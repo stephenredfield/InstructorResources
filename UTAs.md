@@ -1,4 +1,4 @@
-# Recruiting Undergraduate Teaching Assistants (UTAs)
+# Undergraduate Teaching Assistant (UTA) Recruiting & Rules
 
 As the Online CS Program has grown, the benefit of recruiting teaching assistants from the pool of our own students has become increasingly clear.  If you are teaching a lower-division course these students will be the primary source of your teaching assistants, but there does not yet exist the infrastructure to fully handle the recruiting and hiring process.  For that reason, this burden will fall on individual course Owners and Instructors. If you are teaching a course for the first time, please work with the previous term's instructor and the course owner for assistance in recruiting.
 
