@@ -3,16 +3,15 @@
 ## Course Facilitation
 
 - Course Requirements
-  - [Syllabus](Syllabus.html)
   - [Week 0 Module](Week0List.html)
-  - CLOs
-  - [ABET](ABETGuide.html)
+  - [ABET Accreditation Tool Guide](ABETGuide.html)
   - [Course Grades (Final & Spring Preliminary)](IssuingGrades.html)
 - Course Setup
-  - Textbook Requisitions
+  - [Importing/Copying a Canvas Course](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ImportYourCourseContent.pdf)
   - [Week 0](Week0List.html)
+  - [Textbook Requisitions](https://ecampus.oregonstate.edu/faculty/manual/textbook.htm)
   - [Proctored Exams](ProctoredExams.html)
-  - Adding TAs
+  - [Adding TAs](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ManageAssistants.pdf)
 - Succeeding at Student Engagement
   - [A Day in the Life of an Online CS Instructor](DayInTheLife.html)
   - [Instructor Presence](InstructorPresence.html)
@@ -20,10 +19,13 @@
   - Driving Students to Slack
   - Guiding Quality Discussions
 - Assorted
+  - [Disability Access Services (DAS) Info](DAS.html)
+  - Preventing Academic Misconduct (Cheating, Plagiarism, etc.)
+  - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
+  - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
+  - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
   - Assignment Extensions
   - Student Groups
-  - [DAS Info](DAS.html)
-  - [Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
   - Override/Transfer Requests
   - Program-wide Tools
     - [Setting up Slack](SlackSetup.html)
