@@ -4,7 +4,7 @@ There are several ways to fund your Professional Development at Oregon State Uni
 
 ## Instructor P.D. Funding
 
-All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the School of EECS are provided with up to $1,500 per academic year of funds earmarked for professional development.  These funds can also supplement professional development funded through another source which may not fully cover expenses. Other costs it can be used to pay for include, but are not limited to, courses, learning materials and supplies, and conferences.  If you have an idea which isn't listed here, please contact your supervisor to verify that it is something which can be funded.
+All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the School of EECS are provided with up to $1,500 per fiscal year (7/01 - 6/30) of funds earmarked for professional development.  These funds can also supplement professional development funded through another source which may not fully cover expenses. Other costs it can be used to pay for include, but are not limited to, courses, learning materials and supplies, and conferences.  If you have an idea which isn't listed here, please contact your supervisor to verify that it is something which can be funded.
 
 ## Ecampus Research Funding
 
