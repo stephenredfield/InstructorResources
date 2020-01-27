@@ -8,7 +8,7 @@ There are a few things to keep in mind when setting up a proctored exam in Canva
 
 ### Minimum Open Window  
 
-The Online CS Program has determined a bare minimum accessibility window of four days for exams, at least one of which should be on a weekend.  This allows the greatest availability for our students, who otherwise may not be able to set aside enough time for a fair attempt.
+The Online CS Program has determined a bare minimum accessibility window of three days for exams, at least one of which should be on a weekend.  This allows the greatest availability for our students, who otherwise may not be able to set aside enough time for a fair attempt.
 
 ### Begin and End Exam when you will be Available
 
@@ -52,7 +52,7 @@ Generally between terms you'll received a reminder from Ecampus Exams & Proctori
 - The "End Date" on this form is the time by which students must **submit** their exam, not **begin** it.  
 For example, a 60-minute exam with an End Date time set to 11:55pm will not allow proctors to start an instance of that exam after 10:55pm.
 - The "destroyed by proctor" option for Notes is unlikely to actually happen.
-- When allowing students to use scratch paper please check the "Whiteboard allowed" option, as this allows ProctorU to verify the student is not keepin their exam scratch work, unless you don't mind students keeping these.
+- When allowing students to use scratch paper please check the "Whiteboard allowed" option, as this allows ProctorU to verify the student is not keeping their exam scratch work, unless you don't mind students keeping these.
 
 ## Common Issues
 
@@ -91,3 +91,11 @@ The process for offering exam extensions can be simple, depending on the proctor
 4. Under **Assign to** enter the name of the student being offered an extension and set the new timeframe for this student in **Due**, **Available from**, and **Until**.
 
 NOTE: If the incident requiring an extension occurs on the weekend, Ecampus Testing may not be able to get this done very quickly.  In that event, you may choose to email the proctor directly.  For ProctorU the appropriate email address is passwords@proctoru.com .
+
+## Proctor Approval
+
+OSU Ecampus' Testing and Proctoring coordinators handle approval of proctors for all the online courses.  If you wish to see which proctors your students are using, you may view this information on the [Ecampus Proctoring Site](https://secure.oregonstate.edu/ecampus/proctoring/).
+
+- Sign in at the above link
+- Select **Exam Information**
+- Directly under the section information for each course, select **Student Proctor Information**.
