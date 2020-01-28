@@ -14,7 +14,7 @@ OSU Student Life also has some [General Tips](https://studentlife.oregonstate.ed
 
 ## Identification
 
-Identification of Academic Misconduct can be tricky.  Firstly, please familiarize yourself with Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-102218.pdf).  This, combined with whichever specific policies you've outlined in your syllabus, set the boundaries for what will be considered academic misconduct in your course.
+Identification of Academic Misconduct can be tricky.  Firstly, please familiarize yourself with Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/edited_code_of_student_conduct.pdf).  This, combined with whichever specific policies you've outlined in your syllabus, set the boundaries for what will be considered academic misconduct in your course.
 
 One common method of identifying potential academic misconduct is by inspection.  A TA or Instructor may be grading assignments and come across that just seem too similar.  This is perfectly valid.  Remember, our job is only to identify **potential cases** of misconduct and provide evidence.  The *College Hearing Officer* will investigate and interview the student and make a determination of responsibility.  Beyond manual inspection, there are some tools which can make the process of identifying potential misconduct far less onerous...
 
