@@ -21,7 +21,7 @@
 - Assorted
   - [Disability Access Services (DAS) Info](DAS.html)
   - Preventing Academic Misconduct (Cheating, Plagiarism, etc.)
-  - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)(AcademicMisconduct.html)
+  - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](AcademicMisconduct.html)
   - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
   - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
   - Assignment Extensions
