@@ -10,7 +10,7 @@ CLO 3: Create and Analyze well-modularized assembly language programs utilizing 
 
 ## What do I submit?
 
-Record and Submit (utilizing Canvas' ???) a screen-recording.  This screen recording should feature you narrating the process by which you open a Project file in Visual Studios, add **demo1.asm** from the **Additional Resources** page to the project, remove any other ***.asm** files from the project, and Start without Debugging that program.
+Record and Submit (utilizing Canvas' ???) a screen-recording.  This screen recording should feature you narrating the process by which you open a Project file in Visual Studios, add **demo1.asm** from the **Additional Resources** page to the project, remove any other ***.asm** files from the project, and Start without Debugging that program. For assistance in creating and submitting a screen recording with narration, please see [Does Ecampus have a resource for this?](https://lmgtfy.com/?q=No+source+yet).
 
 ## Setting up Visual Studios Instructions
 
