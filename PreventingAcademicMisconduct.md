@@ -14,7 +14,7 @@ All Syllabi for Online CS courses must conform to the following rules...
 
 While it can seem a strong deterrent to claim you can fail students’ course grade for once instance, that power actually resides at the College level.  Instructors are only able to make recommendations for penalty, though it is acceptable to inform students what the normal penalty is. First offenders almost always receive a failing **Assignment** grade. Second offenders have a high chance of being removed from the program.
 
-### Citation of References
+### Code Reuse & Citation
 
 Due to confusion across the program, we are presently discouraging instructors from mentioning citation of code.  Some specific courses and cases have a simple, universal terminology for what it means to “cite code”, but the vast majority of students don’t have a good understanding of this topic and including verbiage related to code citation has been observed to be confusing for students.
 
@@ -30,7 +30,9 @@ If you believe you are in a specific use-case where citation is well-defined and
 
 ![Code Citing Example](images/CodeCitingExample.png "Code Citing Example")
 
-### Specific Examples for Students
+Instructors must clearly identify any other expectations they have regarding borrowed code. For instance you may include assignment-specific restrictions on assignment pages, such as specifically allowing borrowed code for sorting algorithms but nothing else, or placing "percentage reused" limits.  Regardless the requirements, they must be clear and well-communicated to students.
+
+### Academic Integrity Examples for Students
 
 Another required (for Online CS) section of the syllabus will enumerate specific examples of what the instructor will/won’t be considering Academic Misconduct.  For example, using work from a previous term may be a violation, but that is up to the instructor to spell out. Instructors have a large degree of latitude in determining what they **don’t** consider a violation of Academic Integrity but cannot exceed the Student Code of Conduct with things they **do** consider a violation.  Regardless, they must spell this out. An example of this section of the syllabus can be found below. Some things you might consider when making this section...
 
