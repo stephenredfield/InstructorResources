@@ -1,16 +1,4 @@
-# Academic Misconduct
-
-## Prevention
-
-One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class.  Your [Class Syllabus](Syllabus.html) should explicitly identify what you will consider to be Academic Misconduct in your class.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-102218.pdf) in addition to offering specific clarifications on items such as
-
-- Debugging with a classmate
-- Viewing another students' code
-- Usage of outside resources
-
-The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  Even though we don't have a program-wide policy, the students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
-
-OSU Student Life also has some [General Tips](https://studentlife.oregonstate.edu/studentconduct/general-tips) and [Assignment Tips](https://studentlife.oregonstate.edu/studentconduct/final-project-assignment-tips) for prevention of academic dishonesty.
+# Handling Academic Misconduct
 
 ## Identification
 
@@ -41,7 +29,7 @@ NOTE: Even if you make a suggestion for a greater penalty, the College will not 
 - For programming assignments, you should attach all relevant files and/or websites for each submission.  It also helps if you clearly note (in a separate document or in a notes field) the sections of the program that the College Hearing Officer should look at when investigating.
 - If you want to make their life even easier, you can remove any obfuscating whitespace students may have used to hide their plagiarism.
 
-### General Notes
+## General Notes
 
 - A common method of dealing with the grade while the investigation is in progress is to email the student informing them of the process.  This may include text such as...  
 *"...Your assignment is under review for a potential case of academic misconduct.  The College of Engineering Hearing Officer will be in touch soon regarding the incident, and any inquiries should go to them.  Your grade will remain unassigned until the case has been reviewed and a determination has been made by the College Hearing Officer.  For more information on the process, please check the Academic Misconduct Student Resource Page at https://studentlife.oregonstate.edu/studentconduct/academic-misconduct-students"*
