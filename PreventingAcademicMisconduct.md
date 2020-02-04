@@ -43,13 +43,13 @@ ___
 
 #### Academic Integrity DOs and DON’Ts
 
-- You are encouraged to discuss course content with each other, including general discussion of homework assignments and how to fix specific issues.
-You may post minimally-functional code snippets (or less) from your assignments to Slack or Piazza.
-- You may ask conceptual questions related to optimizing your code on Slack or Piazza.
-- You may post Weekly Exploration questions / solutions in Slack or Piazza.
-- You may not post any complete functions to Slack or Piazza.
-- You may not post any exam questions or solutions in any form.
-- You must make any git repo you post this code on private, with the exception of the 
+- You **are encouraged to** discuss course content with each other, including general discussion of homework assignments and how to fix specific issues.
+- You **may** post minimally-functional code snippets (or less) from your assignments to Slack or Piazza.
+- You **may** ask conceptual questions related to optimizing your code on Slack or Piazza.
+- You **may** post Weekly Exploration questions / solutions in Slack or Piazza.
+- You **may** not post any complete functions to Slack or Piazza.
+- You **may** not post any exam questions or solutions in any form.
+- You **must** make any git repo you post this code on private, with the exception of the 
 Portfolio assignment.
 
 #### Perfection is the enemy of ‘done’
@@ -62,9 +62,8 @@ ___
 
 All syllabi must have the information from the official student code of conduct.  Instructors may choose either option below to paste into their syllabus.  **Option #1** is an abbreviated summary which links to the official Code. **Option #2** is the excerpted portion related to actual violations of Academic Integrity.
 
-#### Option #1
+#### Option #1 - Copy Text / Link Below
 
-___
 The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 
 > Any action that misrepresents a student or group’s work, knowledge, or achievement, provides a potential or actual inequitable advantage, or compromises the integrity of the educational process.
@@ -73,11 +72,8 @@ To support understanding of what can be included in this definition, the Code fu
 
 You are expected to do your own work and demonstrate academic integrity in every aspect of this course. Familiarize yourself with the standards set forth in the OSU Code of Student Conduct Section 4.2. You must only access sources and resources authorized by the instructor. You may not show your work to any other current or future students without the instructor's authorization.  Violations of these expectations or the Code of Student Conduct will be reported to the Office of Student Conduct and Community Standards.  If there is any question about whether an act constitutes academic misconduct, it is your responsibility to seek clarification and approval from the instructor prior to acting.
 
-___
+#### Option #2 - Copy Text Below
 
-#### Option #2
-
-___
 The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 
 > Any action that misrepresents a student or group’s work, knowledge, or achievement, provides a potential or actual inequitable advantage, or compromises the integrity of the educational process.
@@ -93,8 +89,6 @@ Prohibited behaviors include, but are not limited to doing or attempting the fol
 - Tampering. Interfering with an instructor’s evaluation of work by altering materials or documents, tampering with evaluation tools, or other means of interfering.
 - Multiple submissions of work. Using or submitting work completed for another or previous class or requirement, without appropriate disclosure, citation, and instructor approval.
 - Unauthorized recording and use. Recording and/or dissemination of instructional content without the express permission of the instructor(s), or an approved accommodation coordinated via Disability Access Services.
-
-___
 
 ## Assignments
 
