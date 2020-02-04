@@ -40,6 +40,8 @@
 
 ## Course Design
 
+- [Gradescope - How To](Gradescope.html)
+- [Replit - How To](Replit.html)
 - Course Learning Outcomes (CLOs)
 - Designing a Syllabus
 - Module Learning Outcomes (MLOs)
