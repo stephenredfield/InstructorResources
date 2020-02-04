@@ -67,9 +67,7 @@ All syllabi must have the information from the official student code of conduct.
 ___
 The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 
-    Any action that misrepresents a student or group’s work, knowledge, or achievement,
-    provides a potential or actual inequitable advantage, or compromises the integrity 
-    of the educational process.
+> Any action that misrepresents a student or group’s work, knowledge, or achievement, provides a potential or actual inequitable advantage, or compromises the integrity of the educational process.
 
 To support understanding of what can be included in this definition, the Code further classifies and describes examples of Academic Misconduct, including cheating, plagiarism, assisting and others. See the [Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-101519.pdf) for details.
 
@@ -82,9 +80,7 @@ ___
 ___
 The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 
-    Any action that misrepresents a student or group’s work, knowledge, or achievement, 
-    provides a potential or actual inequitable advantage, or compromises the integrity 
-    of the educational process.
+> Any action that misrepresents a student or group’s work, knowledge, or achievement, provides a potential or actual inequitable advantage, or compromises the integrity of the educational process.
 
 To support understanding of what can be included in this definition, the Code further classifies and describes examples of Academic Misconduct, as follows.
 
