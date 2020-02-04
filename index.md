@@ -3,15 +3,17 @@
 ## Course Facilitation
 
 - Course Requirements
-  - [Week 0 Module](Week0List.html)
+  - [Week 0 Module and Pre-Term Checklist](Week0List.html)
   - [ABET Accreditation Tool Guide](ABETGuide.html)
   - [Course Grades (Final & Spring Preliminary)](IssuingGrades.html)
+  - [Preventing Academic Misconduct (Cheating, Plagiarism, etc.)](PreventingAcademicMisconduct.html)
+  - [Textbook Requisitions](https://ecampus.oregonstate.edu/faculty/manual/textbook.htm)
 - Course Setup
   - [Importing/Copying a Canvas Course](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ImportYourCourseContent.pdf)
-  - [Week 0](Week0List.html)
-  - [Textbook Requisitions](https://ecampus.oregonstate.edu/faculty/manual/textbook.htm)
   - [Proctored Exams](ProctoredExams.html)
   - [Adding TAs](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ManageAssistants.pdf)
+  - [Setting up Slack](SlackSetup.html)
+  - [Setting up Piazza](PiazzaSetup.html)
 - Succeeding at Student Engagement
   - [A Day in the Life of an Online CS Instructor](DayInTheLife.html)
   - [Instructor Presence](InstructorPresence.html)
@@ -20,22 +22,18 @@
   - Guiding Quality Discussions
 - Assorted
   - [Disability Access Services (DAS) Info](DAS.html)
-  - [Preventing Academic Misconduct (Cheating, Plagiarism, etc.)](PreventingAcademicMisconduct.html)
   - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](HandlingAcademicMisconduct.html)
   - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
   - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
   - Assignment Extensions
   - Student Groups
   - Override/Transfer Requests
-  - Program-wide Tools
-    - [Setting up Slack](SlackSetup.html)
-    - [Setting up Piazza](PiazzaSetup.html)
 
-## Regarding TAs and GTAs
+## Regarding Teaching Assistants (TAs)
 
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
-- [Undergraduate TA Recruiting & Rules](UTAs.html)
+- [UGTA Recruiting & Rules](UTAs.html)
 - [GTA Preference System](GTAPreferences.html)
 - [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
