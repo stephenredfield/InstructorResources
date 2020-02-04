@@ -1,4 +1,4 @@
-# OSU Online CS Handbook
+# OSU Online CS Handbook Index of Resources
 
 ## Course Facilitation
 
