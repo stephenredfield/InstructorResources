@@ -1,10 +1,10 @@
 # GradeScope
 
-GradeScope is a tool that is used to automate testing of student homework submissions. It is very flexible and allows you to write your own test scripts and provide your own Docker image. By default a Docker image is used which runs Ubuntu 18.04 as of this writing. Libraries are included which support writing tests in Python, Java and C#. You can read their documentation on the technical aspects [here](https://gradescope-autograders.readthedocs.io/en/latest/specs/). We are developing libraries to support other languages and updates on those will be able to be found on this page as they are added.
+GradeScope is a tool that is used to automate testing of student homework submissions. It is very flexible and allows you to write your own test scripts and provide your own Docker image. By default a Docker image is used which runs Ubuntu 18.04 as of this writing. Libraries are included which support writing tests in Python, Java and C#. You can read their [documentation on the technical aspects](https://gradescope-autograders.readthedocs.io/en/latest/specs/). We are developing libraries to support other languages and updates on those will be able to be found on this page as they are added.
 
 ## Canvas and GradeScope
 
-Ecampus provides guidance on getting GradeScope synced up with a Canvas course [here](https://learn.oregonstate.edu/faq/what-gradescope). This will get your GradeScope account and your Canvas account linked and sync up the course roster. Note that while you can select a GradeScope type assignment by choosing it as an external tool when creating an assignment, this does not actually create individual GradeScope assignments and should be avoided. Instead follow the directions on the Ecampus page to create assignments in GradeScope and in Canvas then link the two.
+Ecampus provides guidance on [getting GradeScope synced up with a Canvas course](https://learn.oregonstate.edu/faq/what-gradescope). This will get your GradeScope account and your Canvas account linked and sync up the course roster. Note that while you can select a GradeScope type assignment by choosing it as an external tool when creating an assignment, this does not actually create individual GradeScope assignments and should be avoided. Instead follow the directions on the Ecampus page to create assignments in GradeScope and in Canvas then link the two.
 
 ## Grade Script Setup
 
