@@ -55,6 +55,7 @@ Portfolio assignment.
 #### Perfection is the enemy of ‘done’
 
 Not everything you submit has to be 100%. Especially in the Exploration questions, we’re most interested in having you learn the concepts. That is why the relative assignment weight is so low. Please make use of other students, the TAs, the Instructor, google, etc… when working through these explorations.  Getting the right answer is great, but understanding the wrong answer may be even better!
+
 ___
 
 ### Boilerplate Language for All Syllabi
@@ -71,6 +72,7 @@ The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 To support understanding of what can be included in this definition, the Code further classifies and describes examples of Academic Misconduct, including cheating, plagiarism, assisting and others. See the [Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-101519.pdf) for details.
 
 You are expected to do your own work and demonstrate academic integrity in every aspect of this course. Familiarize yourself with the standards set forth in the OSU Code of Student Conduct Section 4.2. You must only access sources and resources authorized by the instructor. You may not show your work to any other current or future students without the instructor's authorization.  Violations of these expectations or the Code of Student Conduct will be reported to the Office of Student Conduct and Community Standards.  If there is any question about whether an act constitutes academic misconduct, it is your responsibility to seek clarification and approval from the instructor prior to acting.
+
 ___
 
 #### Option #2
@@ -91,6 +93,7 @@ Prohibited behaviors include, but are not limited to doing or attempting the fol
 - Tampering. Interfering with an instructor’s evaluation of work by altering materials or documents, tampering with evaluation tools, or other means of interfering.
 - Multiple submissions of work. Using or submitting work completed for another or previous class or requirement, without appropriate disclosure, citation, and instructor approval.
 - Unauthorized recording and use. Recording and/or dissemination of instructional content without the express permission of the instructor(s), or an approved accommodation coordinated via Disability Access Services.
+
 ___
 
 ## Assignments
