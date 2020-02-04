@@ -25,6 +25,7 @@
   - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](HandlingAcademicMisconduct.html)
   - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
   - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
+  - [Fixing Duo Issues with SSH and sFTP](sshKeyGuides.html)
   - Assignment Extensions
   - Student Groups
   - Override/Transfer Requests
