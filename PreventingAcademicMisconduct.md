@@ -4,6 +4,8 @@ One primary goal of the Online CS program is to provide our students the tools t
 
 OSU Student Life also has some [General Tips](https://studentlife.oregonstate.edu/studentconduct/general-tips) and [Assignment Tips](https://studentlife.oregonstate.edu/studentconduct/final-project-assignment-tips) for prevention of academic dishonesty.  What follows are the Best Practices for our Online CS program.
 
+Here is an [an example syllabus implementing these best practices](docs/CS161Syllabus.pdf).
+
 ## Syllabus - Be Specific
 
 One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class in your Class Syllabus.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-102218.pdf). The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  The students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
