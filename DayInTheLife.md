@@ -54,7 +54,7 @@ Spend time thinking about the next time your course will be redeveloped. Conside
 
 If you are the course owner, your course will require redevelopment at least every three years. Depending on your workload, this formal, team-based process could replace one or more classes you would normally teach.
 
-If you have an idea for an elective we could offer (Big Data, OOP, Graphics, program language refresher courses, etc.), suggest it to the Program Director for consideration.
+If you have an idea for an elective we could offer (Big Data, OOP, Graphics, programming language refresher courses, etc.), suggest it to the Program Director for consideration.
 
 ## CE & PD
 
