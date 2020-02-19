@@ -49,4 +49,4 @@ Similarly to Piazza **Statistics**, Slack **Analytics** allows sorting by *messa
 
 Once you have gathered a list of potential UTAs from the above or other methods, the students must apply to the Ecampus TA job posting. This posting changes every Academic Year but can be easily found as the EECS Ecampus TA position from [this jobs.oregonstate.edu query](https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=Ecampus&query_v0_posted_at_date=&1970%5B%5D=8&query_organizational_tier_3_id%5B%5D=594&225=&commit=Search).  Students applicants must apply to this posting and fill in the associated survey.
 
-From the instructor end, you should notify the UTA Guru (Calvin Hughes) your preferred list of UTAs at your earliest opportunity to help expedite the process.
+From the instructor end, you should notify the UTA Guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)) your preferred list of UTAs at your earliest opportunity to help expedite the process.
