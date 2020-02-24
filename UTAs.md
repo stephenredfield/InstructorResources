@@ -25,7 +25,7 @@ Undergraduate TAs...
 ### Additional Administrative Notes
 
 - It is faster to continue the employment of a TA from a previous term than initiate a new hire.
-- If a TA will not be working again the next term, their employment should be terminated by the supervisor notifying the UTA guru (Calvin Hughes).
+- If a TA will not be working again the next term, their employment should be terminated by the supervisor notifying the UTA guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)).
 
 ## Piazza Contributors
 
