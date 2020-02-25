@@ -7,7 +7,7 @@
 - Complains about the number of work hours per Week
 - Rude to Students
 - Doesn’t know material
-- Out of the country (See “GTA Guide”)
+- Out of the country (See [TA Organization](TAOrganization.html))
 
 ## Standard Resolution Techniques
 
@@ -30,4 +30,4 @@ From time to time I've had to resort to more extreme measures to get the wheels 
 
 ## TA Evaluation
 
-Part of the reason we keep records of these interactions is for TA evaluation. for undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the GTA evaluation form.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html).
+Part of the reason we keep records of these interactions is for TA evaluation. For undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the [GTA evaluation system](https://apps.ideal-logic.com/osueecs).  If you are having issues with a GTA and you're able to identify these issues early in the term, and have already taken steps toward resolution which have failed, you can utilize this evaluation system for [Off-Cycle TA Evaluations](https://apps.ideal-logic.com/osueecs) to streamline corrective processes and enable proper tracking, in accordance with the GTA union guidelines.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html).
