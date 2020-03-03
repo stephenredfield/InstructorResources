@@ -34,7 +34,7 @@
 
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
-- [Undergrad Learning Assistant (ULA) Recruiting & Rules](ULAs.html)
+- [Undergrad Learning Assistant (ULA) Recruiting & Rules](LearningAssistants.html)
 - [GTA Preference System](GTAPreferences.html)
 - [Common TA Issues & Suggested Resolutions](TAIssues.html)
 
