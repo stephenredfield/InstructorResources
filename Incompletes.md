@@ -14,7 +14,7 @@ By University policy, the student applying for an Incomplete must be passing the
 
 ## Process
 
-The process for Incomplete grades is actually quite simple!  The Registrar's office recommends completing a [Contract for Completion of I Grade](https://registrar.oregonstate.edu/sites/registrar.oregonstate.edu/files/forms/contract-for-completion-of-incomplete-i-grade.pdf) so you have some deadline structure to use as a basis for gauging student work.  This also helps the student know what they're getting themselves into!  Beyond that, the only difference from a normal term work is application of grades.
+The process for Incomplete grades is actually quite simple!  The Registrar's office recommends completing a [Contract for Completion of I Grade](docs/Contract_For_Completion_Incomplete_Grade.pdf) so you have some deadline structure to use as a basis for gauging student work.  This also helps the student know what they're getting themselves into!  Beyond that, the only difference from a normal term work is application of grades.
 
 See the [Issuing Grades Guide](IssuingGrades.html) for details on how to enter grades.  At the end of the term, any students who have agreed to an Incomplete grade shall receive a letter grade of **I/X** where _X_ is the grade they'll default to if they do not complete their assigned tasks (e.g.  I/D+).  You must also include a **Last Date of Participation** when you submit this grade.  When the student completes their assigned tasks, simply [update their final grade](IssuingGrades.html) (e.g. from I/D+ to A-).
 
