@@ -50,7 +50,7 @@ There are some exceptions to the official standard:
 
 ## General Notes
 
-- A common method of dealing with the grade while the investigation is in progress is to temporarily assign a 0-grade on the assignment, then email the student (or post an Assignment comment in Canvas) informing them of the process.  This may include text such as...  
+- A common method of dealing with the grade while the investigation is in progress is make a note in an area it won't be missed at the end of the term (such as an un-published module page), then email the student (or post an Assignment comment in Canvas) informing them of the process.  This may include text such as...  
 *"...Your assignment is under review for a potential case of academic misconduct.  The College of Engineering Hearing Officer will be in touch soon regarding the incident, and any inquiries should go to them.  Your grade will remain unassigned until the case has been reviewed and a determination has been made by the College Hearing Officer.  For more information on the process, please check the Academic Misconduct Student Resource Page at [https://studentlife.oregonstate.edu/studentconduct/academic-misconduct-students](https://studentlife.oregonstate.edu/studentconduct/academic-misconduct-students)"  Prior Grade: X/Y*
 - If it's time to submit grades and you haven't received confirmation of Responsibility from the College, we've been advised to give students a grade of I/X where X is the letter grade they would receive if they were found responsible (i.e. they did commit academic misconduct).
 - When the college finds the student responsible/not responsible, faculty must go in and change the grade accordingly as soon as possible, but in all cases within one week of notification.
