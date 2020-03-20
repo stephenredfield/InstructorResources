@@ -19,6 +19,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 *NOTE: The course must be published for these pages to be visible to prospective students*
   ![Canvas Public Syllabus Page](images/CanvasPublicSyllabus.png "Canvas Public Syllabus Page")
 - **Course Syllabus (page or PDF) has a “Communication Policy” which specifies the proper mechanism to get in touch with Instructor/TAs.**
+- **Course Syllabus conforms to [Academic Integrity Requirements](PreventingAcademicMisconduct.html).**
 - **Piazza set up for course and in Nav bar**  
 See [Piazza – How To](PiazzaSetup.html)
 - **Slack Workspace setup for course**  
