@@ -14,7 +14,7 @@ All Syllabi for Online CS courses must conform to the following rules...
 
 ### Don’t Misinform Students about the Academic Misconduct Process
 
-While it can seem a strong deterrent to claim you can fail students’ course grade for once instance, that power actually resides at the College level.  Instructors are only able to make recommendations for penalty, though it is acceptable to inform students what the normal penalty is. First offenders almost always receive a failing **Assignment** grade. Second offenders have a high chance of being removed from the program.
+While it can seem a strong deterrent to claim you can fail students’ course grade for one instance, that power actually resides at the College level.  Instructors are only able to make recommendations for penalty, though it is acceptable to inform students what the normal penalty is. First offenders almost always receive a failing **Assignment** grade. Second offenders have a high chance of being removed from the program.
 
 ### Code Reuse & Citation
 
