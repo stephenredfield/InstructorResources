@@ -26,6 +26,7 @@
   - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
   - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
   - [Fixing Duo Issues with SSH and sFTP](sshKeyGuides.html)
+  - [Course Administration Module](CourseAdminModule.html)
   - Assignment Extensions
   - Student Groups
   - Override/Transfer Requests
