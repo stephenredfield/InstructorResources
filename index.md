@@ -5,7 +5,9 @@
 - Course Requirements
   - [Week 0 Module and Pre-Term Checklist](Week0List.html)
   - [ABET Accreditation Tool Guide](ABETGuide.html)
-  - [Course Grades (Final & Spring Preliminary)](IssuingGrades.html)
+  - Grades
+    - [Final Grades and Spring Preliminary Grades](IssuingGrades.html)
+    - [Incomplete Grades](Incompletes.html)
   - [Preventing Academic Misconduct (Cheating, Plagiarism, etc.)](PreventingAcademicMisconduct.html)
   - [Textbook Requisitions](https://ecampus.oregonstate.edu/faculty/manual/textbook.htm)
 - Course Setup
