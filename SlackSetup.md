@@ -61,7 +61,7 @@ Now that you have a Slack Workspace for your class, it's time to get it properly
 
 It is important for the landing channel to be a neutral environment for our students.  Slack provides two channels by default (**_\#general_** and **_\#random_**) but **_\#general_** is the landing point - ideal for announcements but poorly named.  Additionally, for multi-section workspaces we can't have the landing point be the regular Q & A channel (due to FERPA issues). It should be renamed to **_\#announcements_**, posting permissions should be restricted...
 
-- Back in your Slack app in your class Workspace, enter the **_\#general_** channel and click "&#9432; Details" on the top right. "The "Details" word may be hidden.
+- Back in your Slack app in your class Workspace, enter the **_\#general_** channel and click "&#9432; Details" on the top right. "The "Details" word may be hidden.  
 ![Slack Channel Details](images/SlackChannelSettingsWheel.png "Slack Channel Settings Gear")
 - Choose "... More Options" then "Rename this Channel" and rename the channel to "announcements"
 - Select "... More Options" again and select "Manage Posting Permissions". Select "Admins, plus specific people" and add your TAs to this list so they can post announcements as well. This will lock down the channel so only you and your TAs can post here.
