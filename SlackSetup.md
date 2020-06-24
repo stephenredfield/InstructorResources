@@ -41,7 +41,7 @@ That's it! Your students will be automatically added and you'll be the Workspace
 
 ## Configuring your Class Workspace
 
-Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Administration" heading)
+Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Settings & Administration" heading)
 
 ![Slack Workspace Settings](images/SlackWorkplaceSettings.png "Slack Workspace Settings")
 
@@ -54,7 +54,7 @@ Now that you have a Slack Workspace for your class, it's time to get it properly
 
 ### Update Workspace Icon
 
-- In the Workspace Settings, under the "Settings" tab find "Workspace Icon"
+- In the Settings & Administration open "Customize [Workspace Name]", then find "Workspace Icon"
 - Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) and upload it as the Workspace Icon. This will make it easier to navigate to the correct class' workspace for students and yourself.
 
 ### Set up landing channel
