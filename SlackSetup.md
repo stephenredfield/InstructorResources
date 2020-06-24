@@ -70,16 +70,16 @@ It is important for the landing channel to be a neutral environment for our stud
 
 Every student who joins your workspace will now land in **_\#announcements_** but be unable to post there.  This makes it a good place to post announcements, but we've now robbed ourselves of a **_\#general_** channel for Q & A. We'll have to make a new one and provide a link for students to "opt in" to that channel, and then we can use it for office hours and other synchronous communications.
 
-- To create a new channel, within the Slack application's navigation bar, next to the "Channels" heading there should be a ⊕. Click this button to create a new **_\#general_** channel and define it's purpose.
-  - A "channel purpose" is displayed to all who join that channel - you can set this one for however you intend to use it, but we'll need the purpose for the **_\#announcements_** channel for something special.
+- To create a new channel, within the Slack application's left navigation bar, next to the "Channels" heading there should be a "+". Click this button to create a new **_\#general_** channel and set its description.
+  - A channel description is displayed to all who join that channel - you can set this one for however you intend to use it, but we'll need the description for the **_\#announcements_** channel for something special.
 
-### Provide students a link to your new **_\#general_** channel.
+### Provide students a link to your new **_\#general_** channel
 
 Since Slack doesn't allow students the anonymity which Piazza does, we need to let our students 'opt in' to our class-oriented Slack channel.  We now have all the channels we need, but the students don't have any way to see the **_\#general_** channel. Let's give them a link.
 
 - Back in your **_\#announcements_** channel, go back to the channel settings (See "Set up landing channel" image for help)
-- Select "Additional Options" and "Set the channel purpose"
-- Set the purpose to something like the following. The purpose will be visible until the posts of the channel push it off the screen.  
+- Select "Additional Options" and "Set the channel description"
+- Set the description to something like the following. The description will be visible until the posts of the channel push it off the screen.  
   "This channel is for class-wide communication and announcements. All members are in this channel by default, but only Instructors/TAs may post. For class discussion and office hours, please use the **_\#general_** channel."
 - At the top of the channel there is a spot to set the channel topic which is, by default, "Company-wide announcements and work-based matters". Set the topic to "Join **_\#general_** for office hours and class discussion" or something along those lines.
 - You may also elect to keep a link to **_\#general_** in the body of the most recent message in the channel.
@@ -92,9 +92,9 @@ Some additional channels you may elect to use:
 - **_\#administration_** (private)  
 Used to communicate with your TAs.
 - **_\#ta_discussion_** (private to your TAs)  
-Used among your TAs to discuss their duties.  We recommend you are not a member of this channel.
+Used among your TAs to discuss their duties.  It is recommended that you are not a member of this channel.
 - **_\#random_** (a default channel)  
-Off-topic discussions within your course.
+Off-topic discussions, class related articles, memes, etc... within your course.
 
 ## Adding Slack to your Canvas Navigation Panel
 
