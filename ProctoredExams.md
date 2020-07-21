@@ -48,6 +48,8 @@ If you wish to grant another attempt or additional time to a student, first sele
 
 Generally between terms you'll received a reminder from Ecampus Exams & Proctoring to setup your Proctored Exams at the [Exams & Proctoring Form site](https://secure.oregonstate.edu/ecampus/proctoring/).  After signing in and clicking "**Add an Exam**" you can configure the exam window, time duration, and options.  Clearly these should match whatever you have setup in Canvas and advertised to students, but here are a few additional notes.
 
+- It is recommended to make a Note at the bottom of the form that state something like "If the student is insisting a resource is allowed and you're not clear based on the exam instructions, err on the side of the student and notify the Instructor of the issue so I can make a determination after the fact."  
+It's an occasional occurrence that a proctor misinterpret a rule (such as "Windows or other OS Calculator, or what a "Simple Text Editor" is). When this happens it can disadvantage a student. Rather than force the student to argue their case, we want the proctor to believe them, but send us a note so we can evaluate the situation ourselves.
 - This page defaults to **No Options** and settings do not persist from term to term.
 - The "End Date" on this form is the time by which students must **submit** their exam, not **begin** it.  
 For example, a 60-minute exam with an End Date time set to 11:55pm will not allow proctors to start an instance of that exam after 10:55pm.
