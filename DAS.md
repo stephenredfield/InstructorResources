@@ -32,10 +32,25 @@ The alternative testing agreements are the most common DAS service we provide.  
 4. Enter the appropriate time in *__Extra time on every attempt:__*.
   Note Canvas supplies you with the regular time, so for a 1.5X accommodation on a 60-minute exam, you would enter __30__ minutes extra time.
 5. Repeat from 2. for each Test, Quiz, and Exam in your course...
+6. (Recommended) Send an email to the student notifying them that their accommodations have been entered for the term, and asking if there is anything in particular they need to get started or any questions they may have.
 
 NOTE:  Extra Time applies to anything titled "Quiz" or "Exam" or "Test" - not just midterms and finals.
 
 More information about setting Testing accommodations in Canvas can be found on this [Resource Page](https://ds.oregonstate.edu/accommodations-canvas).
+
+### Possible Issues with Exam Proctors
+
+There may be a situation for students who are in Section 401 and who confirm a ProctorU exam slot for Section 400 (or any other combination of sections) and who have DAS accommodations.
+
+The accommodation communication (to the proctor) is linked to the course section for privacy reasons, and so if the student registers for (and confirms) an exam slot for the section they are not enrolled in, the accommodation **will not be communicated to the test proctor** and the proctor **will cut off student’s exam**, removing the 'additional time' accommodation.
+
+Please contact your DAS students around the time they will be registering for exam slots (individually, of course) and notify them of this possible issue, and have them verify they registered for the same section they are enrolled in. Below find a template email to send to your students.
+
+_It has come to my attention that there may be a situation for students who are in Section 401 and who confirm a ProctorU exam slot for Section 400 (or the opposite) and who have DAS accommodations._
+
+_The accommodation communication (to the proctor) is linked to your course section for privacy reasons, and so if you confirm a testing slot for the section you’re **not** enrolled in, the accommodation will **not** be communicated to the test proctor and they will **cut off your exam**._
+
+_Please ensure your exam section matches the section you registered for. You may find the section you registered for in your myOSU interface._
 
 ### Flexibility with Attendance/Assignments
 
