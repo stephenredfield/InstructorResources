@@ -48,3 +48,11 @@ The [Faculty and Advisor DAS page](https://ds.oregonstate.edu/faculty-advisors) 
 ## Possible Issues
 
 ...
+
+## Things to add to this page
+
+- Recommended email back to student after entering accommodations
+- Recommended email to student a week before exams mentioning
+  - Section registration (make sure registered to same section)
+  - What to expect from a proctoring session
+  - Asking how they're doing, if they need anything, etc.. (reach out)
