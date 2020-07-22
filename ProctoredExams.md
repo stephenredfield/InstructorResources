@@ -101,3 +101,7 @@ OSU Ecampus' Testing and Proctoring coordinators handle approval of proctors for
 - Sign in at the above link
 - Select **Exam Information**
 - Directly under the section information for each course, select **Student Proctor Information**.
+
+## Things to add to this page
+
+- "What a Proctored Exam Looks Like for a Student" section
