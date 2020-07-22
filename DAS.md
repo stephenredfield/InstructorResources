@@ -44,7 +44,7 @@ There may be a situation for students who are in Section 401 and who confirm a P
 
 The accommodation communication (to the proctor) is linked to the course section for privacy reasons, and so if the student registers for (and confirms) an exam slot for the section they are not enrolled in, the accommodation **will not be communicated to the test proctor** and the proctor **will cut off student’s exam**, removing the 'additional time' accommodation.
 
-Please contact your DAS students around the time they will be registering for exam slots (individually, of course) and notify them of this possible issue, and have them verify they registered for the same section they are enrolled in. Below find a template email to send to your students.
+Please contact your DAS students around the time they will be registering for exam slots (individually, of course) and notify them of this possible issue, and have them verify they registered for the same section they are enrolled in. This is also a good time to ask them how they're doing in the course, if they're able to access all the necessary materials and engage in office hours, and whether there is anything you or the other instructional staff can do to aid in the student's preparation for the exam.  Below find a template email to send to your students.
 
 _It has come to my attention that there may be a situation for students who are in Section 401 and who confirm a ProctorU exam slot for Section 400 (or the opposite) and who have DAS accommodations._
 
@@ -63,11 +63,3 @@ The [Faculty and Advisor DAS page](https://ds.oregonstate.edu/faculty-advisors) 
 ## Possible Issues
 
 ...
-
-## Things to add to this page
-
-- Recommended email back to student after entering accommodations
-- Recommended email to student a week before exams mentioning
-  - Section registration (make sure registered to same section)
-  - What to expect from a proctoring session
-  - Asking how they're doing, if they need anything, etc.. (reach out)
