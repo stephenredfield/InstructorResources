@@ -56,6 +56,10 @@ For example, a 60-minute exam with an End Date time set to 11:55pm will not allo
 - The "destroyed by proctor" option for Notes is unlikely to actually happen.
 - When allowing students to use scratch paper please check the "Whiteboard allowed" option, as this allows ProctorU to verify the student is not keeping their exam scratch work, unless you don't mind students keeping these.
 
+### Prepare your Students for a ProctorU Exam
+
+The following guide may be useful in preparing your students for their ProctorU experience: [What to Expect from a ProctorU Session](ProctorUWhatToExpect.html).
+
 ## Common Issues
 
 ### Incident Reports
