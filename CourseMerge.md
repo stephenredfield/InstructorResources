@@ -4,6 +4,8 @@ The Canvas Course Merge tool is used to create combined sections in Canvas cours
 
 After merging course sections, only one course section will remain visible in Canvas. IT is recommended this be the 400 section, so please follow the steps below from within the 400 section of your course.
 
+For more information on the Course Merge tool beyond what is included in this guide, check the [Canvas Course Merge Tool Guide](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=80690).
+
 ## Adding Course Merge to your class' Navigation Panel
 
 To add the Course Merge tool to the course Nav bar...
