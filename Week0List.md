@@ -8,6 +8,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 
 ## General Course Setup Requirements
 
+- **Multiple-Section Courses Merged using the [Course Merge Tool](CourseMerge.html)** (Some exceptions).
 - **Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs)**
   1. Add link to Canvas Syllabus via TEACH
   2. Go to [ENGR TEACH](https://teach.engr.oregonstate.edu/)
