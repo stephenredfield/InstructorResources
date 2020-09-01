@@ -12,6 +12,7 @@
   - [Textbook Requisitions](https://ecampus.oregonstate.edu/faculty/manual/textbook.htm)
 - Course Setup
   - [Importing/Copying a Canvas Course](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ImportYourCourseContent.pdf)
+  - [Merging Courses using the Course Merge Canvas Tool](CourseMerge.html)
   - [Proctored Exams](ProctoredExams.html)
   - [Adding TAs](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ManageAssistants.pdf)
   - [Setting up Slack](SlackSetup.html)
