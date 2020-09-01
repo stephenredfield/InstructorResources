@@ -21,7 +21,7 @@ NOTE: You can also read the [Piazza support documentation](https://support.piazz
 
 To add a Piazza link to the course Nav bar…
 
-1. From your course Nav bar, click "Settings
+1. From your course Nav bar, click "Settings"
 2. In the "Apps" tab, search "Piazza"
 3. Click it and "+Add App"  
 Name: Piazza  
