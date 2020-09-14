@@ -8,7 +8,7 @@ Here is an [an example syllabus implementing these best practices](docs/CS161Syl
 
 ## Syllabus - Be Specific
 
-One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class in your Class Syllabus.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf). The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  The students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
+One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class in your Class Syllabus.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/code). The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  The students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
 
 All Syllabi for Online CS courses must conform to the following rules...
 
