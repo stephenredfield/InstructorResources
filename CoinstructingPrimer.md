@@ -23,7 +23,7 @@ Clearly the only feasible method of doing this is to [merge all relevant section
 Regardless of your strategy for assigning tasks, the most important aspect of sharing a course is to **communicate frequently with your co-instructor(s)**.  Regular, substantive communication relating to tasks worked on, the difficulty of these tasks, your ability to complete them, notification of completion, encouraging your co-instructors and appreciating their work... these are the hallmarks of a successful partnership.  Therefore, the first step in sharing workload is to meet with your co-instructor and talk things through with them.  Sometimes the relationship and mentalities of co-instructors makes this somewhat trivial, but other times a more systemic approach is needed.  If so, breaking down the general duties associated with the task may help.  A (somewhat abbreviated) breakdown of course tasks and the level which they are connected to other course tasks (1 being "related to" and 2 being "vital to"). Clearly these are debatable but presented to provoke thought...
 
 ||TA Management|Assignment Grading|Engagement, Async|Engagement, Sync|Assignment Updates|Quiz Updates|Assignment Feedback|
-|------|------|------|------|------|------|------|------|
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |TA Management||||||||
 |Assignment Grading|2|||||||
 |Engagement, Async|1|1||||||
