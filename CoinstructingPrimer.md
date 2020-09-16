@@ -1,0 +1,7 @@
+# Co-instructing - A Primer
+
+## History
+
+As the Online CS program grew and more and more students enrolled, class sizes ballooned.  In only a few years, course enrollment rose from 20-30 students per section to over a hundred, and it continued to rise.  Courses that were developed before and during this time tended to have a larger focus on project work, individual evaluation, and open-ended questions.  As courses grew in scale and it became apparent that, even with GTA support, it was extremely difficult to provide the level of feedback necessary for these projects (and the time needed to grade open-ended questions) there was a shift in course design practices toward automated evaluation, more active learning with instructors and TAs in supportive engagement roles.  Many courses continued to grow beyond and the decision was made to begin splitting courses into multiple sections (400, 401, ...).  To ensure all students receive the same quality of education, and to maintain the community of learning that develops around large-enrollment classes, the decision was made to have instructors share the responsibility (and the course sections) for these courses.  This document is intended to provide tips for instructors finding themselves in this position.
+
+## Course Aspects
