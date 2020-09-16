@@ -36,7 +36,7 @@
   - Student Groups
   - Override/Transfer Requests
 
-## Regarding Teaching Assistants (TAs)
+## Regarding Teaching & Learning Assistants
 
 - [TA Roles and Duties](TARolesDuties.html)
 - [TA Organization](TAOrganization.html)
@@ -58,6 +58,7 @@
 ## Improving as an Instructor
 
 - [OSU Promotion Guidelines](https://facultyaffairs.oregonstate.edu/faculty-handbook/promotion-and-tenure-guidelines)
+  - [Senior Instructor Promotion Guidance](SeniorInstructorPromotion.html)
 - Continuing Education & Professional Development
   - [Professional Development Opportunities](ProfessionalDevOpportunities.html)
   - [Funding your Professional Development](ProfessionalDevFunding.html)
