@@ -62,7 +62,7 @@ Your Supervisor and Program Director will help you find relevant and useful prof
 
 Keep track of all the things you do - you’ll need this when you write your list of accomplishments for your performance evaluation. Set your vision and goals and work towards them!
 
-More information can be found at [Continuing Education & Professional Development](CEandPD.html).
+More information can be found at [Continuing Education & Professional Development](../index.html#improving-as-an-instructor).
 
 ## A Night in the Life of an Online CS Teacher
 
