@@ -16,7 +16,18 @@ Within the Online CS program we want to ensure all our students have a positive 
 - Assignments and Grading Methods
 - Exams and Grading Methods
 
-Clearly the only feasible method of doing this is to [merge all relevant sections](CourseMerge.html), so that is the method to be used.  But how do you work _with_ another instructor to manage this?
+Clearly the only feasible method of doing this is to merge the relevant sections:
+
+1. [How to Merge Course Sections](CourseMerge.html)
+2. [Piazza Setup](PiazzaSetup.html)  
+    - Create the piazza section by clicking the Piazza nav-bar link, and all students will have access.
+    - If desired, grab all student emails and paste them into Piazza's "enroll".
+3. [Slack Setup](SlackSetup.html)  
+    - Create one Slack workspace (-400 preferred), then email support@engr.oregonstate.edu and ask the other sections' students to be merged into that Workspace. 
+4. Teams Setup  
+    - The single sign-up link within your course should put all students in the same Team.
+
+All other common tools should utilize Canvas Navigation links, so there should be no need to do any additional special setup for classes with multiple sections. Relatively simple... but how do you work _**with**_ another instructor to manage this?
 
 ## Course Aspects
 
