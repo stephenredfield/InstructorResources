@@ -1,4 +1,4 @@
-# Getting Promoted to Senior Instructor
+# Getting Promoted as an Instructor
 
 During Summer 2020, the OSU Faculty Union (UAOSU) successfully bargained for a reduction in the "time served" requirement for promotion from Instructor to Senior Instructior I, and likewise from SI-1 to SI-2. The exact language regarding this can be viewed on the [UAOSU Site](https://www.uaosu.org/contract/) but is abbreviated here:
 
@@ -9,7 +9,19 @@ To clarify, 1.0 FTE year is one year of service at your annually contracted serv
 
 ## The Promotion Process
 
-The process for promotion in the Instructor track is not simple at OSU, but it can be navigated with a little preparation and a fair amount of time.
+The process for promotion in the Instructor track is not simple at OSU, but it can be navigated with preparation and time. This document is intended as a list of best-practices to enable you to succeed in your career path.
+
+### Understand your Position Description
+
+Instructor positions in EECS have a specific percentage of time allocated to each of several role duties.
+
+- Instruction
+- Advising
+- Service
+
+If there is a duty in your **Position Description** that is assigned a percentage, you will be evaluated on it in your promotion process.  It is important to keep track of duties within each of these areas so that your Dossier (see below) shows that you performed _all_ duties assigned with your role satisfactorily.
+
+If you do not have a copy of your P.D., ask your supervisor and they will be able to forward it to you.
 
 ### Understand the Dossier
 
@@ -17,13 +29,15 @@ The **Promotion Dossier** on the [CoE Promotion and Tenure Page](https://enginee
 
 - _Keep your Candidate Statement (Section V) in at least an outline form_, updated yearly
 - Utilize the annual performance review preparation to _update your Vita (Section VIII) with current information_.
-    - To aid in this, keep careful track of tasks you complete throughout the year
-    - This section doesn't have a length limit so include all pertinent activities and highlight those that contributed beyond expectations.
+  - To aid in this, keep careful track of tasks you complete throughout the year
+  - This section doesn't have a length limit so include all pertinent activities and highlight those that contributed beyond expectations.
 - When you have a particularly strong connection with a student, take note of their name and ask if they'd ever be willing to write a letter of recommendation on your behalf.
+
+By returning regularly to this document, and taking your performance reviews seriously, you will be able to make any necessary adjustments in your work role and performance well in advance of "showtime".
 
 ### Understand the Timeline
 
-The current requirements allow you to apply for promotion after 3.0 FTE years of service in rank.  The promotion process itself will take _one whole_ year, which is interspersed with interviews, revisions, teaching observations, etc...  For a complete listing of the various deadlines, check the"**Annual timeline for COE promotion and tenure activities** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure). It is non-trivial to understand, but the really important dates and time-frames to look for are...
+The current requirements allow you to apply for promotion after 3.0 FTE years of service in rank.  The promotion process itself will take _one whole_ year, which is interspersed with interviews, revisions, teaching observations, etc...  For a complete listing of the various deadlines, check the **Annual timeline for COE promotion and tenure activities** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure). It is non-trivial to understand, but the really important dates and time-frames to look for are...
 
 1. The entire "Initial Dossier (Candidate's Portion)" Section
     - This is the section where you notify the department of your candidacy and work on building your initial dossier, submit, receive feedback, revise, and resubmit. It is the bulk of your role in the process.
