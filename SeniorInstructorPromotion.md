@@ -61,7 +61,7 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
 - The Dossier formatting requirements are _**absolutely requirements**_. Format it **exactly** as shown in the template or you'll have to revise those portions.
 - Keep a list of students you've impacted very positively. You'll need letter volunteers.
 - Don't be afraid to ask for advice or assistance from anyone in a leadership role, existing promoted Instructors, or peers. We all want to help!
-- The Candidate Statement is daunting and important. It needs to _sell you_ to the promotion committees, but don't be afraid to make it uniquely **yours**. It is, after all, **your** statement
+- The Candidate Statement is daunting and important. It needs to _sell you_ to the promotion committees, but don't be afraid to make it uniquely **yours**. It is, after all, **your** statement.
 - Include all course improvements, pedagogy developments, and 'cool stuff' from your courses in the curriculum contributions section.
 
 ## FAQ
