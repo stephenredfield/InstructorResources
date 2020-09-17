@@ -18,7 +18,7 @@ Within the Online CS program we want to ensure all our students have a positive 
 
 Clearly the only feasible method of doing this is to merge the relevant sections:
 
-1. [How to Merge Course Sections](CourseMerge.html)
+1. [How to Merge Canvas Course Sections](CourseMerge.html)
 2. [Piazza Setup](PiazzaSetup.html)  
     - Create the piazza section by clicking the Piazza nav-bar link, and all students will have access.
     - If desired, grab all student emails and paste them into Piazza's "enroll".
