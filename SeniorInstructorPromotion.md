@@ -13,7 +13,7 @@ The process for promotion in the Instructor track is not simple at OSU, but it c
 
 ### Understand your Position Description
 
-Instructor positions in EECS have a specific percentage of time allocated to each of several role duties.
+Instructor positions in EECS have a specific percentage of time allocated to each of several role duties, such as...
 
 - Instruction
 - Advising
@@ -27,9 +27,9 @@ If you do not have a copy of your P.D., ask your supervisor and they will be abl
 
 The **Promotion Dossier** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure) is a document which will be partially completed by you, some of your references, the Department (via a committee and the Head), and the College.  The absolute **best** thing you can do to ease your promotion process is to download it _**now**_ and treat it as a living document:
 
-- _Keep your Candidate Statement (Section V) in at least an outline form_, updated yearly
+- _Keep your Candidate Statement (Section V) in at least an outline form_, updated yearly.
 - Utilize the annual performance review preparation to _update your Vita (Section VIII) with current information_.
-  - To aid in this, keep careful track of tasks you complete throughout the year
+  - To aid in this, keep careful track of tasks you complete throughout the year.
   - This section doesn't have a length limit so include all pertinent activities and highlight those that contributed beyond expectations.
 - When you have a particularly strong connection with a student, take note of their name and ask if they'd ever be willing to write a letter of recommendation on your behalf.
 
@@ -44,10 +44,10 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
     - The department has also started providing P&T mentors which will help you in preparation of your Dossier.
 2. "Peer evaluation of teaching"
     - For this the EECS P&T Committee will task several (2-3) reviewers to observe your teaching, perhaps interview you, and write a letter in support (or not) of your promotion.
-    - It is recommended to use the OSU [Peer-Review of Online Teaching Guidelines](https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/peer_review_observation_formrev.pdf) since course observation of online courses is very different from traditional courses
+    - It is recommended to use the OSU [Peer-Review of Online Teaching Guidelines](https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/peer_review_observation_formrev.pdf) since course observation of online courses is very different from traditional courses.
 3. "Candidate Signs Section X of the Dossier"
     - In this section you may sign away permission to view the dossier in its entirety (possibly containing negative reviews and letters)
-    - If you're unsure about this, ask your supervisor
+    - If you're unsure about this, ask your supervisor.
 4. Unit head: Meet with candidate
     - In this time-frame you'll meet 1:1 with the School Head to review the internal letters and learn whether or not they will support your promotion.
     - This is also an opportunity to chat with the School Head about your role changes as a promoted Instructor.
