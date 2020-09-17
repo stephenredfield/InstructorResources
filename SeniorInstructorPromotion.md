@@ -55,3 +55,15 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
     - In this time-frame you'll meet 1:1 with the Dean of CoE to talk about the promotion process and learn whether or not they will support your promotion.
     - You seldom get a chance to have a 1:1 with the Dean - use it wisely!
 
+## Other Tips
+
+- When you notify your supervisor that you would like to go up for promotion, ask for a mentor for the process. This will be someone who has already gone through the process and will be able to give you advise and review your Dossier.
+- The Dossier formatting requirements are _**absolutely requirements**_. Format it **exactly** as shown in the template or you'll have to revise those portions.
+- Keep a list of students you've impacted very positively. You'll need letter volunteers.
+- Don't be afraid to ask for advice or assistance from anyone in a leadership role, existing promoted Instructors, or peers. We all want to help!
+- The Candidate Statement is daunting and important. It needs to _sell you_ to the promotion committees, but don't be afraid to make it uniquely **yours**. It is, after all, **your** statement
+- Include all course improvements, pedagogy developments, and 'cool stuff' from your courses in the curriculum contributions section.
+
+## FAQ
+
+- TBD
