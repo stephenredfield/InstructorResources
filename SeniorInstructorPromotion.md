@@ -39,13 +39,13 @@ By returning regularly to this document, and taking your performance reviews ser
 
 The current requirements allow you to apply for promotion after 3.0 FTE years of service in rank.  The promotion process itself will take _one whole_ year, which is interspersed with interviews, revisions, teaching observations, etc...  For a complete listing of the various deadlines, check the **Annual timeline for COE promotion and tenure activities** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure). It is non-trivial to understand, but the really important dates and time-frames to look for are...
 
-1. The entire "Initial Dossier (Candidate's Portion)" Section
+1. "Initial Dossier (Candidate's Portion)"
     - This is the section where you notify the department of your candidacy and work on building your initial dossier, submit, receive feedback, revise, and resubmit. It is the bulk of your role in the process.
     - The department has also started providing P&T mentors which will help you in preparation of your Dossier.
 2. "Peer evaluation of teaching"
     - For this the EECS P&T Committee will task several (2-3) reviewers to observe your teaching, perhaps interview you, and write a letter in support (or not) of your promotion.
     - It is recommended to use the OSU [Peer-Review of Online Teaching Guidelines](https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/peer_review_observation_formrev.pdf) since course observation of online courses is very different from traditional courses
-3. "Candidate Signs Section X of the Dossier that the open part of the dossier is complete (No dossier changes allowed after this date)"
+3. "Candidate Signs Section X of the Dossier"
     - In this section you may sign away permission to view the dossier in its entirety (possibly containing negative reviews and letters)
     - If you're unsure about this, ask your supervisor
 4. Unit head: Meet with candidate
