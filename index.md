@@ -46,6 +46,7 @@
 
 ## Course Design
 
+- [Ecampus Markdown Workflow](MarkdownWorkflow.html)
 - [Gradescope - How To](Gradescope.html)
 - [Replit - How To](Replit.html)
 - Course Learning Outcomes (CLOs)
