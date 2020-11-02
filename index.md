@@ -49,9 +49,9 @@
 - [Ecampus Markdown Workflow](MarkdownWorkflow.html)
 - [Gradescope - How To](Gradescope.html)
 - [Replit - How To](Replit.html)
-- Course Learning Outcomes (CLOs)
-- Designing a Syllabus
-- Module Learning Outcomes (MLOs)
+- Course Learning Outcomes (CLOs) - Learn about this in your Ecampus Workshop!
+- Designing a Syllabus - Learn about this in your Ecampus Workshop!
+- Module Learning Outcomes (MLOs) - Learn about this in your Ecampus Workshop!
 - Assignments
   - Assignment Requirements
   - [Assignment & Rubric Design](AssignmentRubricDesign.html)
@@ -66,7 +66,4 @@
   - Other Resources
 - Advanced Degrees
   - [Faculty as Student at OSU](https://gradschool.oregonstate.edu/admissions/faculty-as-student)
-- Leadership Techniques
-  - Interpersonal Effectiveness
-  - Emotional Intelligence
-  - Understanding Organizational Dynamics
+- [Leadership Techniques](LeadershipTechniques.html)
