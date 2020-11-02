@@ -1,6 +1,6 @@
 # Leadership Techniques
 
-The following is excerpted from a presentation by Benjamin Brewster ([slides available](./docs/Training_LeadershipTools.pdf)). The purpose of this interactive presentation was to aid in developing leadership techniques in working with Teaching and Learning Assistants.
+The following is excerpted from a presentation by Benjamin Brewster ([slides available](./docs/Training_LeadershipTools.pdf)). The purpose of this interactive presentation was to aid in developing leadership techniques in working with Teaching and Learning Assistants, and with students. Interspersed are several "Self Reflection" questions intended to cause the reader to think more deeply about these topics.
 
 ### Tools of Leadership
 
@@ -29,9 +29,7 @@ A student asks the question "When are Office Hours?" and receives one of the fol
 
 Answer B is Uplifting, Motivating, Connective, Productive: it insightfully notices that if a student is asking for help, the student likely _needs_ that help.
 
-#### Self Reflection
-
-What changes would I need to make to improve my interpersonal communications?
+Self Reflection - What changes would I need to make to improve my interpersonal communications?
 
 ## Emotional Intelligence
 
