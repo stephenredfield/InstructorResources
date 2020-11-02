@@ -1,10 +1,11 @@
 # Ecampus Markdown Workflow
 
-The following is adapted from a webinar ([recording available](link.html)) given by Eric Ianni on the topic of using Markdown and Github Pages to generate source HTML files, which would then be imported to Canvas by an Instructional Designer (ID).
+The following is adapted from a webinar ([recording available](https://media.oregonstate.edu/media/t/1_dp8ddk1l)) given by Eric Ianni on the topic of using Markdown and Github Pages to generate source HTML files, which would then be imported to Canvas by an Instructional Designer (ID).
 
 # What is Markdown?
 
 _Markdown_ is actually a mark**UP** language (think HTML and LaTeX). It was introduced in 2004 as a way to let people _easily_ write human readable content that could be easily converted into HTML. To demonstrate this readability let's look at a small example:
+
 ___
 Content as shown in the browser:
 
