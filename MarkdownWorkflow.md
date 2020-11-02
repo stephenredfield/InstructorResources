@@ -122,17 +122,9 @@ It also makes it very easy to embed content from other pages. This includes thin
 
 One of the best parts of writing Markdown is that you can do it in _any_ text editor! I am going to go over two methods I have personally tried.
 
-## The Correct Way - Emacs
+## Method 1 - VS Code
 
-I have an addiction and that addiction is called _Emacs_. Using the King of Editors, it is possible to set up a workflow that allows you to write in Markdown and have it rendered in a browswer in real time. This is very useful when getting used to Markdown and you want to ensure everything looks as you would expect.
-
-![Realtime Rendering](./images/emacs_browser.png "The only way to Markdown!")
-
-I am sure most folks don't want to use Emacs so I won't detail how to set it up this way, but if you are interested send me an email ([iannie@oregonstate.edu](mailto:iannie@oregonstate.edu)).
-
-## The Less Correct Way - VS Code
-
-While this is not the _ideal_ way of writing Markdown, it is _acceptable_ as VS Code allows Emacs keybindings. Believe it or not, VS Code requires zero work on your part to allow you to preview what your Markdown would look in a browser. 
+VS Code requires zero work on your part to allow you to preview what your Markdown would look in a browser.
 
 First you need to open the Markdown file you want to preview. Then you need to click the "Open Preview to the Side" button shown below.
 
@@ -142,7 +134,15 @@ You will now have a real time render of your Markdown.
 
 ![Split view](./images/vscode_preview.png "BAM!")
 
-One word of warning about VS Code's solution. If you copy directly from the preview panel and paste it into Canvas, some of the formatting may be messed up. It is better to use the solution mentioned below
+One word of warning about VS Code's solution. If you copy directly from the preview panel and paste it into Canvas, some of the formatting may be messed up. It is better to use the Github solution below.
+
+## Method 2 - Emacs
+
+For those who suffer from the unfortunate addiction called _Emacs_, it is possible to set up a workflow that allows you to write in Markdown and have it rendered in a browswer in real time. This is very useful when getting used to Markdown and you want to ensure everything looks as you would expect.
+
+![Realtime Rendering](./images/emacs_browser.png "The only way to Markdown!")
+
+Most folks don't want to use Emacs so the setup won't be detailed here, but if you are interested send Eric an email ([iannie@oregonstate.edu](mailto:iannie@oregonstate.edu)).
 
 # Enter GitHub
 
@@ -172,13 +172,13 @@ The Markdown file I am typing into right now is called `ecampus_workflow.md`. To
 
 # What about Ecampus?
 
-You may be asking, "Eric, this all sounds nice a good, but how does this help course development when it comes to Ecampus?" This is a very good, if a bit impertinent, question. If you have developed courses in the past, you may have had to handle everything from content creation to setting up everything on Canvas yourself. This meant less time could be dedicated to what you do best: create engaging content.
+You may be asking, "This all sounds nice a good, but how does this help course development when it comes to Ecampus?" This is a very good, if a bit impertinent, question. If you have developed courses in the past, you may have had to handle everything from content creation to setting up everything on Canvas yourself. This meant less time could be dedicated to what you do best: create engaging content.
 
 No more! Just as we are subject matter experts, Ecampus are Canvas experts (among other things). They have extensive experience with taking a wide range of content types and fashioning a fully functional Canvas course. That is not to say we can't do our part to make the process smoother.
 
 ## Passive Communication
 
-While Ecampus will meet regularly with you for formal checkins, they are often weeks apart. How can we as course developers best communicate outside of meetings? Sending emails is very important, but could quickly flood an inbox if you send one everytime you have made progress on your course.
+While Ecampus will meet regularly with you for formal check-ins, they are often weeks apart. How can we as course developers best communicate outside of meetings? Sending emails is very important, but could quickly flood an inbox if you send one every time you have made progress on your course.
 
 When developing my course, I decided to try something I am calling "Passive Communication." At it's core, it is a system where I update a shared website with my updates as I make them. My Ecampus liason would then be able to check in at any time to see my progress, but more importantly know when something was ready to be imported to Canvas.
 
