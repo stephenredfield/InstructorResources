@@ -11,7 +11,7 @@
 
 ## Standard Resolution Techniques
 
-In general, it is easy to remedy these issues if you have established a rapport with the TA, and are sensitive to any issues they may be going through. See Ben Brewster's Leadership Tips \*\*\*RESOURCE TBDev\*\*\* for help doing this.  Keeping these tips in mind, here are some possible remediation paths.
+In general, it is easy to remedy these issues if you have established a rapport with the TA, and are sensitive to any issues they may be going through. See [Ben Brewster's Leadership Tips](LeadershipTechniques.html) for help doing this.  Keeping these tips in mind, here are some possible remediation paths.
 
 - Send reminders and Inquire with Empathy  
   In general, when you send a reminder about a pre-determined task, it is easy to cause offense. If you inquire about any lateness with empathy, it is far more likely to generate a positive outcomes.
