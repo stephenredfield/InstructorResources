@@ -16,7 +16,7 @@ ULAs...
 - ...cannot work in graduate courses, ever.
 - ...must have taken the course and received a 'B' grade or better.
 - ...must be enrolled in at least 6 OSU credit hours for the term they are employed.
-- ...must complete FERPA training via [MyOSU](https://myosu.oregonstate.edu/web/myosu/employee) prior to engaging in FERPA-associated duties.
+- ...must complete FERPA training via [My Oregonstate](https://my.oregonstate.edu/web/myosu/employee) prior to engaging in FERPA-associated duties. (**Resources**, search **FERPA** and select **GRA, GTA, & Student Employee FERPA Training**)
 - ...are not allowed to evaluate their friends' work, so grading groups must be carefully organized around this.
 - ...may work up to 20 hours a week, depending on their time availability.
 - ...must *clock in/out* via [EMPCenter](https://mytime.oregonstate.edu).

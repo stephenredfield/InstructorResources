@@ -38,15 +38,17 @@ _NOTE: For these students, the final grade should I/X where X is the letter grad
 
 ## Uploading Grades
 
-1. Access the MyOSU Portal by opening [MyOSU](https://myosu.oregonstate.edu/). 
-2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Final Grades Menu** and finally **Final Grades - File Upload**.
-3. Select the term you wish to enter grades for.  
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+2. Navigate to the **Resources** tab (near the top of the page).
+3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
+4. Select **Final Grades - File Upload**
+5. Select the term you wish to enter grades for.  
 _NOTE: From this point on, if you wish to change the Term or Course you may click **RETURN TO MENU**, then **Final Grades Menu** and finally **Term Selection** or **CRN Selection** links._
-4. The page which opens is an archaic interface, but there are only a few fields which you need.
+6. The page which opens is an archaic interface, but there are only a few fields which you need.
     - For **Path/Filename** select **Choose File** and select the .csv file you've been modifying.
     - You may use EITHER **Subject/Course** OR **CRN** to select the course whose grades you're uploading. If you select both, the upload will fail.
     - For **Data Item Name** and **Location** associate the columns in your .csv to the appropriate data field.  This is required only for **Student ID** (SIS User ID), **Grade** (Unposted Final Grade), and **Last Attend. Date** (For F-grade students and Incompletes).
-5. Click **Process File**.
+7. Click **Process File**.
 
 ## Check for Missing Grades
 
@@ -61,8 +63,10 @@ It's always a good idea to check your work.  To verify there are no missing fina
 
 Sometimes we have a reason to modify an existing grade.  There is a period of approximately one week after the grading window closes (5pm Monday after the term ends for Fall/Winter/Spring) where we cannot make changes, but outside that window we can change a final grade at any time. To do so...
 
-1. Access the MyOSU Portal by opening [MyOSU](https://myosu.oregonstate.edu/).
-2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Final Grades Menu** and finally **Final Grades - Change Posted Grades**.
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+2. Navigate to the **Resources** tab (near the top of the page).
+3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
+4. Select **Final Grades - Change Posted Grades**.
 
 ## Spring Term Preliminary Grades
 
@@ -74,12 +78,18 @@ When pulling preliminary grade data, follow the [Final Grade Data](#final-grade-
 
 ### Uploading Preliminary Grades
 
-1. Access the OSU Final Grades Portal by opening [MyOSU](https://myosu.oregonstate.edu/).
-2. On the bottom right of this page is a **Banner Self-Service** link.  Click this to get a dropdown, then under the **Faculty & Advisors** select **Spring Term Preliminary Grades Menu** and finally **Preliminary Grades - File Upload** or **Preliminary Grades - Keyed Entry**.
-3. Select the term you wish to enter grades for.  
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+2. Navigate to the **Resources** tab (near the top of the page).
+3. In the **Find Resources** search bar, type **Grades** and select **Spring Preliminary Grades**.
+4. Select **Preliminary Grades - File Upload** or **Preliminary Grades - Keyed Entry**.
+5. Select the term you wish to enter grades for.  
 _NOTE: From this point on, if you wish to change the Term or Course you may click **RETURN TO MENU** once or twice, then **Term Selection** or **CRN Selection** links._
-4. The page which opens is an archaic interface, but there are only a few fields which you need.
+6. The page which opens is an archaic interface, but there are only a few fields which you need.
     - For **Path/Filename** select **Choose File** and select the .csv file you've been modifying.
     - You may use EITHER **Subject/Course** OR **CRN** to select the course whose grades you're uploading. If you select both, the upload will fail.
     - For **Data Item Name** and **Location** associate the columns in your .csv to the appropriate data field.  This is required only for **Student ID** (SIS User ID), **Grade** (Unposted _Current_ Grade), and **Last Attend. Date** (For F-grade students and Incompletes).
-5. Click **Process File**.
+7. Click **Process File**.
+
+## Common Issues - Changing Active Term
+
+Occasionally the system puts you in the wrong term, or you want to view grades from a previous term. If you're in the grades interface and need to change term, select **RETURN TO MENU** and then **Term Selection** to select the relevant term.
