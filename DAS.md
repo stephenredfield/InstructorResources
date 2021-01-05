@@ -6,9 +6,23 @@
 
   It is vital to get these accommodations entered as early as possible and notify the student they have been completed.  It goes a long way to help the students feel at-ease if they receive a notifications right at the beginning of the term letting them know they won't have to worry about pestering or reminding their instructor, or fearing that their accommodation hasn't been entered before they take their quizzes or exams.
 
+## DAS Instructor Portal
+
+DAS has implemented an Instructors portal to provide a single space for instructors to go to review ALL DAS-related accommodation notifications for students in courses currently being taught. This space provides the same information that an instructor would see on the DAS Notification Letter. The DAS Notification Letters will still be emailed, this is an additional way to access the information. Visit [Disability Access Services Instructor Advisor](https://ds.oregonstate.edu/instructors-advisors) for login link and more information.
+
+Here is the process for accessing the DAS instructor area:
+
+- Visit the DAS website homepage: https://ds.oregonstate.edu/ 
+- Click `DAS Instructor Online Services Login` on the right hand side of the page
+- Sign in with your OSU Username and Password (DUO is required)
+- Click the reminders regarding FERPA information
+- Click on `Continue to View Student Accommodations`
+
+This will bring you to an area that has all of the courses you are teaching this term, along with information identifying students that have requested accommodations in each course.
+
 ## The DAS Email
 
-If you have a student who has been issued a DAS accommodation, you will receive an email from DAS near the beginning of the term.  This generally arrives just before the term starts, or sometime during the first few weeks.  
+In addition to the above, if you have a student who has been issued a DAS accommodation, you will receive an email from DAS near the beginning of the term.  This generally arrives just before the term starts, or sometime during the first few weeks.  
 
 ![DAS Email](images/DASemail.png "DAS Email")
 
