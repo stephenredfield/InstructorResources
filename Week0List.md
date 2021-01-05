@@ -15,7 +15,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
   3. Select "Class Administration" (Bottom Right)
   4. “Add a different URL to http://classes.engr.oregonstate.edu”
   5. Update your class’ link to be the Syllabus page of your Canvas class.  
-*NOTE: The format of this URL will be https://oregonstate.instructure.com/courses/\*\*/assignments/syllabus , where \*\* is the Canvas Course ID#.*
+*NOTE: The format of this URL will be https://canvas.oregonstate.edu/courses/\*\*/assignments/syllabus , where \*\* is the Canvas Course ID#.*
   6. Make your class’ syllabus page public via “Settings” -> "Course Details" in Canvas.  
 *NOTE: The course must be published for these pages to be visible to prospective students*
   ![Canvas Public Syllabus Page](images/CanvasPublicSyllabus.png "Canvas Public Syllabus Page")
