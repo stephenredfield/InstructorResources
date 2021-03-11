@@ -1,15 +1,12 @@
-https://it.engr.oregonstate.edu/lists/lt.php?tid=cUhbUwNVU1dQBRRTWgdVSAdTBwgaA1MEBxoHUQ0BB1UOBQxSVAVOAwBVCgdaB1BIVQdUCxpWAwsBGl9VUgFLAVwHAQIEBwRSVAQPTQYHVVNRUVcIGgQOV1MaUlQNXUsJCwVaHVAEBwdUVFgEUgBXBA
+# Teams - How To
 
+Microsoft Teams is a multi-platform connectivity app which is FERPA-approved and incorporates online chat and videoconferencing. It allows us to synchronously connect with our students to enhance their learning and increase student satisfaction. Think of it as a much-more-interactive chat client.  A Team is essentially a membership subset specific to some THING (like a course section, or the online program, or all OnlineCS instructors).
 
-# Slack - How To
+Teams is used to communicate with your students and encourage their learning in what feels like a much more in-person way. We've decided to incorporate it the standard tool for synchronous communications in our courses, and encourage you to employ it as much as possible.  This can take the form of office hours for yourself and your TAs, and tele-/video-conferencing at-a-click.  It can also be a place for you to talk about course-related and program-related materials in a more personal and approachable setting.  We will also use it for intra-departmental communication.
 
-Slack on our OSU enterprise Workspaces is a FERPA-approved, online chat and videoconferencing tool that is ideal for our synchronous student interaction needs. Think of it as a much-more-interactive chat client.  A Slack Workspace is essentially a membership subset specific to some THING (like a course section, for instance).
+There are multiple methods to connect to Teams.  We recommend using the desktop application and mobile app. You can find links to download these at the [University IT Teams Site](https://is.oregonstate.edu/teams). You can also log in directly to Teams through a browser via the [Microsoft Teams URL](https://teams.microsoft.com/): https://teams.microsoft.com/ 
 
-Slack is a fantastic tool for you to communicate with your students and encourage their learning in what feels like a much more in-person way. We've decided to incorporate it as a standard tool in our courses, and encourage you to employ it as much as possible.  This can take the form of office hours for yourself and your TAs, and tele-/video-conferencing at-a-click.  It can also be a place for you to talk about course-related and program-related materials in a more personal and approachable setting.  We will also use it for intra-departmental communication.
-
-There are multiple methods to connect to Slack.  We recommend using the desktop application and mobile app. You can find links to download these at our [Departmental Slack Info Site](https://it.engineering.oregonstate.edu/slack). Alternately, entering the slack Workspace URL in your web browser will allow you to log on without downloading an application, but notifications don't work as well using this method.
-
-NOTE: You can also view a [Demo](https://slackdemo.com/) which Slack has put out which shows many of its capabilities in use, and our [Departmental Slack Info Site](https://it.engineering.oregonstate.edu/slack) has some useful information as well.
+NOTE: Chris Thompson, College of Engineering IT Director, has made available a [recorded session demonstrating normal Teams functionality](https://it.engr.oregonstate.edu/lists/lt.php?tid=cUhbUwNVU1dQBRRTWgdVSAdTBwgaA1MEBxoHUQ0BB1UOBQxSVAVOAwBVCgdaB1BIVQdUCxpWAwsBGl9VUgFLAVwHAQIEBwRSVAQPTQYHVVNRUVcIGgQOV1MaUlQNXUsJCwVaHVAEBwdUVFgEUgBXBA). The [University IT Teams Site](https://is.oregonstate.edu/teams) also has Knowledge Base articles and Trainings available.
 
 ## Connecting to our Departmental Workspace
 
