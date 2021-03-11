@@ -18,7 +18,7 @@ Please connect to the Workspace [**_oregonstate.enterprise.slack.com_**](oregons
 
 Here's how we use the Departmental Slack (Feel free to request an invite if you're not already in some of these channels, and you'd like to be):
 
-- onlinecs-instructors
+- onlinecs-teachers
   Ad-hoc discussions for all of our online instructors. Clarification of policies, requests for assistance/information, etc)
 - onlinecs
   Questions/Interaction with staff/advisors associated with the OnlineCS programs, or general program questions/conversation.
