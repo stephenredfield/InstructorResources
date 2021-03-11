@@ -16,10 +16,14 @@ After you've downloaded Slack, when you boot it up you should arrive at a login 
 
 Please connect to the Workspace [**_oregonstate.enterprise.slack.com_**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
 
-Here's how we use the Departmental Slack:
+Here's how we use the Departmental Slack (Feel free to request an invite if you're not already in some of these channels, and you'd like to be):
 
-- pb-instructors (request an invite if you're not already in!)  
+- onlinecs-instructors
   Ad-hoc discussions for all of our online instructors. Clarification of policies, requests for assistance/information, etc)
+- onlinecs
+  Questions/Interaction with staff/advisors associated with the OnlineCS programs, or general program questions/conversation.
+- onlinecs-coursedev
+  Conversations related to course development, current courses under development, etc.. Also a great place to pick brains of more experienced course developers.
 - random  
   Random chat among department personnel (you!)
 - general  

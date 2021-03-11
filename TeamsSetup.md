@@ -8,18 +8,22 @@ There are multiple methods to connect to Teams.  We recommend using the desktop 
 
 NOTE: Chris Thompson, College of Engineering IT Director, has made available a [recorded session demonstrating normal Teams functionality](https://it.engr.oregonstate.edu/lists/lt.php?tid=cUhbUwNVU1dQBRRTWgdVSAdTBwgaA1MEBxoHUQ0BB1UOBQxSVAVOAwBVCgdaB1BIVQdUCxpWAwsBGl9VUgFLAVwHAQIEBwRSVAQPTQYHVVNRUVcIGgQOV1MaUlQNXUsJCwVaHVAEBwdUVFgEUgBXBA). The [University IT Teams Site](https://is.oregonstate.edu/teams) also has Knowledge Base articles and Trainings available.
 
-## Connecting to our Departmental Workspace
+## Connecting to our Departmental Team
 
-After you've downloaded Slack, when you boot it up you should arrive at a login similar to the following.
+You should receive an email inviting you to our Departmental Team. After you've downloaded Teams, when you boot it up you should arrive at a login similar to the following.
 
 ![Slack Homepage](images/SlackWorkspaceConnection.png "Slack Homepage")
 
 Please connect to the Workspace [**_oregonstate.enterprise.slack.com_**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
 
-Here's how we use the Departmental Slack:
+Here's how we use the Departmental Slack (Feel free to request an invite if you're not already in some of these channels, and you'd like to be):
 
-- pb-instructors (request an invite if you're not already in!)  
+- onlinecs-instructors
   Ad-hoc discussions for all of our online instructors. Clarification of policies, requests for assistance/information, etc)
+- onlinecs
+  Questions/Interaction with staff/advisors associated with the OnlineCS programs, or general program questions/conversation.
+- onlinecs-coursedev
+  Conversations related to course development, current courses under development, etc.. Also a great place to pick brains of more experienced course developers.
 - random  
   Random chat among department personnel (you!)
 - general  
