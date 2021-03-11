@@ -18,7 +18,7 @@ ULAs...
 - ...must be enrolled in at least 6 OSU credit hours for the term they are employed.
 - ...must complete FERPA training via [My Oregonstate](https://my.oregonstate.edu/web/myosu/employee) prior to engaging in FERPA-associated duties. (**Resources**, search **FERPA** and select **GRA, GTA, & Student Employee FERPA Training**)
 - ...are not allowed to evaluate their friends' work, so grading groups must be carefully organized around this.
-- ...may work up to 20 hours a week, depending on their time availability.
+- ...may work up to 20 hours a week, depending on their time availability, but should average out to 10 hours/week over the 13-week term.
 - ...must *clock in/out* via [EMPCenter](https://mytime.oregonstate.edu).
 - ...must have their timesheet approved by their supervisor via [EMPCenter](https://mytime.oregonstate.edu).
 - ...will be assigned you or the course owner as their supervisor.
@@ -26,6 +26,7 @@ ULAs...
 ### Additional Administrative Notes
 
 - It is faster to continue the employment of a ULA from a previous term than initiate a new hire.
+- In general, 
 - If a ULA will not be working again the next term, their employment should be terminated by the supervisor notifying the ULA guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)).
 
 ## Piazza Contributors
