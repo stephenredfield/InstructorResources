@@ -12,11 +12,11 @@ NOTE: Chris Thompson, College of Engineering IT Director, has made available a [
 
 You should receive an email inviting you to our Departmental Team. After you've downloaded Teams, when you boot it up you should arrive at a login similar to the following.
 
-![Slack Homepage](images/SlackWorkspaceConnection.png "Slack Homepage")
+![Teams Launch Page](images/TeamsLaunchPage.png "Teams Launch Page")
 
-Please connect to the Workspace [**_oregonstate.enterprise.slack.com_**](oregonstate.enterprise.slack.com) - this is the central connection point for all OSU-oriented slack workspaces. You should then select the "Sign in with ONID" and be able to connect. Now you're in!
+Click on the OnlineCS Team - this will be (alongside email) the primary communication medium for EECS OnlineCS-related issues. Now you're in!
 
-Here's how we use the Departmental Slack (Feel free to request an invite if you're not already in some of these channels, and you'd like to be):
+Here's how we use the OnlineCS Team. Feel free to request an invite if you're not already in some of these channels, and you'd like to be!
 
 - onlinecs-instructors
   Ad-hoc discussions for all of our online instructors. Clarification of policies, requests for assistance/information, etc)
@@ -29,16 +29,25 @@ Here's how we use the Departmental Slack (Feel free to request an invite if you'
 - general  
   Department-wide notes
 
-## Starting a new Class Workspace
+## Starting a new Class Team
 
-Now that you're set up and ready to go, it's time to create a Workspace for your students to connect to!  Fortunately our ENGR IT department has setup a fairly simple method to do this for us:
+Now that you're set up and ready to go, it's time to create a Team for your students to connect to!  We are working on a method with increased automation, but for now the following is a workable method:
 
-1. Sign on to [TEACH](https://teach.engr.oregonstate.edu/) using your department login.  The login info is the same as your ONID login, but this requires an ENGR account. If you don't have one yet, please [contact support](https://it.engineering.oregonstate.edu/webform/email-support-engineering-it) to have one set up for you.
-2. Select Class Administration from the TEACH navigation bar  
-![Teach Navigation Bar](images/TeachClassAdministration.png "Teach Navigation Bar")
-3. Select "Class Slack Workspace" and "Add a new class slack workspace".
-4. Select your new course from the Course List menu
-5. Add your TAs' ONID usernames to the "Special list members (TA's, etc):", separated by commas, and hit SUBMIT!  
+1. Open the [University IT Teams Site](https://is.oregonstate.edu/teams) and select "Request a Team".  
+  ![Request A Team](images/TeamsRequestTeam.png "Request A Team")
+2. Click the Big Orange "Request Service" button. This will require you to log in with your ONID.
+3. Fill in the form with your class information. We recommend including the course number, relevant section material, and the term, for record-keeping purposes.  
+  ![Teams Request Page](images/TeamsRequestUnsubmitted.png "Teams Request Page")
+4. After you submit the request you should see a "Request Submitted" page.  You will also receive an email that your Service Request titled "Request for Team ...." has been submitted.
+  ![Team Request Submitted](images/TeamsRequestSubmitted.png "Team Request Submitted")
+5. From here, it will take some time (1-2 business days) to have your Team added.  When it is, you'll receive an email from IT adding a comment to your service request. In Teams, you should also get a popup like the following:  
+  ![New Team Added](images/TeamsNewTeamAdded.png "New Team Added")
+
+## Adding your students
+
+Once it is created, there are a few methods to get your students and TAs added to the class Team. 
+
+
 *Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
 
 That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
