@@ -43,7 +43,7 @@ Now that you're set up and ready to go, it's time to create a Team for your stud
 5. From here, it will take some time (1-2 business days) to have your Team added.  When it is, you'll receive an email from IT adding a comment to your service request. In Teams, you should also get a popup like the following:  
   ![New Team Added](images/TeamsNewTeamAdded.png "New Team Added")
 
-## Adding your students
+## Adding your Students
 
 Once it is created, there are a few methods to get your students and TAs added to the class Team. 
 
@@ -52,7 +52,7 @@ Once it is created, there are a few methods to get your students and TAs added t
 
 That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
 
-## Configuring your Class Workspace
+## Configuring your Class Team
 
 Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Settings & Administration" heading)
 
