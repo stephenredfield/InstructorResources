@@ -28,6 +28,7 @@
 - Assorted
   - [Disability Access Services (DAS) Info](DAS.html)
   - [Handling Academic Misconduct (Cheating, Plagiarism, etc.)](HandlingAcademicMisconduct.html)
+  - [Find Student's Advisor by Student ID](https://eecs.oregonstate.edu/current-students/undergraduate/advising/make-appointment)
   - [Ecampus Faculty Resources and Guides](https://ecampus.oregonstate.edu/faculty/canvas/)
   - [Canvas Instructor Guide](https://community.canvaslms.com/docs/DOC-10460)
   - [Fixing Duo Issues with SSH and sFTP](sshKeyGuides.html)
