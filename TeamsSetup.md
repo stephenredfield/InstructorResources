@@ -43,48 +43,61 @@ Now that you're set up and ready to go, it's time to create a Team for your stud
 5. From here, it will take some time (1-2 business days) to have your Team added.  When it is, you'll receive an email from IT adding a comment to your service request. In Teams, you should also get a popup like the following:  
   ![New Team Added](images/TeamsNewTeamAdded.png "New Team Added")
 
-## Adding your Students
-
-Once it is created, there are a few methods to get your students and TAs added to the class Team. 
-
-
-*Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
-
-That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
-
 ## Configuring your Class Team
 
-Now that you have a Slack Workspace for your class, it's time to get it properly setup for use.  There are a few required setup procedures which follow here. To get started on setting these up, go to your class Workspace and get into the Workspace settings by clicking the Workspace dropdown, then selecting Workspace settings (under the "Settings & Administration" heading)
+Now that you have a Team for your class, it's time to get it properly setup for use.  There are a few setup procedures which follow here. To get started on setting these up, open Teams and get into the "Manage Team" window by clicking the "Three Dots" dropdown, then selecting "Manage Team".
 
-![Slack Workspace Settings](images/SlackWorkplaceSettings.png "Slack Workspace Settings")
+![Manage Team](images/TeamsManageTeam.png "Manage Team")
 
-### Improve Workspace Name & Description
+### Improve Team Name & Description
 
-- In the Workspace Settings, under the "Settings" tab find "Workspace Name, Description, and URL."
-- Alter the Name and Description to be more intuitive for the students, but don't touch the URL
+From anywhere in Teams, you can select that same dropdown window and "Edit Team" to modify the Team name and description to be more intuitive and/or useful for the students.
 
-  ![Slack Change Workspace Info](images/SlackChangeWorkspaceInfo.png "Slack Change Workspace Info")
+### Update Team Icon
 
-### Update Workspace Icon
+Updating the Team Picture will make it easier to navigate to the correct class' Team for students and for yourself.
 
-- In the Settings & Administration open "Customize [Workspace Name]", then find "Workspace Icon"
-- Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) and upload it as the Workspace Icon. This will make it easier to navigate to the correct class' workspace for students and yourself.
+1. From the "Manage Team" window, select the "Settings" tab, then find "Team Picture"
+2. Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) (We're re-using the Slack Icons) and upload it as the Team Picture.
 
-### Set up landing channel
+### Alter Member Permissions
 
-It is important for the landing channel to be a neutral environment for our students.  Slack provides two channels by default (**_\#general_** and **_\#random_**) but **_\#general_** is the landing point - ideal for announcements but poorly named.  Additionally, for multi-section workspaces we can't have the landing point be the regular Q & A channel (due to FERPA issues). It should be renamed to **_\#announcements_**, posting permissions should be restricted...
+Teams defaults to allowing members a great amount of leeway in terms of permissions. You may want to restrict student access on certain items, for example uploading custom apps.
 
-- Back in your Slack app in your class Workspace, enter the **_\#general_** channel and click "&#9432; Details" on the top right. "The "Details" word may be hidden.  
-![Slack Channel Details](images/SlackChannelSettingsWheel.png "Slack Channel Settings Gear")
-- Choose "... More Options" then "Rename this Channel" and rename the channel to "announcements"
-- Select "... More Options" again and select "Manage Posting Permissions". Select "Admins, plus specific people" and add your TAs to this list so they can post announcements as well. This will lock down the channel so only you and your TAs can post here.
+1. From the "Manage Team" window, select the "Settings" tab, then find "Member Permissions"
+2. Remove any permissions you believe pertinent for your class Team.
+3. It is suggested you remove permission to delete/restore channels, add/remove apps, and possibly create/update channels.  
+  ![Remove Member Permissions](images/TeamsRemovePermissions.png "Remove Member Permissions")
 
-### Set up new **_\#general_** channel  
+### Set up additional default channels
 
-Every student who joins your workspace will now land in **_\#announcements_** but be unable to post there.  This makes it a good place to post announcements, but we've now robbed ourselves of a **_\#general_** channel for Q & A. We'll have to make a new one and provide a link for students to "opt in" to that channel, and then we can use it for office hours and other synchronous communications.
+You may want to have additional channels where all students are members, such as an "announcements" or "random" channel.
 
-- To create a new channel, within the Slack application's left navigation bar, next to the "Channels" heading there should be a "+". Click this button to create a new **_\#general_** channel and set its description.
-  - A channel description is displayed to all who join that channel - you can set this one for however you intend to use it, but we'll need the description for the **_\#announcements_** channel for something special.
+1. From the "Manage Team" window, select "Channels"
+2. Click "Add Channel"
+3. Fill in Channel information
+4. Select the "Automatically show this channel in everyone's channel list" checkbox.
+
+Select "Admins, plus specific people" and add your TAs to this list so they can post announcements as well. This will lock down the channel so only you and your TAs can post here.
+
+**NOTE:** If you want to add an Announcements channel where only course staff can post, first create the channel using the above method, then...
+
+1. Select the three-dots dropdown for the channel and "Edit Channel"
+2. Toggle "Channel Moderation" to "On" (This will make it so only owners/moderators can create new posts)
+3. Remove any relevant channel-specific permissions (such as "Allow members to reply...")
+
+### Recommended Channels
+
+Some additional channels you may elect to use:
+
+- **_Announcements_** (a default channel)  
+Class-related announcements, or Teams-specific announcements (Office hours changes, etc.)
+- **_Administration_** (private)  
+Used to communicate with your TAs. When creating this, set it to private and invite only your course staff.
+- **_TA Discussion_** (private to your TAs)  
+Used among your TAs to discuss their duties.  It is recommended that you are not a member of this channel.
+- **_Random_** (a default channel)  
+Off-topic discussions, class related articles, memes, etc... within your course.
 
 ### Provide students a link to your new **_\#general_** channel
 
@@ -98,18 +111,7 @@ Since Slack doesn't allow students the anonymity which Piazza does, we need to l
 - You may also elect to keep a link to **_\#general_** in the body of the most recent message in the channel.
 - The point here is to always provide a visible link to **_\#general_** for students 'just now' joining your workspace or viewing it for the first time.
   
-## Recommended Channels
-
-Some additional channels you may elect to use:
-
-- **_\#administration_** (private)  
-Used to communicate with your TAs.
-- **_\#ta_discussion_** (private to your TAs)  
-Used among your TAs to discuss their duties.  It is recommended that you are not a member of this channel.
-- **_\#random_** (a default channel)  
-Off-topic discussions, class related articles, memes, etc... within your course.
-
-## Adding Slack to your Canvas Navigation Panel
+## Adding Teams to your Canvas Navigation Panel
 
 Students are encouraged to utilize Slack as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows.
 
@@ -124,7 +126,21 @@ Students are encouraged to utilize Slack as an official course resource, so they
    - *check:* **Show in Course Navigation**
    ![Canvas Redirect to Slack Settings](images/SlackRedirectConfig.png "Canvas Redirect to Slack Settings")
 
-## Encouraging Use of Slack
+## Adding your Students
+
+Once it is created, there are a few methods to get your students and TAs added to the class Team. The TAs (and any other instructors) can be added using the in-client method.
+
+1. Select the three dots dropdown from the relevant Team, then select Add Member.
+  ![New Team Member](images/TeamsAddMember1.png "New Team Member")
+2. Enter the enough of the relevant individual's email address to trigger the autofill, and select Add Member.
+3. You may alter the person's privileges here. Teams defaults to two options, Member and 
+
+
+*Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
+
+That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
+
+## Encouraging Use of Teams
 
 One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Slack, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [this page](https://oregonstate.instructure.com/courses/1622724/pages/slack-how-to-for-students) which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
 
