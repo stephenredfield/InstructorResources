@@ -23,8 +23,8 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 - **Course Syllabus conforms to [Academic Integrity Requirements](PreventingAcademicMisconduct.html).**
 - **Piazza set up for course and in Nav bar**  
 See [Piazza – How To](PiazzaSetup.html)
-- **Slack Workspace setup for course**  
-See [Slack – How To](SlackSetup.html)
+- **Class Team setup for course**  
+See [Teams – How To](TeamsSetup.html)
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
 ([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9))
 
@@ -64,7 +64,7 @@ Please use this [template file](docs/Week0Template.txt) for assistance in format
 - **TAB: Where to go for help**
   - **Preferred Instructor Contact Info**
   - **Office Hours Schedule (with links if linkable)**
-  - **Slack Link (https://oregonstate.enterprise.slack.com) with info on usage**
+  - **Teams Link (https://teams.microsoft.com) with info on usage**
   - **Link to discussion board**
   - TA Contact Info (if needed)
   - Link to eCampus Resources
