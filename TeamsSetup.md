@@ -125,7 +125,17 @@ Students are encouraged to utilize Slack as an official course resource, so they
 
 Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long.
 
-### Option 1 - Link from course Navigation window (SPAMMY)
+### Option 1 - Provide students a "Join Code"
+
+For this method, you will create a short "Teams" page within Canvas and provide your students with a Code which they can enter via the Teams app to directly join the class Team.
+
+1.
+2.
+3.
+
+That's it! Your students will be able to add themselves and you won't need to do any confirmations. Unfortunately they can, in theory, share the code outside the class and OSU-credentialed individuals who aren't enrolled in the class would be able to join. If this is an issue...
+
+### Option 2 - Link from course Navigation window (SPAMMY)
 
 To have the link in your Canvas course's navigation window link directly to your class Team (rather than just to the general Teams site)...
 
@@ -136,16 +146,6 @@ To have the link in your Canvas course's navigation window link directly to your
 4. Replace the **URL redirect** in Step 5 with the URL you copied above.
 
 With this method, your students will directly link to your class Team. Every time a student clicks to join, you will get an email notifying you. With, potentially, a few hundred students this will quickly overwhelm your inbox (if you don't filter the requests).
-
-### Option 2 - Provide students a "Join Code"
-
-For this method, you will create a short "Teams" page within Canvas and provide your students with a Code which they can enter via the Teams app to directly join the class Team.
-
-1.
-2.
-3.
-
-That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
 
 ### Option 3 - Auto-Enrollment (Forthcoming)
 
