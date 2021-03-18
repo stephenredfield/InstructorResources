@@ -36,7 +36,7 @@ Now that you're set up and ready to go, it's time to create a Team for your stud
 2. Click the Big Orange "Request Service" button. This will require you to log in with your ONID.
 3. Fill in the form with your class information. We recommend including the course number, relevant section material, and the term, for record-keeping purposes.  
   ![Teams Request Page](images/TeamsRequestUnsubmitted.png "Teams Request Page")
-4. After you submit the request you should see a "Request Submitted" page.  You will also receive an email that your Service Request titled "Request for Team ...." has been submitted.
+4. After you submit the request you should see a "Request Submitted" page.  You will also receive an email that your Service Request titled "Request for Team ...." has been submitted.  
   ![Team Request Submitted](images/TeamsRequestSubmitted.png "Team Request Submitted")
 5. From here, it will take some time (1-2 business days) to have your Team added.  When it is, you'll receive an email from IT adding a comment to your service request. In Teams, you should also get a popup like the following:  
   ![New Team Added](images/TeamsNewTeamAdded.png "New Team Added")
