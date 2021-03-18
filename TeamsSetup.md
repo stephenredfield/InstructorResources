@@ -129,9 +129,15 @@ Once your class Team is created and set up, there are a few methods add your stu
 
 For this method, you will create a short "Teams" page within Canvas and provide your students with a Code which they can enter via the Teams app to directly join the class Team.
 
-1.
-2.
-3.
+1. From the "Manage Team" window, select the "Settings" tab, then find "Team Code"
+2. Click "Generate"  
+  ![Generate Team Code](images/TeamsGenerateCode.png "Generate Team Code")
+3. Copy this code for later.
+4. In Canvas, create a Teams Page in your Course Introduction Module.
+5. In this Page, reference the nav button and provide something like the following directions to the students:
+   1. To join us on Microsoft Teams, visit the link in the nav bar ([https://teams.microsoft.com/](https://teams.microsoft.com/)).
+   2. Login with your OSU ONID and password
+   3. Join the (Class Number) Team Channel using the Team Code (Team Code)
 
 That's it! Your students will be able to add themselves and you won't need to do any confirmations. Unfortunately they can, in theory, share the code outside the class and OSU-credentialed individuals who aren't enrolled in the class would be able to join. If this is an issue...
 
