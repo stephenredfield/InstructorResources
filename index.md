@@ -17,13 +17,13 @@
     - [Co-Instructing - A Primer](CoinstructingPrimer.html)
   - [Proctored Exams](ProctoredExams.html)
   - [Adding TAs](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ManageAssistants.pdf)
-  - [Setting up Slack](SlackSetup.html)
+  - [Setting up Teams](TeamsSetup.html)
   - [Setting up Piazza](PiazzaSetup.html)
 - Succeeding at Student Engagement
   - [A Day in the Life of an Online CS Instructor](DayInTheLife.html)
   - [Instructor Presence](InstructorPresence.html)
   - Student Feedback Suggestions
-  - Driving Students to Slack
+  - Driving Students to Teams
   - Guiding Quality Discussions
 - Assorted
   - [Disability Access Services (DAS) Info](DAS.html)
