@@ -99,54 +99,54 @@ Used among your TAs to discuss their duties.  It is recommended that you are not
 - **_Random_** (a default channel)  
 Off-topic discussions, class related articles, memes, etc... within your course.
 
-### Provide students a link to your new **_\#general_** channel
+### Adding your TAs
 
-Since Slack doesn't allow students the anonymity which Piazza does, we need to let our students 'opt in' to our class-oriented Slack channel.  We now have all the channels we need, but the students don't have any way to see the **_\#general_** channel. Let's give them a link.
+Once it is created, you can add your TAs to the class Team using the in-client method. You may also need to add any co-instructors.
 
-- Back in your **_\#announcements_** channel, go back to the channel settings (See "Set up landing channel" image for help)
-- Select "Additional Options" and "Set the channel description"
-- Set the description to something like the following. The description will be visible until the posts of the channel push it off the screen.  
-  "This channel is for class-wide communication and announcements. All members are in this channel by default, but only Instructors/TAs may post. For class discussion and office hours, please use the **_\#general_** channel."
-- At the top of the channel there is a spot to set the channel topic which is, by default, "Company-wide announcements and work-based matters". Set the topic to "Join **_\#general_** for office hours and class discussion" or something along those lines.
-- You may also elect to keep a link to **_\#general_** in the body of the most recent message in the channel.
-- The point here is to always provide a visible link to **_\#general_** for students 'just now' joining your workspace or viewing it for the first time.
-  
+1. Select the three dots dropdown from the relevant Team, then select Add Member.
+  ![New Team Member](images/TeamsAddMember1.png "New Team Member")
+2. Enter the enough of the relevant individual's email address to trigger the autofill, and select Add Member.
+3. You may alter the person's privileges here. Teams has only two options, Member and Owner. Use each at your discretion, but be aware that owner has fairly unlimited permissions.
+
 ## Adding Teams to your Canvas Navigation Panel
 
-Students are encouraged to utilize Slack as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows.
+Students are encouraged to utilize Slack as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows. NOTE: If you want this link to automatically enroll students who click it, see the directions in [Adding your Students](#adding-your-students).
 
 1. In your course, select **Settings**.
 2. Select the **Apps** tab.
 3. Search *Redirect* and select the **Redirect tool** from the results.
 4. Click on **+Add App**
 5. Update Redirect settings as follows (see image below)
-   - **Name:** Slack
-   - **URL redirect:** https://oregonstate.enterprise.slack.com
+   - **Name:** Teams
+   - **URL redirect:** https://teams.microsoft.com
    - *check:* **Force open in new tab (For External Links Only)**
    - *check:* **Show in Course Navigation**
-   ![Canvas Redirect to Slack Settings](images/SlackRedirectConfig.png "Canvas Redirect to Slack Settings")
+   ![Canvas Redirect to Teams](images/TeamsRedirect.png "Canvas Redirect to Teams")
 
 ## Adding your Students
 
-Once it is created, there are a few methods to get your students and TAs added to the class Team. The TAs (and any other instructors) can be added using the in-client method.
+Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long.
 
-1. Select the three dots dropdown from the relevant Team, then select Add Member.
-  ![New Team Member](images/TeamsAddMember1.png "New Team Member")
-2. Enter the enough of the relevant individual's email address to trigger the autofill, and select Add Member.
-3. You may alter the person's privileges here. Teams defaults to two options, Member and 
+### Option 1 - Link from course Navigation window.
 
+To have the link in your Canvas course's navigation window link directly to your class Team (rather than just to the general Teams site)...
 
-*Hint: For help locating your TA usernames, you can use the search window at the bottom of this same page.*
+1. From Teams, select the three-dots dropdown for your class Team, then select "Get link to team".  
+  ![Get Team Link](images/TeamsGetLink.png "Get Team Link")
+2. Copy this URL for later.
+3. Follow steps 1-4 in [Adding Teams to your Canvas Navigation Panel](#adding-teams-to-your-canvas-navigation-panel).
+4. Replace the **URL redirect** in Step 5 with the URL you copied above.
 
-That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
+With this method, your students will directly link to your class Team. That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
 
 ## Encouraging Use of Teams
 
-One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Slack, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [this page](https://oregonstate.instructure.com/courses/1622724/pages/slack-how-to-for-students) which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
+**\*\*\* Info Placeholder - The below is still for Slack\*\*\***
+One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [this page](https://oregonstate.instructure.com/courses/1622724/pages/slack-how-to-for-students) which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
 
 **\*\*\* Intro Activity Placeholder\*\*\***
 
-## Other Slack Information
+## Other Teams Information
 
-Your Workspace won't be the only one your students have.  Here is some information about how the student Slack experience is configured.
+Your Team won't be the only one your students have.  Here is some information about how the student Team experience is configured.
 **\*\*\* Info Placeholder - Hub is still held up\*\*\***
