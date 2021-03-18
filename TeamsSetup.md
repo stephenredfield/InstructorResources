@@ -164,12 +164,14 @@ One hurdle you may face is getting your students on-board and engaged. One signi
 
 ## Teams Tips & Tricks
 
-1. Use a shared calendar for TA deadlines.
-2. Use Trello to create tasks for TA's to track their duties.
+1. In Teams - Click your profile photo and select Settings, then update the Layout to List (this will show all enrolled teams' channels instead of just one at a time) and possibly change to Darkmode.
+2. Add Tags in your member management, have a Tag for instructors and another Tag for TAs/ULAs.
+3. Use a shared calendar for TA deadlines.
+4. Use a Trello Tab to create tasks for TA's to track their duties.
    - They can mark 'in progress' or 'completed'.
    - You can even do time management allotment for each task.
    - This takes some Week 1 setup time, but afterwards the TA's just update their tasks as needed. It shows upon their calendar as when to _start_ and _complete_ tasks by.
-3. Use of Timeneye for time keeping.
+5. Use of Timeneye for time keeping.
    - ULAs can start, pause, and save their timeclock by date and by Project and Phase.
    - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime later.
 
