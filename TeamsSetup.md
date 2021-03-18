@@ -125,7 +125,7 @@ Students are encouraged to utilize Slack as an official course resource, so they
 
 Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long.
 
-### Option 1 - Link from course Navigation window.
+### Option 1 - Link from course Navigation window (SPAMMY)
 
 To have the link in your Canvas course's navigation window link directly to your class Team (rather than just to the general Teams site)...
 
@@ -135,7 +135,21 @@ To have the link in your Canvas course's navigation window link directly to your
 3. Follow steps 1-4 in [Adding Teams to your Canvas Navigation Panel](#adding-teams-to-your-canvas-navigation-panel).
 4. Replace the **URL redirect** in Step 5 with the URL you copied above.
 
-With this method, your students will directly link to your class Team. That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
+With this method, your students will directly link to your class Team. Every time a student clicks to join, you will get an email notifying you. With, potentially, a few hundred students this will quickly overwhelm your inbox (if you don't filter the requests).
+
+### Option 2 - Provide students a "Join Code"
+
+For this method, you will create a short "Teams" page within Canvas and provide your students with a Code which they can enter via the Teams app to directly join the class Team.
+
+1.
+2.
+3.
+
+That's it! Your students will be automatically added and you'll be the Workspace Administrator, which means you're responsible for managing all public channels.  Your students and TAs can create their own private channels for their own conversations, and everyone can Direct Message each other.
+
+### Option 3 - Auto-Enrollment (Forthcoming)
+
+This is in progress and not functional yet. It should obsolete Options 1 and 2!
 
 ## Encouraging Use of Teams
 
