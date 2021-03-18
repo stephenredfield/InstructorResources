@@ -162,6 +162,17 @@ This is in progress and not functional yet. It should obsolete Options 1 and 2!
 
 One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students) may also help in driving students to the Teams channels.
 
+## Teams Tips & Tricks
+
+1. Use a shared calendar for TA deadlines.
+2. Use Trello to create tasks for TA's to track their duties.
+   - They can mark 'in progress' or 'completed'.
+   - You can even do time management allotment for each task.
+   - This takes some Week 1 setup time, but afterwards the TA's just update their tasks as needed. It shows upon their calendar as when to _start_ and _complete_ tasks by.
+3. Use of Timeneye for time keeping.
+   - ULAs can start, pause, and save their timeclock by date and by Project and Phase.
+   - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime later.
+
 ## Other Teams Information
 
 Your Team won't be the only one your students have.  Here is some information about how the student Team experience is configured.
