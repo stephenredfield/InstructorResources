@@ -18,16 +18,14 @@ Click on the OnlineCS Team - this will be (alongside email) the primary communic
 
 Here's how we use the OnlineCS Team. Feel free to request an invite if you're not already in some of these channels, and you'd like to be!
 
-- onlinecs-instructors
+- **_Teachers_** (Locked)  
   Ad-hoc discussions for all of our online instructors. Clarification of policies, requests for assistance/information, etc)
-- onlinecs
+- **_General_**  
   Questions/Interaction with staff/advisors associated with the OnlineCS programs, or general program questions/conversation.
-- onlinecs-coursedev
+- **_Course Development_** (Locked)  
   Conversations related to course development, current courses under development, etc.. Also a great place to pick brains of more experienced course developers.
-- random  
-  Random chat among department personnel (you!)
-- general  
-  Department-wide notes
+- **_Random_**  
+  Random chat among department personnel (you!) that doesn't fit in General. Pet pics welcome.
 
 ## Starting a new Class Team
 
