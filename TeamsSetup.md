@@ -55,8 +55,9 @@ From anywhere in Teams, you can select that same dropdown window and "Edit Team"
 
 Updating the Team Picture will make it easier to navigate to the correct class' Team for students and for yourself.
 
-1. From the "Manage Team" window, select the "Settings" tab, then find "Team Picture"
-2. Download your class' Slack Workspace Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9) (We're re-using the Slack Icons) and upload it as the Team Picture.
+1. Download your class' Teams Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9).
+2. From the "Manage Team" window, select the "Settings" tab, then find "Team Picture"
+3. Upload the Teams Icon and select it as the Team Picture.
 
 ### Alter Member Permissions
 
@@ -108,7 +109,7 @@ Once it is created, you can add your TAs to the class Team using the in-client m
 
 ## Adding Teams to your Canvas Navigation Panel
 
-Students are encouraged to utilize Slack as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows. NOTE: If you want this link to automatically enroll students who click it, see the directions in [Adding your Students](#adding-your-students).
+Students are encouraged to utilize Teams as an official course resource, so they should be provided a link in the course navigation panel. If your course does not already have this feature, it can be added as follows. NOTE: If you want this link to automatically enroll students who click it, see the directions in [Adding your Students](#adding-your-students).
 
 1. In your course, select **Settings**.
 2. Select the **Apps** tab.
@@ -123,9 +124,9 @@ Students are encouraged to utilize Slack as an official course resource, so they
 
 ## Adding your Students
 
-Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long.
+Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long. You may elect to paste this [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students) into your courses. Don't forget to snag the image and edit the page (specifically the join method and any changes to the channels) to fit your class!. I recommend putting this in the class Introduction module or in the Tools syllabus page subsection.
 
-### Option 1 - Provide students a "Join Code"
+### Option 1 - Provide students a "Join Code" (Preferred)
 
 For this method, you will create a short "Teams" page within Canvas and provide your students with a Code which they can enter via the Teams app to directly join the class Team.
 
@@ -159,12 +160,10 @@ This is in progress and not functional yet. It should obsolete Options 1 and 2!
 
 ## Encouraging Use of Teams
 
-**\*\*\* Info Placeholder - The below is still for Slack\*\*\***
-One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! I've taken the liberty of creating [this page](https://oregonstate.instructure.com/courses/1622724/pages/slack-how-to-for-students) which you can paste into your courses (don't forget to snag the image as well!). I recommend putting this in the first Module the students see, or in the Tools syllabus page subsection.
-
-**\*\*\* Intro Activity Placeholder\*\*\***
+One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students) may also help in driving students to the Teams channels.
 
 ## Other Teams Information
 
 Your Team won't be the only one your students have.  Here is some information about how the student Team experience is configured.
+
 **\*\*\* Info Placeholder - Hub is still held up\*\*\***
