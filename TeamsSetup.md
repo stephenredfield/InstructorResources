@@ -166,12 +166,19 @@ One hurdle you may face is getting your students on-board and engaged. One signi
 
 1. In Teams - Click your profile photo and select Settings, then update the Layout to List (this will show all enrolled teams' channels instead of just one at a time) and possibly change to Darkmode.
 2. Add Tags in your member management, have a Tag for instructors and another Tag for TAs/ULAs.
-3. Use a shared calendar for TA deadlines.
-4. Use a Trello Tab to create tasks for TA's to track their duties.
+3. Teams supports in-line markdown
+   - Single line code snippets: \`$host = $(hostname)\` -> `$host = $hostname`
+   - Multi-line code snippets: with \`\`\`code here\`\`\` (not in lists, though)
+   - **All** _the_ ~~other~~ markdown works too... \*\*All\*\* \_the\_ \~\~other\~\~ markdown works too.
+4. If you want full blown syntax highlighting without dropping a file, you can use the button labeled `</>` in the rich text editor to include a larger portion of code
+5. If you use your Exchange calendar, it's already integrated into Teams. You can also use a shared calendar for TA deadlines.
+6. Live events and 'meet now' work great for as-needed video conferencing.
+7. You can add all sorts of use apps to your Teams, tied to individual channels! From github integration to Trello or Tasks for management to Onenote or Evernote for notes. 
+8. Use a Trello Tab to create tasks for TA's to track their duties.
    - They can mark 'in progress' or 'completed'.
    - You can even do time management allotment for each task.
    - This takes some Week 1 setup time, but afterwards the TA's just update their tasks as needed. It shows upon their calendar as when to _start_ and _complete_ tasks by.
-5. Use of Timeneye for time keeping.
+9. Use of Timeneye for time keeping.
    - ULAs can start, pause, and save their timeclock by date and by Project and Phase.
    - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime later.
 
