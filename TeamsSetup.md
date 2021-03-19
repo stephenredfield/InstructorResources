@@ -180,7 +180,7 @@ One hurdle you may face is getting your students on-board and engaged. One signi
    - This takes some Week 1 setup time, but afterwards the TA's just update their tasks as needed. It shows upon their calendar as when to _start_ and _complete_ tasks by.
 9. Use of Timeneye for time keeping.
    - ULAs can start, pause, and save their timeclock by date and by Project and Phase.
-   - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime later.
+   - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime.oregonstate.edu later.
 
 ## Other Teams Information
 
