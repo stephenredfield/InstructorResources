@@ -36,11 +36,13 @@ To begin a new class instance, click the Ed Discussions link in the navigation s
 
 Be sure to update the Code (CSXXX_40X) and Name to something easy for the students to understand. Now scroll down to the bottom of the page, where you'll find the "Users" section. There's an extremely handy button here "Sync with LMS" which will automatically enroll all students, and enroll/provision all special roles (Graders, TAs, other Instructors). Note that you may not have all your ULA/GTA assignments at this point. You can re-sync Ed at any time from Settings->Users.
 
-![Ed Setup Page](images/EdSync.png "Ed Setup Page")
+![Sync Ed enrollment to LMS](images/EdSync.png "Sync Ed enrollment to LMS")
 
 <a name='RecSettings'/>  
 
 ## Recommended Settings
+
+\*\*\* MORE ON THIS LATER - The below are old Piazza settings. I will add recommended Ed settings as I investigate further\*\*\*
 
 We have found the following Class and Q&A Settings to be the best fit for most classes in the program and recommend you use the same:
 
@@ -57,11 +59,13 @@ We have found the following Class and Q&A Settings to be the best fit for most c
 
 ## Introduction Thread
 
-Online engagement best practices inform us that an introduction thread is important for building a constructive online learning environment.  Piazza is the ideal place for us to do this. At the beginning of each term you should post an introductory thread and request that students post replies.  I recommend attaching a photo of yourself and writing your own introduction here even though you've provided an Instructor Introduction video in the Canvas course.  You should also keep up with the student posts and respond to at least a few. Both of these will show that you're engaged in the forum and that you're an active resource for them to utilize.
+Online engagement best practices inform us that an introduction thread is important for building a constructive online learning environment.  Ed is the ideal place for us to do this. At the beginning of each term you should post an introductory thread and request that students post replies.  I recommend attaching a photo of yourself and writing your own introduction here even though you've provided an Instructor Introduction video in the Canvas course.  You should also keep up with the student posts and respond to at least a few. Both of these will show that you're engaged in the forum and that you're an active resource for them to utilize.
 
 <a name='QA'/>  
 
-## Piazza Q & A
+## Ed Q & A
+
+\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
 
 The "Q & A" section is your bread and butter here. This is where students ask questions and you have the opportunity to answer them or allow other students to do that. I also recommend getting your TAs involved in the forum.  Here are some key points for the Piazza Q & A Section.
 
@@ -76,7 +80,9 @@ The in-class poll can be used to gather information quickly of the entire class,
 
 <a name='Groups'/>  
 
-## Piazza Groups
+## Ed Groups
+
+\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
 
 Groups in Piazza are more annoying to create than in Canvas. The creation mechanism is in the "Manage Class" subsection under "Create Groups".
 
@@ -87,6 +93,8 @@ I recommend using Canvas to generate groups, then pulling the emails from Canvas
 
 <a name='Resources'/>  
 
-## Piazza Resources
+## Ed Resources
+
+\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
 
 Piazza has the ability to serve as a repository for course materials (Homework assignments, solutions, lectures, etc).  I don't recommend using this, since we prefer to keep as much information in the Canvas page as possible so information drift can be limited, but if you elect to post this information in Piazza that's fine.
