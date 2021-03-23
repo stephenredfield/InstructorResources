@@ -21,8 +21,8 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
   ![Canvas Public Syllabus Page](images/CanvasPublicSyllabus.png "Canvas Public Syllabus Page")
 - **Course Syllabus (page or PDF) has a “Communication Policy” which specifies the proper mechanism to get in touch with Instructor/TAs.**
 - **Course Syllabus conforms to [Academic Integrity Requirements](PreventingAcademicMisconduct.html).**
-- **Piazza set up for course and in Nav bar**  
-See [Piazza – How To](PiazzaSetup.html)
+- **Ed Discussions set up for course and present in Navigation bar**  
+See [Ed Discussions – How To](EDSetup.html)
 - **Class Team setup for course**  
 See [Teams – How To](TeamsSetup.html)
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
