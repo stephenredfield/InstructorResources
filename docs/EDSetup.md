@@ -7,8 +7,7 @@ NOTE: You can also read the [Ed support documentation](https://support.piazza.co
 ##### Table of Contents  
 
 [Adding Ed Discussions to your class' Navigation Panel](#AddNavPanel)  
-[Starting a new Class instance](#StartInstance)  
-[Enrolling Your Students (and TAs)](#EnrollStudents)  
+[Starting a new Class instance and Enrolling Your Students (and TAs)](#StartInstance)  
 [Recommended Settings](#RecSettings)  
 [Introduction Thread](#IntroThread)  
 [Piazza Q & A](#QA)  
@@ -17,9 +16,9 @@ NOTE: You can also read the [Ed support documentation](https://support.piazza.co
 
 <a name='AddNavPanel'/>  
 
-## Adding Piazza to your class' Navigation Panel
+## Adding Ed Discussions to your class' Navigation Panel
 
-To add a Piazza link to the course Nav bar…
+To add an Ed Discussions link to the course Nav bar…
 
 1. From your course Nav bar, click "Settings"
 2. In the "Navigation" tab, scroll down to the bottom (greyed out) portion and find "Ed Discussion"
@@ -29,27 +28,15 @@ Please note that Ed Discussions is only installed on the "School of EECS" Canvas
 
 <a name='StartInstance'/>
 
-## Starting a new Class instance
+## Starting a new Class instance and Enrolling your Students (and TAs)
 
 To begin a new class instance, click the Ed Discussions link in the navigation sidebar for your class. If no class instance yet exists, you should see a screen similar to this:
 
 ![Ed Setup Page](images/EdSetup.png "Ed Setup Page")
 
-The top half of the "OR" is where you create a new class.  I recommend filling out more intuitive course Name and Numbers (these are visible to students, so simplicity is important) rather than using the defaults.  For this example I would enter "Intro to Computer Networks" for the Name (rather than the all-caps version here) and "CS 372" for the number.  If there are multiple sections, I would include that as well (e.g. "CS 372_400"). Use the catalog max capacity for your Enrollment estimate.
+Be sure to update the Code (CSXXX_40X) and Name to something easy for the students to understand. Now scroll down to the bottom of the page, where you'll find the "Users" section. There's an extremely handy button here "Sync with LMS" which will automatically enroll all students, and enroll/provision all special roles (Graders, TAs, other Instructors). Note that you may not have all your ULA/GTA assignments at this point. You can re-sync Ed at any time from Settings->Users.
 
-<a name='EnrollStudents'/>  
-
-## Enrolling Your Students (and TAs)
-
-Now that you have a class instance, you should make sure all your students are enrolled.  If you use Piazza for official announcements or assignment clarifications, this is mandatory.
-
-1. Get a list of student emails from Canvas.   
-The simplest mechanism for this is to go to Gradebook and Export a CSV file, then open in a spreadsheet editor and select & copy the column with all student emails ("SIS Login ID"). 
-2. Provide this list to Piazza   
-Back in Piazza, in your brand new course instance, click "Manage Class" at the top, then scroll down to "Enroll Students". Paste the email list directly into the box and click "Add Students".
-
-That's it! The students will receive an activation email and will be able to access Piazza from within their Canvas course.
-NOTE: If you have TAs you want to enroll in the class you should paste their emails into the "Enroll Professors/TAs" box.
+![Ed Setup Page](images/EdSync.png "Ed Setup Page")
 
 <a name='RecSettings'/>  
 
