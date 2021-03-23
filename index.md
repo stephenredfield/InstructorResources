@@ -18,7 +18,7 @@
   - [Proctored Exams](ProctoredExams.html)
   - [Adding TAs](https://ecampus.oregonstate.edu/faculty/canvas/QuickReference-ManageAssistants.pdf)
   - [Setting up Teams](TeamsSetup.html)
-  - [Setting up Piazza](PiazzaSetup.html)
+  - [Setting up Ed Discussions](EDSetup.html)
 - Succeeding at Student Engagement
   - [A Day in the Life of an Online CS Instructor](DayInTheLife.html)
   - [Instructor Presence](InstructorPresence.html)
