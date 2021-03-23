@@ -2,7 +2,7 @@
 
 ED Discussions is an FERPA-approved, extremely searchable online discussion board that works extremely well for asynchronous Q&A.  We've adopted it for all classes in our program and it should already be in the navigation panel for your course instance.  If not, a guide is in the next section.
 Ed is quite powerful, and you may elect to use some of its more advanced features in your classes, but to just get you started, here's what you need to know...
-NOTE: You can also read the [Ed support documentation](https://support.piazza.com/) and view the [EECS Ed Training](https://media.oregonstate.edu/media/t/1_lsr8orcb) for more information.
+NOTE: You can also read the [Ed interface quick-start guide](https://edstem.org/quickstart/ed-discussion.pdf) and view the [EECS Ed Training](https://media.oregonstate.edu/media/t/1_lsr8orcb) for more information.
 
 ##### Table of Contents  
 
