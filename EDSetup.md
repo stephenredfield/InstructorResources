@@ -10,9 +10,9 @@ NOTE: You can also read the [Ed interface quick-start guide](https://edstem.org/
 [Starting a new Class instance and Enrolling Your Students (and TAs)](#StartInstance)  
 [Recommended Settings](#RecSettings)  
 [Introduction Thread](#IntroThread)  
-[Piazza Q & A](#QA)  
-[Piazza Groups](#Groups)  
-[Piazza Resources](#Resources)  
+[Ed Q & A](#QA)  
+[Ed Groups](#Groups)  
+[Ed Resources](#Resources)  
 
 <a name='AddNavPanel'/>  
 
