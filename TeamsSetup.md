@@ -173,12 +173,13 @@ One hurdle you may face is getting your students on-board and engaged. One signi
 4. If you want full blown syntax highlighting without dropping a file, you can use the button labeled `</>` in the rich text editor to include a larger portion of code
 5. If you use your Exchange calendar, it's already integrated into Teams. You can also use a shared calendar for TA deadlines.
 6. Live events and 'meet now' work great for as-needed video conferencing.
-7. You can add all sorts of use apps to your Teams, tied to individual channels! From github integration to Trello or Tasks for management to Onenote or Evernote for notes. 
-8. Use a Trello Tab to create tasks for TA's to track their duties.
+7. You can add all sorts of use apps to your Teams, tied to individual channels! From github integration to Trello or Tasks for management to Onenote or Evernote for notes.
+8. Create assignment-specific channels, to keep conversation focused and easily searchable for those who aren't able to track Teams all day.
+9. Use a Trello Tab to create tasks for TA's to track their duties.
    - They can mark 'in progress' or 'completed'.
    - You can even do time management allotment for each task.
    - This takes some Week 1 setup time, but afterwards the TA's just update their tasks as needed. It shows upon their calendar as when to _start_ and _complete_ tasks by.
-9. Use of Timeneye for time keeping.
+10. Use of Timeneye for time keeping.
    - ULAs can start, pause, and save their timeclock by date and by Project and Phase.
    - This can help with those off-the-cuff (non-office-hours) timekeeping, then be uploaded to mytime.oregonstate.edu later.
 
