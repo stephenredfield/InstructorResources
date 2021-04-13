@@ -10,7 +10,7 @@ NOTE: You can also read the [Ed interface quick-start guide](https://edstem.org/
 [Starting a new Class instance and Enrolling Your Students (and TAs)](#StartInstance)  
 [Recommended Settings](#RecSettings)  
 [Introduction Thread](#IntroThread)  
-[Ed Q & A](#QA)  
+[Ed Discussions](#Discussions)  
 [Ed Groups](#Groups)  
 [Ed Resources](#Resources)  
 
@@ -61,22 +61,56 @@ We have found the following Class and Q&A Settings to be the best fit for most c
 
 Online engagement best practices inform us that an introduction thread is important for building a constructive online learning environment.  Ed is the ideal place for us to do this. At the beginning of each term you should post an introductory thread and request that students post replies.  I recommend attaching a photo of yourself and writing your own introduction here even though you've provided an Instructor Introduction video in the Canvas course.  You should also keep up with the student posts and respond to at least a few. Both of these will show that you're engaged in the forum and that you're an active resource for them to utilize.
 
-<a name='QA'/>  
+<a name='Discussions'/>  
 
-## Ed Q & A
+## Discussions
 
-\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
+The "Discussion" section is your bread and butter here. This is where students ask questions and you have the opportunity to answer them or allow other students to do that. I also recommend getting your TAs involved in the forum.  Here are some key points for the Ed Discussion Section.
 
-The "Q & A" section is your bread and butter here. This is where students ask questions and you have the opportunity to answer them or allow other students to do that. I also recommend getting your TAs involved in the forum.  Here are some key points for the Piazza Q & A Section.
+### Categories and Thread Templates
 
-There are three types of Piazza Posts
+You can set post categories for Ed within Settings->Discussions. In general, categories allow for easier searching/sorting of posts. In addition, Ed allows you to de-select the default category so students must explicitly click on a category before posting, which helps guide better posting habits. Categories may also be multiple levels deep, resulting in a dropdown-selection for students posting questions.
+
+Ed also allows Thread Templates. After setting up your Categories, this allows you to have the text box pre-filled with some standard text to help guide students in posting productive questions.  Thread templates are tied explicitly to Categories.  For example a Thread Template for a "Quiz 1" Category might have the following pre-filled text:
+
+> This question is regarding Quiz 1, Question [Enter question number].
+>
+> [Insert Screenshot of Question Here]
+>
+> My question is 
+
+### Posts
+
+Discussions sort (by default) as oldest-first. You can modify this on a thread-to-thread basis (not globally) just under the "Add Comment" box, to the right.
+
+Additionally, you may refer to another post by typing **#num**, where **num** is the post number (which you can find by opening a post and looking just to the right of the title).
+
+Any post type can be set to allow fully-anonymous (anonymous to Staff) comments.
+
+There are three types of Ed Discussions Posts.
 
 - **Question**  
-Questions are normally used by students. There are two "Formal" feedback boxes, plus the standard Followup Discussion responses.  The "Student Answer" can be written and modified by all students in the class and can only occasionally be relied on for solid answers. The "Instructor Answer" is only accessible to you or your TAs and you should always make sure that questions have correct "Instructor Answers" - even if it is just a reference to a Student Answer or Followup Discussion.
-- **Note**  
-Notes are the default post type.  They are essentially standard discussion threads and Followup Discussion responses to them can be up to two levels deep. If you are posting a note, I recommend selecting a Folder which is most applicable to the information you're presenting
-- **Poll/In-Class Response**  
-The in-class poll can be used to gather information quickly of the entire class, without the overhead of managing a Canvas poll.
+  - Questions are normally used by students and can be picked out in the Search/Posts pane by the small question mark next to the post title.
+  - You can ask clarifying (threaded) questions and, separately, provide answers.
+  - Student answers are not specifically separated from Staff answers except by any tags associated with the answerer. You can make these more visible in the Settings->Advanced by making the labels longer ("Class TA" rather than "TA", etc).
+  - Answers can be checked/unchecked as "accepted" by the asker or staff and also "Hearted" by anyone in the class.
+  - Answers may also be marked as "endorsed" by Staff, or marked as accepted.
+  - You should always make sure that questions either have a Staff-provided answer or an endorsed student answer so there's no misunderstanding about whether the provided answers are actually correct.
+- **Post**  
+  - Posts are essentially standard discussion threads without an "Answer" mechanic. Posts can be threaded three-deep before the replies stop indenting, but may have unlimited top-level replies (comments).
+  - If you are posting a Post, I recommend selecting a Category which is most applicable to the information you're presenting
+  - Posts may be set as Megathreads (when creating them), which allows top-level replies to be "Resolvable" (mark as Resolved/Answered). This makes them ideal for topic based Q&A's
+- **Announcement**  
+  - Announcements are much the same as Posts, but default to send email notifications to all students.
+  - Announcements may also be set as Megathreads.
+
+## Saved Replies and Declined Threads
+
+Ed Discussions also allows you to save any frequently-used replies so that you can quickly select them and paste them in response to student questions.
+
+Ed also allows you to explicitly reject student posts, and to fill in reasoning/requests, such as...
+
+> This post contained assignment solution specifics. Please re-post after stripping the code so that it does not contain answer to part A of Program 3.
 
 <a name='Groups'/>  
 
@@ -95,6 +129,13 @@ I recommend using Canvas to generate groups, then pulling the emails from Canvas
 
 ## Ed Resources
 
-\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
+### Tables in Ed Discussions
 
-Piazza has the ability to serve as a repository for course materials (Homework assignments, solutions, lectures, etc).  I don't recommend using this, since we prefer to keep as much information in the Canvas page as possible so information drift can be limited, but if you elect to post this information in Piazza that's fine.
+It can be difficult to get a pretty table working in Ed, as the rich text editor doesn't have a tables option. The simplest method to generate a table in an Ed Discussion post is to...
+1. Generate your desired table as an HTML table
+2. Copy the html and paste it into an Ed code block
+3. Set the layout option as "seamless".
+
+### Post Privacy
+
+Ed Discussions defaults to **Anonymous Threads** with **Posts Visible to Staff**.  Research shows that forums allowing anonymous posts present a lower barrier to entry for students and the OnlineCS program encourages allowing anonymous posts, but does not require it.
