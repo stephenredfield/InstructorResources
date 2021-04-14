@@ -11,8 +11,8 @@ NOTE: You can also read the [Ed interface quick-start guide](https://edstem.org/
 - [Recommended Settings](#RecSettings)  
 - [Introduction Thread](#IntroThread)  
 - [Ed Discussions](#Discussions)  
-- [Ed Groups](#Groups)
 - [Ed Resources](#Resources)
+- [Ed Groups](#Groups)
 
 <a name='AddNavPanel'/>
 
@@ -110,19 +110,6 @@ Ed also allows you to explicitly reject student posts, and to fill in reasoning/
 
 > This post contained assignment solution specifics. Please re-post after stripping the code so that it does not contain answer to part A of Program 3.
 
-<a name='Groups'/>
-
-## Ed Groups
-
-\*\*\* MORE ON THIS LATER - The below are old Piazza info \*\*\*
-
-Groups in Piazza are more annoying to create than in Canvas. The creation mechanism is in the "Manage Class" subsection under "Create Groups".
-
-1. Create Groups  
-Calculate the number of groups you'll need, then create them in "Enable Group Based Discussion"
-2. Add students  
-I recommend using Canvas to generate groups, then pulling the emails from Canvas and pasting them into the Piazza "Manage students in this group" individually.
-
 <a name='Resources'/>
 
 ## Ed Resources
@@ -137,3 +124,9 @@ It can be difficult to get a pretty table working in Ed, as the rich text editor
 ### Post Privacy
 
 Ed Discussions defaults to **Anonymous Threads** with **Posts Visible to Staff**.  Research shows that forums allowing anonymous posts present a lower barrier to entry for students and the OnlineCS program encourages allowing anonymous posts, but does not require it.
+
+<a name='Groups'/>
+
+## Ed Groups
+
+Ed Discussions does not have any mechanism for creation of Discussion Groups. If Discussion Groups are part of your course you'll need to use Canvas Discussion Groups.
