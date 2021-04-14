@@ -4,17 +4,17 @@ ED Discussions is an FERPA-approved, extremely searchable online discussion boar
 Ed is quite powerful, and you may elect to use some of its more advanced features in your classes, but to just get you started, here's what you need to know...
 NOTE: You can also read the [Ed interface quick-start guide](https://edstem.org/quickstart/ed-discussion.pdf) and view the [EECS Ed Training](https://media.oregonstate.edu/media/t/1_lsr8orcb) for more information.
 
-##### Table of Contents  
+##### Table of Contents
 
-[Adding Ed Discussions to your class' Navigation Panel](#AddNavPanel)  
-[Starting a new Class instance and Enrolling Your Students (and TAs)](#StartInstance)  
-[Recommended Settings](#RecSettings)  
-[Introduction Thread](#IntroThread)  
-[Ed Discussions](#Discussions)  
-[Ed Groups](#Groups)  
-[Ed Resources](#Resources)  
+- [Adding Ed Discussions to your class' Navigation Panel](#AddNavPanel)
+- [Starting a new Class instance and Enrolling Your Students (and TAs)](#StartInstance)
+- [Recommended Settings](#RecSettings)  
+- [Introduction Thread](#IntroThread)  
+- [Ed Discussions](#Discussions)  
+- [Ed Groups](#Groups)
+- [Ed Resources](#Resources)
 
-<a name='AddNavPanel'/>  
+<a name='AddNavPanel'/></a>
 
 ## Adding Ed Discussions to your class' Navigation Panel
 
@@ -26,7 +26,7 @@ To add an Ed Discussions link to the course Nav bar…
 
 Please note that Ed Discussions is only installed on the "School of EECS" Canvas sub-account. This means it is not possible to install it in Canvas Studio site (e.g. a Dev site). If you keep a dev site which you copy into each new term, you will have to repeat the steps above every term.
 
-<a name='StartInstance'/>
+<a name='StartInstance'/></a>
 
 ## Starting a new Class instance and Enrolling your Students (and TAs)
 
@@ -38,30 +38,28 @@ Be sure to update the Code (CSXXX_40X) and Name to something easy for the studen
 
 ![Sync Ed enrollment to LMS](images/EdSync.png "Sync Ed enrollment to LMS")
 
-<a name='RecSettings'/>  
+<a name='RecSettings'/></a>
 
 ## Recommended Settings
 
-\*\*\* MORE ON THIS LATER - The below are old Piazza settings. I will add recommended Ed settings as I investigate further\*\*\*
+We have found the following Class and Q&A Settings to be the best fit for most classes in the program and recommend you use the same. These are mostly accessible via the Settings Gear under _Advanced_.
 
-We have found the following Class and Q&A Settings to be the best fit for most classes in the program and recommend you use the same:
+- **Anonymous Threads**  
+  Enabled - Students from disadvantaged groups in CS have an increased tendency to post questions when given the option to do so anonymously.
+- **Names Visible to Staff**
+  Enabled - This may help with accountability and dissuade students from flame threads. Many instructors do allow fully anonymous posing (this setting _Disabled_) to further lower the bar to entry on the forums and that is totally fine.
+- **Categories**  
+  A minimal organizational structure may be most relevant (logistics, homeworks, discussions, exams), unless you have mandatory discussions. More details below in [Ed Discussions](#Discussions).
+- **Email settings** *(Accessed from the _Account_ bust under _Settings_ then _Notifications_.
+  We don't have a recommended setting here, but you should be aware that Ed allows you to setup how/when/if you receive emailed notifications of Ed Discussions activity, and this is where you set that up.
 
-- **Instructor Self-Signup**  
-  Disabled (If you want to add additional instructors/TAs, you can do it in a batch, rather than having them do it and individually approving them).
-- **Posting Anonymously**  
-  Enabled (Students from disadvantaged groups in CS have an increased tendency to post questions when given the option to do so anonymously)
-- **Folders**  
-  A minimal organizational structure may be most relevant (logistics, homeworks, discussions, exams), unless you have mandatory discussions
-- **Email settings** *(Accessed from the "Settings" wheel in the top-right)*  
-  We don't have a recommended setting here, but you should be aware that Piazza allows you to setup how/when/if you receive emailed notifications of Piazza activity, and this is where you set that up.
-
-<a name='IntroThread'/>  
+<a name='IntroThread'/></a>
 
 ## Introduction Thread
 
 Online engagement best practices inform us that an introduction thread is important for building a constructive online learning environment.  Ed is the ideal place for us to do this. At the beginning of each term you should post an introductory thread and request that students post replies.  I recommend attaching a photo of yourself and writing your own introduction here even though you've provided an Instructor Introduction video in the Canvas course.  You should also keep up with the student posts and respond to at least a few. Both of these will show that you're engaged in the forum and that you're an active resource for them to utilize.
 
-<a name='Discussions'/>  
+<a name='Discussions'/></a>
 
 ## Discussions
 
@@ -112,7 +110,7 @@ Ed also allows you to explicitly reject student posts, and to fill in reasoning/
 
 > This post contained assignment solution specifics. Please re-post after stripping the code so that it does not contain answer to part A of Program 3.
 
-<a name='Groups'/>  
+<a name='Groups'/></a>
 
 ## Ed Groups
 
@@ -125,7 +123,7 @@ Calculate the number of groups you'll need, then create them in "Enable Group Ba
 2. Add students  
 I recommend using Canvas to generate groups, then pulling the emails from Canvas and pasting them into the Piazza "Manage students in this group" individually.
 
-<a name='Resources'/>  
+<a name='Resources'/></a>
 
 ## Ed Resources
 
