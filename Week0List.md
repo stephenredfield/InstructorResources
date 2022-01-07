@@ -25,7 +25,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 See [Ed Discussions – How To](EDSetup.html)
 - **Class Team setup for course and present in Navigation bar**  
 See [Teams – How To](TeamsSetup.html)
-- **Tutoring (TutorMe or link to https://engineering.oregonstate.edu/current-students/academic-support present in Navigation bar)**
+- **CoE Tutoring link to https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) present in Navigation bar**
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
 ([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9))
 
