@@ -25,7 +25,8 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 See [Ed Discussions – How To](EDSetup.html)
 - **Class Team setup for course and present in Navigation bar**  
 See [Teams – How To](TeamsSetup.html)
-- **CoE Tutoring link to https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) present in Navigation bar**
+- **TutorMe or CoE Tutoring (https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) link present in Navigation bar**  
+MUST be CoE Tutoring for classes: CS 161, CS 162, CS 261, CS 271, and CS 344
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
 ([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9))
 
