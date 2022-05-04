@@ -14,7 +14,7 @@ Teams can be extremely valuable for synchronous communication sessions (via text
 
 #### Ed Discussions
 
-Ed Discussions is used for asynchronous communication such as general course Q&A, course announcements, weekly office hour takeaways, and general course discussions. Engaging regularly on the Piazza boards and guiding student discussions.  When students generate their own answers to questions, check these for correctness and recommend (or endorse) good answers.  Thank the students who are generating these correct answers, as they are aiding you in creating a welcoming classroom environment.  If an answer is incomplete, note this so that no students are led astray, or complete the answer yourself.
+Ed Discussions is used for asynchronous communication such as general course Q&A, course announcements, weekly office hour takeaways, and general course discussions. Engaging regularly on the Ed boards and guiding student discussions.  When students generate their own answers to questions, check these for correctness and recommend (or endorse) good answers.  Thank the students who are generating these correct answers, as they are aiding you in creating a welcoming classroom environment.  If an answer is incomplete, note this so that no students are led astray, or complete the answer yourself.
 
 #### Canvas
 

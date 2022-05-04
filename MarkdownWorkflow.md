@@ -65,11 +65,11 @@ Many of us spend a large amount of time inside a code editor and in many ways it
 
 ### Come On, Everybody's Doing It!
 
-For many of us, our primary experience with Markdown is in a GitHub `README.md`. But Markdown is gaining popularity in other sectors. Teams allows limited Markdown to be directly written in the standard message field. Even Piazza is getting into the Markdown game with their new post editor. Knowing how to use Markdown can really help with your messaging to the students.
+For many of us, our primary experience with Markdown is in a GitHub `README.md`. But Markdown is gaining popularity in other sectors. Teams allows limited Markdown to be directly written in the standard message field. Even Ed allows in-line Markdown on posts (for the web app, but not the mobile one). Knowing how to use Markdown can really help with your messaging to the students.
 
 ## Common Markdown
 
-Honestly, Markdown is a very small language and if you wanted, you could probably get it put onto a mug! 
+Honestly, Markdown is a very small language and if you wanted, you could probably get it put onto a mug!
 
 ![Markdown Mug](./images/mug.png "This isn't real")
 

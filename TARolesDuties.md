@@ -13,7 +13,7 @@ Duties of a GTA may include:
 - Providing **meaningful** feedback to students
 - Entering grades into Canvas gradebook
 - Promptly answering students’ questions on grading via email or other communication platforms
-- Monitoring Piazza and verifying correctness of student responses
+- Monitoring Ed Discussions and verifying correctness of student responses
 - Testing midterm and final exams
 - Holding help and review sessions
 
