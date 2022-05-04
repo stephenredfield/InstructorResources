@@ -8,8 +8,8 @@ This page briefly describes activities to be engaged in as part of fulfilling bo
 
 Methods include:
 
-- Answering posted student questions.
-- Engaging with students on Slack - strike up a conversation in real time, in your course workspace or on the Hub.
+- Answering posted student questions in Ed.
+- Engaging with students on Teams - strike up a conversation in real time, in your course workspace or on the Hub.
 - Promptly answering student emails.
 - Sharing relevant personal stories - not just in response, but as a new thread of discussion.
 - Sharing relevant technology current events, also as a new thread.

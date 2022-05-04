@@ -8,13 +8,13 @@ As mentioned in [A Day in the Life of an Online CS Instructor](DayInTheLife.html
 
 Utilize the tools associated with our program to engage regularly with students, and do so in such a way that the student knowledge base and motivation will benefit from the interaction.  
 
-#### Slack
+#### Teams
 
-Slack is extremely valuable for synchronous communication sessions (via text or via its teleconference capability) and is strongly recommended as the method for office hours in the Program.  A regular OSU presence on Slack, whether TA or Instructor, will encourage students to build community there.
+Teams can be extremely valuable for synchronous communication sessions (via text or via its teleconference capability) and is strongly recommended as the method for office hours in the Program.  A regular OSU presence on Teams, whether TA or Instructor, will encourage students to build community there.
 
-#### Piazza
+#### Ed Discussions
 
-Piazza is used for asynchronous communication such as general course Q&A, course announcements, weekly office hour takeaways, and general course discussions. Engaging regularly on the Piazza boards and guiding student discussions.  When students generate their own answers to questions, check these for correctness and recommend (or endorse) good answers.  Thank the students who are generating these correct answers, as they are aiding you in creating a welcoming classroom environment.  If an answer is incomplete, note this so that no students are led astray, or complete the answer yourself.
+Ed Discussions is used for asynchronous communication such as general course Q&A, course announcements, weekly office hour takeaways, and general course discussions. Engaging regularly on the Piazza boards and guiding student discussions.  When students generate their own answers to questions, check these for correctness and recommend (or endorse) good answers.  Thank the students who are generating these correct answers, as they are aiding you in creating a welcoming classroom environment.  If an answer is incomplete, note this so that no students are led astray, or complete the answer yourself.
 
 #### Canvas
 
@@ -35,4 +35,4 @@ The current best practice for online education is to ensure your students know y
 - Changing from text-based weekly announcements to video announcements recorded in-the-world (e.g. gas station, library, McDonalds, gym, etc...).
 - Responding to student questions and struggles in a warm, encouraging manner.
 - Relating course concepts to current events.
-- Engaging with students in semi-/un-related discussions in Slack.
+- Engaging with students in semi-/un-related discussions in Teams.

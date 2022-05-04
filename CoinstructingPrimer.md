@@ -4,28 +4,26 @@
 
 As the Online CS program grew and more and more students enrolled, class sizes ballooned.  In only a few years, course enrollment rose from 20-30 students per section to over a hundred, and it continued to rise.  Courses that were developed before and during this time tended to have a larger focus on project work, individual evaluation, and open-ended questions.  As courses grew in scale and it became apparent that, even with GTA support, it was extremely difficult to provide the level of feedback necessary for these projects (and the time needed to grade open-ended questions) there was a shift in course design practices toward automated evaluation, more active learning with instructors and TAs in supportive engagement roles.  Many courses continued to grow beyond and the decision was made to begin splitting courses into multiple sections (400, 401, ...).  To ensure all students receive the same quality of education, and to maintain the community of learning that develops around large-enrollment classes, the decision was made to have instructors share the responsibility (and the course sections) for these courses.  This document is intended to provide tips for instructors finding themselves in this position.
 
-## Shared Resources - Canvas, Piazza, Slack, etc...
+## Shared Resources - Canvas, Ed Discussions, Teams, etc...
 
 Within the Online CS program we want to ensure all our students have a positive learning experience, and get the most possible out of our classes.  To that end, the decision was made to have all multiple-section courses (courses with more than one section number in the 400s) to share all learning resources.  This means that all of the following should be common across sections.
 
 - Syllabus
-- Piazza Discussion Board
-- Synchronous Channel (Slack, Teams)
+- Ed Discussions Board
+- Synchronous Channel (Ed Discussions, Teams)
 - Office Hours
 - Learning Materials
 - Assignments and Grading Methods
 - Exams and Grading Methods
 
-Clearly the only feasible method of doing this is to merge the relevant sections:
+One feasible method of doing this is to merge the relevant sections:
 
 1. [How to Merge Canvas Course Sections](CourseMerge.html)
-2. [Piazza Setup](PiazzaSetup.html)  
-    - Create the piazza section by clicking the Piazza nav-bar link, and all students will have access.
-    - If desired, grab all student emails and paste them into Piazza's "enroll".
-3. [Slack Setup](SlackSetup.html)  
-    - Create one Slack workspace (-400 preferred), then email support@engr.oregonstate.edu and ask the other sections' students to be merged into that Workspace. 
-4. Teams Setup  
-    - The single sign-up link within your course should put all students in the same Team.
+2. [Ed Discussions Setup](EDSetup.html)  
+    - Create the Ed Discussions board by clicking the Ed Discussions nav-bar link after merging the courses, and all students will have access.
+    - In the board General settings, down at Users, select "Sync with LMS". This will enroll all students/staff. It helps to repeat this every few days near the start of the term, to make sure you get all students enrolled.
+3. [Teams Setup](TeamsSetup.html)  
+    - Create one Team, then add the Teams "Group Code" to your merged course, as detailed in the linked page.
 
 All other common tools should utilize Canvas Navigation links, so there should be no need to do any additional special setup for classes with multiple sections. Relatively simple... but how do you work _**with**_ another instructor to manage this?
 
