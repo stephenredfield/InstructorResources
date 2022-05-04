@@ -12,7 +12,7 @@ The Online CS Program has determined a bare minimum accessibility window of thre
 
 ### Begin and End Exam when you will be Available
 
-Issues happen with proctored exams.  Proctors can receive incorrect information from eCampus, students can misunderstand directions, proctors might misinterpret a rule you've posted, etc..   Because of this, it is important to set the exam to open and close at a time when you will be available.  This way, when a student gets disconnected from Canvas with 20 minutes left in their attempt due to a power outage, just prior to the close of the exam window, you can answer the email/Piazza post/Slack chat/phone call and assist the student right away.  Obviously this type of things might occur at any point in the window, but the majority of incidents will occur near the Begin and End times of the exam.
+Issues happen with proctored exams.  Proctors can receive incorrect information from eCampus, students can misunderstand directions, proctors might misinterpret a rule you've posted, etc..   Because of this, it is important to set the exam to open and close at a time when you will be available.  This way, when a student gets disconnected from Canvas with 20 minutes left in their attempt due to a power outage, just prior to the close of the exam window, you can answer the email/Ed post/Teams chat/phone call and assist the student right away.  Obviously this type of things might occur at any point in the window, but the majority of incidents will occur near the Begin and End times of the exam.
 
 ### Passwords  
 

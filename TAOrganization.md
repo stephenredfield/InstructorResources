@@ -15,7 +15,7 @@ From a resource-expenditure point of view, GTAs should be put to use where they 
 
 ## GTA Communication Planning
 
-- Mechanisms for communication between GTAs and students should be established in the course syllabus. Ideally, GTA preferences can be taken into account. For example, Canvas Inbox may be used if GTAs do not want their email addresses published. Slack may also be used if that is set up for the course.
+- Mechanisms for communication between GTAs and students should be established in the course syllabus. Ideally, GTA preferences can be taken into account. For example, Canvas Inbox may be used if GTAs do not want their email addresses published. Teams may also be used if that is set up for the course.
 - For Faculty/GTA communication, the following is recommended:
   - an email at the beginning of the quarter detailing duties/timelines (see “**Define tasks/schedule...**” above);
   - a meeting before or at the start of quarter to have everyone get to know each other, to establish a working relationship and learn about capabilities/preferences, and establish office hours (See “**Effective distribution...**” above);

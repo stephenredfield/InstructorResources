@@ -27,7 +27,7 @@
 
   <div id="Contact">
      <p>WHERE TO GO FOR HELP CONTENT</p>
-     <p>Required: Preferred Instructor Contact Info, Office Hours Schedule with Links, Slack Link, Link to Discussion Board</p>
+     <p>Required: Preferred Instructor Contact Info, Office Hours Schedule with Links, Teams Link, Link to Discussion Board</p>
      <p>Recommended: TA Contact Info/Preference, Link to Ecampus Resources</p>
  </div>
 

@@ -6,7 +6,7 @@ NOTE: Much of this document is taken from, or adapted from, the [EECS Graduate H
 
 Duties of a GTA may include:
 
-- Holding "office hours" via Slack
+- Holding "office hours" via Teams
 - Testing and grading both written and programming assignments. (TAs will need to learn any software used to grade programming assignments.)
 - Preparing solutions to homework assignments
 - Grading quizzes and exams

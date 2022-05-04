@@ -29,21 +29,18 @@ ULAs...
 - In general, 
 - If a ULA will not be working again the next term, their employment should be terminated by the supervisor notifying the ULA guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)).
 
-## Piazza Contributors
+## Ed Discussions Contributors
 
-Within Piazza there is a **Statisics** tool which allows an instructor to analyze contributions, questions, and answers over the course of a term.  Select **Statistics** from the top navigation pane in Piazza and explore this page to see its options.  Some efficient ways of gathering names for potential ULAs...
+Within Ed there is an **Analytics** tool which allows an instructor to analyze contributions, questions, and answers over the course of a term.  Select the bar-graph icon from the top navigation pane in your class' Ed board and explore this page to see its options.  Some efficient ways of gathering names for potential ULAs...
 
-- Check the **Top Student "Endorsed Answer" Answerers**  
-These are the students whose answers the instructors and TAs marked as good.
-- Check the **Student Participation Report** and sort by **contributions**. Taking the top contributors and checking how many of their contributions were questions, vs. notes and answers, will provide several potential ULA recruits.
+- Check the **Top Contributors** Report
+These are the people whose contributions have been marked as helpful by others. Filter for Students and check the **Top Hearted** and **Top Endorsed** to see which students' posts are being appreciated by others in the class. Be aware that these posts may be notes, questions, or answers and so a student who asks a popular question may rank high in this report. Cross-reference with the **Top Answerers** to have a short-list of students who are engaged in the discussion board, helpful to others, and whose answers are being appreciated (a perfect candidate!).
 
 **_NOTE: It is important to verify that, though active, these students were also successful in the course.  A check over their grades and submitted assignments in Canvas is strongly recommended._**
 
-## Slack Top-Posters
+## General Participation in Teams
 
-Throughout the term your students will be active on both the official course Slack workspace and the student-run [Unofficial Slack](https://osu-cs.slack.com).  You can check the Slack analytics for your course workspace by selecting the dropdown icon next to your Workspace name within Slack and clicking **Analytics**.  You can also go to this page by replacing class-workspace with your workspace ID in the following url: https://class-workspace.slack.com/stats.
-
-Similarly to Piazza **Statistics**, Slack **Analytics** allows sorting by *messages posted* and *days online*.  Extracting a short-list of potential ULAs from these lists is trivial.
+Teams doesn't seem to have user-specific analytics, but you can still pay attention to your Teams channel (and ask your TAs) to see who is being active and helpful!
 
 **_NOTE: It is important to verify that, though active, these students were also successful in the course.  A check over their grades and submitted assignments in Canvas is strongly recommended._**
 

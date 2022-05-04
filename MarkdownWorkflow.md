@@ -65,7 +65,7 @@ Many of us spend a large amount of time inside a code editor and in many ways it
 
 ### Come On, Everybody's Doing It!
 
-For many of us, our primary experience with Markdown is in a GitHub `README.md`. But Markdown is gaining popularity in other sectors. Slack allows Markdown to be directly written in the standard message field. Even Piazza is getting into the Markdown game with their new post editor. Knowing how to use Markdown can really help with your messaging to the students.
+For many of us, our primary experience with Markdown is in a GitHub `README.md`. But Markdown is gaining popularity in other sectors. Teams allows limited Markdown to be directly written in the standard message field. Even Piazza is getting into the Markdown game with their new post editor. Knowing how to use Markdown can really help with your messaging to the students.
 
 ## Common Markdown
 
@@ -204,7 +204,7 @@ The first step is to create an outline. I chose to do this is Markdown and host 
 
 * Start Here
   * Instructor & TA Communication Policy and Information
-  * Slack How-To
+  * Teams How-To
   * Useful Links
   * Course Policy Quiz (Non-graded Quiz)
 * Week 1 - Tool Setup

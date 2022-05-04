@@ -48,10 +48,10 @@ ___
 #### Academic Integrity DOs and DON’Ts
 
 - You **are encouraged to** discuss course content with each other, including general discussion of homework assignments and how to fix specific issues.
-- You **may** post minimally-functional code snippets (or less) from your assignments to Slack or Piazza.
-- You **may** ask conceptual questions related to optimizing your code on Slack or Piazza.
-- You **may** post Weekly Exploration questions / solutions in Slack or Piazza.
-- You **may** not post any complete functions to Slack or Piazza.
+- You **may** post minimally-functional code snippets (or less) from your assignments to Teams or Ed.
+- You **may** ask conceptual questions related to optimizing your code on Teams or Ed.
+- You **may** post Weekly Exploration questions / solutions in Teams or Ed.
+- You **may** not post any complete functions to Teams or Ed.
 - You **may** not post any exam questions or solutions in any form.
 - You **must** make any git repo you post this code on private, with the exception of the 
 Portfolio assignment.
