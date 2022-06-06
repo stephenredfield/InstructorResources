@@ -51,7 +51,6 @@ After you've collected the information described above, the process to enter it 
 ## FAQ
 
 1. Q: What is **Total Enrollment** vs **Assessment Cohort Size**?  
-  A: You should receive an email indicating the students in your class who are in the assessment cohort. That is, students who are taking the class and who are also in the program that is ABET-assessed.
-
+  A: Starting Spring 2022, **Total Enrollment** and **Assessment Cohort Size** are equal to the total section enrollment values.
 
 If you have issues with the ABET entry process, please contact [Don Heer](https://eecs.oregonstate.edu/people/heer-don).  If you have issues with CLOs, such as CLOs not matching your syllabus or a need to revise the CLOs, please contact the CS Curriculum Committee via [Justin Wolford](https://eecs.oregonstate.edu/node/3118).
