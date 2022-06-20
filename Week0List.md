@@ -4,14 +4,14 @@ The intent of this document is to provide a handy checklist of items which each 
 
 **Required Items are BOLD**.
 
-Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students. To do so, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [myCOE course list](http://classes.engr.oregonstate.edu/eecs), and click the link for your class.
+Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students. To do so, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [myCOE course list](http://classes.engr.oregonstate.edu/eecs){:target="\_blank"}, and click the link for your class.
 
 ## General Course Setup Requirements
 
-- **Multiple-Section Courses Merged using the [Course Merge Tool](CourseMerge.html)** (Some exceptions).
-- **Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs)**
+- **Multiple-Section Courses Merged using the [Course Merge Tool](CourseMerge.html){:target="\_blank"}** (Some exceptions).
+- **Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs){:target="\_blank"}**
   1. Add link to Canvas Syllabus via TEACH
-  2. Go to [ENGR TEACH](https://teach.engr.oregonstate.edu/)
+  2. Go to [ENGR TEACH](https://teach.engr.oregonstate.edu/){:target="\_blank"}
   3. Select "Class Administration" (Bottom Right)
   4. “Add a different URL to http://classes.engr.oregonstate.edu”
   5. Update your class’ link to be the Syllabus page of your Canvas class.  
@@ -22,13 +22,13 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 - **Course Syllabus (page or PDF) has a “Communication Policy” which specifies the proper mechanism to get in touch with Instructor/TAs.**
 - **Course Syllabus conforms to [Academic Integrity Requirements](PreventingAcademicMisconduct.html).**
 - **Ed Discussions set up for course and present in Navigation bar**  
-See [Ed Discussions – How To](EDSetup.html)
+See [Ed Discussions – How To](EDSetup.html){:target="\_blank"}
 - **Class Team setup for course and present in Navigation bar**  
-See [Teams – How To](TeamsSetup.html)
+See [Teams – How To](TeamsSetup.html){:target="\_blank"}
 - **TutorMe or CoE Tutoring (https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) link present in Navigation bar**  
 For the following classes, use ONLY CoE Tutoring (no TutorMe support): CS 161, CS 162, CS 261, CS 271, and CS 344
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
-([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9))
+([Find Banners Here](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9){:target="\_blank"})
 
 - **ReadMe First Page**  
 A page within your course (possibly in the first Module) which will orient the student within your course. I usually use this as my “Home Page” for the first week of each term. May include items such as...  
@@ -40,7 +40,7 @@ A page within your course (possibly in the first Module) which will orient the s
   6. …
 
 - **Set up any proctored exams at Exams & Proctoring Site**  
-See [Proctored Exams](ProctoredExams.html)
+See [Proctored Exams](ProctoredExams.html){:target="\_blank"}
 
 - **"Portfolio" assignment included in coursework**  
 With the exception of a few classes (CS101, CS161, CS225) all our online offerings must have one assignment designated as a *Portfolio assignment*.  Students must be authorized by the instructor to post the entirety of the assignment publicly (e.g. Github, personal website, etc...).  

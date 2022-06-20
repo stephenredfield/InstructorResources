@@ -2,13 +2,13 @@
 
 ## Background
 
- OSU is required by federal law to make a reasonable accommodation for any students with appropriately diagnosed disabilities enrolled in our classes. For more information on the law and OSU policy see the [DAS Faculty & Advisors page](https://ds.oregonstate.edu/faculty-advisors).  It is also recommended you complete the DAS training and the [Faculty and Staff Tutorials](https://ds.oregonstate.edu/faculty-and-staff-tutorials) to help prepare you to assist students with accommodations. For specific trainings, please see the [PACE Page on Disability Access Services](https://pace.oregonstate.edu/catalog/disability-access-services-faculty-training).
+ OSU is required by federal law to make a reasonable accommodation for any students with appropriately diagnosed disabilities enrolled in our classes. For more information on the law and OSU policy see the [DAS Faculty & Advisors page](https://ds.oregonstate.edu/faculty-advisors){:target="\_blank"}.  It is also recommended you complete the DAS training and the [Faculty and Staff Tutorials](https://ds.oregonstate.edu/faculty-and-staff-tutorials){:target="\_blank"} to help prepare you to assist students with accommodations. For specific trainings, please see the [PACE Page on Disability Access Services](https://pace.oregonstate.edu/catalog/disability-access-services-faculty-training){:target="\_blank"}.
 
   It is vital to get these accommodations entered as early as possible and notify the student they have been completed.  It goes a long way to help the students feel at-ease if they receive a notifications right at the beginning of the term letting them know they won't have to worry about pestering or reminding their instructor, or fearing that their accommodation hasn't been entered before they take their quizzes or exams.
 
 ## DAS Instructor Portal
 
-DAS has implemented an Instructors portal to provide a single space for instructors to go to review ALL DAS-related accommodation notifications for students in courses currently being taught. This space provides the same information that an instructor would see on the DAS Notification Letter. The DAS Notification Letters will still be emailed, this is an additional way to access the information. Visit [Disability Access Services Instructor Advisor](https://ds.oregonstate.edu/instructors-advisors) for login link and more information.
+DAS has implemented an Instructors portal to provide a single space for instructors to go to review ALL DAS-related accommodation notifications for students in courses currently being taught. This space provides the same information that an instructor would see on the DAS Notification Letter. The DAS Notification Letters will still be emailed, this is an additional way to access the information. Visit [Disability Access Services Instructor Advisor](https://ds.oregonstate.edu/instructors-advisors){:target="\_blank"} for login link and more information.
 
 Here is the process for accessing the DAS instructor area:
 
@@ -50,7 +50,7 @@ The alternative testing agreements are the most common DAS service we provide.  
 
 NOTE:  Extra Time applies to anything titled "Quiz" or "Exam" or "Test" - not just midterms and finals.
 
-More information about setting Testing accommodations in Canvas can be found on this [Resource Page](https://ds.oregonstate.edu/accommodations-canvas).
+More information about setting Testing accommodations in Canvas can be found on this [Resource Page](https://ds.oregonstate.edu/accommodations-canvas){:target="\_blank"}.
 
 ### Possible Issues with Exam Proctors
 
@@ -68,11 +68,11 @@ _Please ensure your exam section matches the section you registered for. You may
 
 ### Flexibility with Attendance/Assignments
 
-For more information on the Flexibility accommodation see the [Video Guide](https://www.youtube.com/watch?v=7ItYSM_yF0c&feature=youtu.be).  Note that despite eCampus courses already being flexible, it is still important to contact the student and work with them to make sure they have the access and flexibility needed to complete the course without undue hardship.  If necessary, you might contact DAS for assistance in setting up the Flexibility Agreement.
+For more information on the Flexibility accommodation see the [Video Guide](https://www.youtube.com/watch?v=7ItYSM_yF0c&feature=youtu.be){:target="\_blank"}.  Note that despite eCampus courses already being flexible, it is still important to contact the student and work with them to make sure they have the access and flexibility needed to complete the course without undue hardship.  If necessary, you might contact DAS for assistance in setting up the Flexibility Agreement.
 
 ## General Accessibility Best Practices
 
-The [Faculty and Advisor DAS page](https://ds.oregonstate.edu/faculty-advisors) has a number of best-practices and tips for ensuring our courses are accessible to the wide range of students in our program.
+The [Faculty and Advisor DAS page](https://ds.oregonstate.edu/faculty-advisors){:target="\_blank"} has a number of best-practices and tips for ensuring our courses are accessible to the wide range of students in our program.
 
 ## Possible Issues
 

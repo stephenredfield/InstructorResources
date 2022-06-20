@@ -2,7 +2,7 @@
 
 ## Background
 
- The purpose of an Incomplete grade is to allow a student to fulfill any remaining course requirements (Assignments, Exams, etc.) outside the normal boundaries of the term they registered. Some key sections of Incomplete policy and practice will be discussed here, but you can refer to the [Incomplete Grade Policy](https://registrar.oregonstate.edu/incomplete-grade-policy) and the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0) for more details.
+ The purpose of an Incomplete grade is to allow a student to fulfill any remaining course requirements (Assignments, Exams, etc.) outside the normal boundaries of the term they registered. Some key sections of Incomplete policy and practice will be discussed here, but you can refer to the [Incomplete Grade Policy](https://registrar.oregonstate.edu/incomplete-grade-policy){:target="\_blank"} and the [Incomplete Grade FAQ](https://registrar.oregonstate.edu/incomplete-grade-faqs-0){:target="\_blank"} for more details.
 
 ## Justification
 
@@ -14,9 +14,9 @@ By University policy, the student applying for an Incomplete must be passing the
 
 ## Process
 
-The process for Incomplete grades is actually quite simple!  The Registrar's office recommends completing a [Contract for Completion of I Grade](docs/Contract_For_Completion_Incomplete_Grade.pdf) so you have some deadline structure to use as a basis for gauging student work.  This also helps the student know what they're getting themselves into!  Beyond that, the only difference from a normal term work is application of grades.
+The process for Incomplete grades is actually quite simple!  The Registrar's office recommends completing a [Contract for Completion of I Grade](docs/Contract_For_Completion_Incomplete_Grade.pdf){:target="\_blank"} so you have some deadline structure to use as a basis for gauging student work.  This also helps the student know what they're getting themselves into!  Beyond that, the only difference from a normal term work is application of grades.
 
-See the [Issuing Grades Guide](IssuingGrades.html) for details on how to enter grades.  At the end of the term, any students who have agreed to an Incomplete grade shall receive a letter grade of **I/X** where _X_ is the grade they'll default to if they do not complete their assigned tasks (e.g.  I/D+).  You must also include a **Last Date of Participation** when you submit this grade.  When the student completes their assigned tasks, simply [update their final grade](IssuingGrades.html) (e.g. from I/D+ to A-).
+See the [Issuing Grades Guide](IssuingGrades.html){:target="\_blank"} for details on how to enter grades.  At the end of the term, any students who have agreed to an Incomplete grade shall receive a letter grade of **I/X** where _X_ is the grade they'll default to if they do not complete their assigned tasks (e.g.  I/D+).  You must also include a **Last Date of Participation** when you submit this grade.  When the student completes their assigned tasks, simply [update their final grade](IssuingGrades.html){:target="\_blank"} (e.g. from I/D+ to A-).
 
 ## Possible Issues
 

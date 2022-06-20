@@ -2,13 +2,13 @@
 
 One primary goal of the Online CS program is to provide our students the tools they need to be successful in industry.  The corollary to this is that the program is also responsible for providing Industry with students who are well-prepared to work.  The question of Academic Integrity is clearly one which is extremely relevant, with the clear conclusion that prevention is superior to punishment.
 
-OSU Student Life also has some [General Tips](https://studentlife.oregonstate.edu/studentconduct/general-tips) and [Assignment Tips](https://studentlife.oregonstate.edu/studentconduct/final-project-assignment-tips) for prevention of academic dishonesty.  What follows are the Best Practices for our Online CS program.
+OSU Student Life also has some [General Tips](https://studentlife.oregonstate.edu/studentconduct/general-tips){:target="\_blank"} and [Assignment Tips](https://studentlife.oregonstate.edu/studentconduct/final-project-assignment-tips){:target="\_blank"} for prevention of academic dishonesty.  What follows are the Best Practices for our Online CS program.
 
-Here is an [an example syllabus implementing these best practices](docs/CS161Syllabus.pdf).
+Here is an [an example syllabus implementing these best practices](docs/CS161Syllabus.pdf){:target="\_blank"}.
 
 ## Syllabus - Be Specific
 
-One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class in your Class Syllabus.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/code). The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  The students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
+One of the best ways to prevent academic misconduct is inform the students specifically what constitutes misconduct in your class in your Class Syllabus.  A good place to start is referencing Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/code){:target="\_blank"}. The [Academic Misconduct Faculty Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"} has some "Suggested Syllabus Statements" at the bottom of the page which are useful examples.  The students may assume whatever policy was present in their previous class will hold true for yours as well, and this is rarely the case.
 
 All Syllabi for Online CS courses must conform to the following rules...
 
@@ -72,7 +72,7 @@ The Code of Student Conduct prohibits Academic Misconduct and defines it as:
 
 > Any action that misrepresents a student or group’s work, knowledge, or achievement, provides a potential or actual inequitable advantage, or compromises the integrity of the educational process.
 
-To support understanding of what can be included in this definition, the Code further classifies and describes examples of Academic Misconduct, including cheating, plagiarism, assisting and others. See the [Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-101519.pdf) for details.
+To support understanding of what can be included in this definition, the Code further classifies and describes examples of Academic Misconduct, including cheating, plagiarism, assisting and others. See the [Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/code-of-student-conduct-101519.pdf){:target="\_blank"} for details.
 
 You are expected to do your own work and demonstrate academic integrity in every aspect of this course. Familiarize yourself with the standards set forth in the OSU Code of Student Conduct Section 4.2. You must only access sources and resources authorized by the instructor. You may not show your work to any other current or future students without the instructor's authorization.  Violations of these expectations or the Code of Student Conduct will be reported to the Office of Student Conduct and Community Standards.  If there is any question about whether an act constitutes academic misconduct, it is your responsibility to seek clarification and approval from the instructor prior to acting.
 

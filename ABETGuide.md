@@ -45,12 +45,12 @@ For Qualitative Metrics you must provide a detailed description of the measures 
 
 After you've collected the information described above, the process to enter it into the ABET DCT system is quite simple.  Don Heer has provided a couple short videos which are linked from the [ABET form site](http://eecs.oregonstate.edu/education/abet/index.php)'s "My Courses" list. I've linked them here as well, for reference.
 
-1. [Demo 1 - New Courses and Overview](https://youtu.be/RDSm5MxSydw)
-2. [Demo 2 - Completing Course and File Upload](https://youtu.be/K2sKCuXnh8o)
+1. [Demo 1 - New Courses and Overview](https://youtu.be/RDSm5MxSydw){:target="\_blank"}
+2. [Demo 2 - Completing Course and File Upload](https://youtu.be/K2sKCuXnh8o){:target="\_blank"}
 
 ## FAQ
 
 1. Q: What is **Total Enrollment** vs **Assessment Cohort Size**?  
   A: Starting Spring 2022, **Total Enrollment** and **Assessment Cohort Size** are equal to the total section enrollment values.
 
-If you have issues with the ABET entry process, please contact [Don Heer](https://eecs.oregonstate.edu/people/heer-don).  If you have issues with CLOs, such as CLOs not matching your syllabus or a need to revise the CLOs, please contact the CS Curriculum Committee via [Justin Wolford](https://eecs.oregonstate.edu/node/3118).
+If you have issues with the ABET entry process, please contact [Don Heer](https://eecs.oregonstate.edu/people/heer-don){:target="\_blank"}.  If you have issues with CLOs, such as CLOs not matching your syllabus or a need to revise the CLOs, please contact the CS Curriculum Committee via [Justin Wolford](https://eecs.oregonstate.edu/node/3118){:target="\_blank"}.

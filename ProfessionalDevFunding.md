@@ -8,7 +8,7 @@ All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the Sc
 
 ## Ecampus Research Funding
 
-Oregon State Ecampus provides [Professional Development Funds](https://ecampus.oregonstate.edu/research/opportunities/professional-development/) for learning in the areas of Online/Distance and Hybrid Education, up to $5,000 per person per term, with the small caveat that you must present the information you learned at one of the several annual [Ecampus Special Events](https://ecampus.oregonstate.edu/faculty/development/events.htm).  The above website has details on timing and applications.  This money can be used toward...
+Oregon State Ecampus provides [Professional Development Funds](https://ecampus.oregonstate.edu/research/opportunities/professional-development/){:target="\_blank"} for learning in the areas of Online/Distance and Hybrid Education, up to $5,000 per person per term, with the small caveat that you must present the information you learned at one of the several annual [Ecampus Special Events](https://ecampus.oregonstate.edu/faculty/development/events.htm){:target="\_blank"}.  The above website has details on timing and applications.  This money can be used toward...
 
 - Webinar registration
 - Conference registration, travel, and lodging
@@ -29,6 +29,6 @@ To ensure your approval receives full consideration, please make sure to include
 - Other information as relevant to describe the opportunity
 - A budget breakdown including
   - Total Amount Requested
-  - Explanation of how the money will be spent, broken down by expense type (Registration, Additional Materials, Travel, Lodging, [Per Diem](http://oregonstate.edu/dept/fa/businessaffairs/travel/tres/per_diem_us), etc...)
+  - Explanation of how the money will be spent, broken down by expense type (Registration, Additional Materials, Travel, Lodging, [Per Diem](http://oregonstate.edu/dept/fa/businessaffairs/travel/tres/per_diem_us){:target="\_blank"}, etc...)
 
-For additional assistance in generating a proposal document, see this [Example](docs/PDFundingProposal.pdf).
+For additional assistance in generating a proposal document, see this [Example](docs/PDFundingProposal.pdf){:target="\_blank"}.

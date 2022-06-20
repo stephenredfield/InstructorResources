@@ -1,6 +1,6 @@
 # Presence - Social, Cognitive, and Teaching
 
-As mentioned in [A Day in the Life of an Online CS Instructor](DayInTheLife.html), the Online CS program values student experience, and student experience is strongly linked to Instructor Presence. Please read [this book chapter (25 minute read)](https://humanmooc.pressbooks.com/chapter/wheres-the-teacher-defining-the-role-of-instructor-presence-in-social-presence-and-cognition-in-online-education/); it presents an in-depth explanation of the concept of Presence in Online Education and its benefits.  It also does a fantastic job of citing sources, so the reader can further their knowledge.  The book [Humanizing Online Teaching and Learning](https://humanmooc.pressbooks.com/) is strongly recommended reading for any instructors teaching in our program.
+As mentioned in [A Day in the Life of an Online CS Instructor](DayInTheLife.html){:target="\_blank"}, the Online CS program values student experience, and student experience is strongly linked to Instructor Presence. Please read [this book chapter (25 minute read)](https://humanmooc.pressbooks.com/chapter/wheres-the-teacher-defining-the-role-of-instructor-presence-in-social-presence-and-cognition-in-online-education/){:target="\_blank"}; it presents an in-depth explanation of the concept of Presence in Online Education and its benefits.  It also does a fantastic job of citing sources, so the reader can further their knowledge.  The book [Humanizing Online Teaching and Learning](https://humanmooc.pressbooks.com/){:target="\_blank"} is strongly recommended reading for any instructors teaching in our program.
 
 ## Key Takeaways
 
@@ -24,7 +24,7 @@ Ed Discussions is used for asynchronous communication such as general course Q&A
 
 ### Timeliness
 
-As a rule in our Program, students should receive feedback on submitted assignments within three days of the due date.  For larger projects and depending on the granularity of the [grading rubric](AssignmentRubricDesign.html) and TA performance, it may take a week to generate real substantive feedback, but anything longer than one week will seriously damage student engagement and experience, as well as their ability to learn from their mistakes.
+As a rule in our Program, students should receive feedback on submitted assignments within three days of the due date.  For larger projects and depending on the granularity of the [grading rubric](AssignmentRubricDesign.html){:target="\_blank"} and TA performance, it may take a week to generate real substantive feedback, but anything longer than one week will seriously damage student engagement and experience, as well as their ability to learn from their mistakes.
 
 ### Humanized Interaction
 

@@ -49,6 +49,6 @@ Finally, after changes have been made, the Grad Coordinator will send emails ind
 - There is a possibility of looking at multiple-term appointments in the future.
 - It is difficult to obtain background information on TAs. If they ask you for a preference, feel free to query them on their background.  Otherwise you might ask the Graduate Coordinator for this information to assist in making your decisions.  Other Instructors can also be a reference - you might ask on Teams if anyone has useful information.
 - Links to other TA Reference Docs
-  - [TA Roles and Duties](TARolesDuties.html)
-  - [TA Organization](TAOrganization.html)
-  - [Common TA Issues & Suggested Resolutions](TAIssues.html)
+  - [TA Roles and Duties](TARolesDuties.html){:target="\_blank"}
+  - [TA Organization](TAOrganization.html){:target="\_blank"}
+  - [Common TA Issues & Suggested Resolutions](TAIssues.html){:target="\_blank"}

@@ -18,11 +18,11 @@ Within the Online CS program we want to ensure all our students have a positive 
 
 One feasible method of doing this is to merge the relevant sections:
 
-1. [How to Merge Canvas Course Sections](CourseMerge.html)
-2. [Ed Discussions Setup](EDSetup.html)  
+1. [How to Merge Canvas Course Sections](CourseMerge.html){:target="\_blank"}
+2. [Ed Discussions Setup](EDSetup.html){:target="\_blank"}  
     - Create the Ed Discussions board by clicking the Ed Discussions nav-bar link after merging the courses, and all students will have access.
     - In the board General settings, down at Users, select "Sync with LMS". This will enroll all students/staff. It helps to repeat this every few days near the start of the term, to make sure you get all students enrolled.
-3. [Teams Setup](TeamsSetup.html)  
+3. [Teams Setup](TeamsSetup.html){:target="\_blank"}  
     - Create one Team, then add the Teams "Group Code" to your merged course, as detailed in the linked page.
 
 All other common tools should utilize Canvas Navigation links, so there should be no need to do any additional special setup for classes with multiple sections. Relatively simple... but how do you work _**with**_ another instructor to manage this?
@@ -69,7 +69,7 @@ In some cases it will not be possible to come to a suitable arrangement of tasks
 
 You all do it, all the time.
 
-Ok, ok, fine.  The meat of the matter is that all instructors are expected to be engaging with students, reaching out to them, providing assistance and feedback, establishing an [Online Presence](InstructorPresence.html).  What that means for each instructor may be subtly different.  For example, it's common for our instructors to have additional job duties outside of OSU. This may limit their ability to provide syncrhonous engagement during relevant hours to students.  This instructor may be better suited focusing on Asynchronous engagement! Again, a conversation prior to the beginning of the term will go a long way toward finding an optimal strategy.
+Ok, ok, fine.  The meat of the matter is that all instructors are expected to be engaging with students, reaching out to them, providing assistance and feedback, establishing an [Online Presence](InstructorPresence.html){:target="\_blank"}.  What that means for each instructor may be subtly different.  For example, it's common for our instructors to have additional job duties outside of OSU. This may limit their ability to provide syncrhonous engagement during relevant hours to students.  This instructor may be better suited focusing on Asynchronous engagement! Again, a conversation prior to the beginning of the term will go a long way toward finding an optimal strategy.
 
 ## FAQs
 

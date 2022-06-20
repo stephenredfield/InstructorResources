@@ -27,7 +27,7 @@ From a resource-expenditure point of view, GTAs should be put to use where they 
 
 Feedback is important, especially at the beginning of a job. Early and frequent feedback (highlighting both the things that are going well and the things that need improvement) will help to improve our classes and help clarify expectations. Therefore, faculty are encouraged to meet with the GTAs assigned to their classes early and regularly to set clear expectations and let them know if they are straying. It is great to meet in person, but we recommend following up with email to help overcome any communication barriers and remove any uncertainty that may arise from a face-to-face meeting.
 
-Formal evaluations of GTAs are required by the [CGE-OSU contract (Article 15)](https://hr.oregonstate.edu/employees/administrators-supervisors/graduate-employee-cge-contract-resources). In EECS, faculty are asked to evaluate all GTAs assigned to their courses at the end of every quarter on whether they meet the following criteria:
+Formal evaluations of GTAs are required by the [CGE-OSU contract (Article 15)](https://hr.oregonstate.edu/employees/administrators-supervisors/graduate-employee-cge-contract-resources){:target="\_blank"}. In EECS, faculty are asked to evaluate all GTAs assigned to their courses at the end of every quarter on whether they meet the following criteria:
 
 - possessed, demonstrated or showed the ability to learn the technical and academic content necessary to answer student questions, competently grade, and perform other duties for this particularly class; and
 - performed tasks on time, responded quickly and professionally to emails and other communications, showed up to meetings and office hours on time, and acted ethically, fairly and consistently.

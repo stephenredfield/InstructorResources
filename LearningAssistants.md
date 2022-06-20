@@ -16,11 +16,11 @@ ULAs...
 - ...cannot work in graduate courses, ever.
 - ...must have taken the course and received a 'B' grade or better.
 - ...must be enrolled in at least 6 OSU credit hours for the term they are employed.
-- ...must complete FERPA training via [My Oregonstate](https://my.oregonstate.edu/web/myosu/employee) prior to engaging in FERPA-associated duties. (**Resources**, search **FERPA** and select **GRA, GTA, & Student Employee FERPA Training**)
+- ...must complete FERPA training via [My Oregonstate](https://my.oregonstate.edu/web/myosu/employee){:target="\_blank"} prior to engaging in FERPA-associated duties. (**Resources**, search **FERPA** and select **GRA, GTA, & Student Employee FERPA Training**)
 - ...are not allowed to evaluate their friends' work, so grading groups must be carefully organized around this.
 - ...may work up to 20 hours a week, depending on their time availability, but should average out to 10 hours/week over the 13-week term.
-- ...must *clock in/out* via [EMPCenter](https://mytime.oregonstate.edu).
-- ...must have their timesheet approved by their supervisor via [EMPCenter](https://mytime.oregonstate.edu).
+- ...must *clock in/out* via [EMPCenter](https://mytime.oregonstate.edu){:target="\_blank"}.
+- ...must have their timesheet approved by their supervisor via [EMPCenter](https://mytime.oregonstate.edu){:target="\_blank"}.
 - ...will be assigned you or the course owner as their supervisor.
 
 ### Additional Administrative Notes
@@ -46,6 +46,6 @@ Teams doesn't seem to have user-specific analytics, but you can still pay attent
 
 ## The Undergraduate Learning Assistant Hiring Process
 
-Once you have gathered a list of potential ULAs from the above or other methods, the students must apply to the Ecampus TA job posting. This posting changes every Academic Year but can be easily found as the EECS Ecampus TA position from [this jobs.oregonstate.edu query](https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=Ecampus&query_v0_posted_at_date=&1970%5B%5D=8&query_organizational_tier_3_id%5B%5D=594&225=&commit=Search).  Students applicants must apply to this posting and fill in the associated survey.
+Once you have gathered a list of potential ULAs from the above or other methods, the students must apply to the Ecampus TA job posting. This posting changes every Academic Year but can be easily found as the EECS Ecampus TA position from [this jobs.oregonstate.edu query](https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=Ecampus&query_v0_posted_at_date=&1970%5B%5D=8&query_organizational_tier_3_id%5B%5D=594&225=&commit=Search){:target="\_blank"}.  Students applicants must apply to this posting and fill in the associated survey.
 
 From the instructor end, you should notify the ULA Guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)) your preferred list of ULAs at your earliest opportunity to help expedite the process.

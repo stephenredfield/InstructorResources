@@ -2,10 +2,10 @@
 
 DISCLAIMER: This information is intended for Fixed-Term Instructors, but term-to-term instructors are also eligible for promotion under much the same process. Speak to Tom Weller for details.  Time spent as a term-to-term instructors does count toward promotion for fixed-term instructors.
 
-During Summer 2020, the OSU Faculty Union (UAOSU) successfully bargained for a reduction in the "time served" requirement for promotion from Instructor to Senior Instructior I, and likewise from SI-1 to SI-2. The exact language regarding this can be viewed on the [UAOSU Site](https://www.uaosu.org/contract/) but is abbreviated here:
+During Summer 2020, the OSU Faculty Union (UAOSU) successfully bargained for a reduction in the "time served" requirement for promotion from Instructor to Senior Instructior I, and likewise from SI-1 to SI-2. The exact language regarding this can be viewed on the [UAOSU Site](https://www.uaosu.org/contract/){:target="\_blank"} but is abbreviated here:
 
 > All Instructors ... are eligible to apply for promotion this coming academic year if they began employment at OSU no later than Fall 2017 and **will have accumulated at least 3.0 FTE years in service by the end of the 2020-2021 academic year**. Previously promoted faculty in these categories are eligible for their second promotion to Senior II if they were promoted no later than Fall 2017 and will, by the end of the 2020-2021 academic year, **have accumulated 3.0 FTE years in service since promotion**.  
-            - [UAOSU Timely Update](https://www.uaosu.org/2020/08/13/timely-contract-highlights-for-fixed-term-faculty/)
+            - [UAOSU Timely Update](https://www.uaosu.org/2020/08/13/timely-contract-highlights-for-fixed-term-faculty/){:target="\_blank"}
 
 To clarify, 1.0 FTE year is one year of service at your annually contracted service duration, so 9 months for 9-months contracted instructors and 12 months for 12-month instructors. In general (for 1.0 instructors), you should start the process in February-April of your 3rd year, and be sure to let Tom Weller know!
 
@@ -33,7 +33,7 @@ If you do not have a copy of your P.D., ask your supervisor and they will be abl
 
 ### Understand the Dossier
 
-The **Promotion Dossier** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure) is a document which will be partially completed by you, some of your references, the Department (via a committee and the Head), and the College.  The absolute **best** thing you can do to ease your promotion process is to download it _**now**_ and treat it as a living document:
+The **Promotion Dossier** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure){:target="\_blank"} is a document which will be partially completed by you, some of your references, the Department (via a committee and the Head), and the College.  The absolute **best** thing you can do to ease your promotion process is to download it _**now**_ and treat it as a living document:
 
 - _Keep your Candidate Statement (Section V) in at least an outline form_, updated yearly.
 - Utilize the annual performance review preparation to _update your Vita (Section VIII) with current information_.
@@ -45,7 +45,7 @@ By returning regularly to this document, and taking your performance reviews ser
 
 ### Understand the Timeline
 
-The current requirements allow you to apply for promotion after 3.0 FTE years of service in rank.  The promotion process itself will take _one whole_ year, which is interspersed with interviews, revisions, teaching observations, etc...  For a complete listing of the various deadlines, check the **Annual timeline for COE promotion and tenure activities** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure). It is non-trivial to understand, but the really important dates and time-frames to look for (and some aren't on the Calendar) are...
+The current requirements allow you to apply for promotion after 3.0 FTE years of service in rank.  The promotion process itself will take _one whole_ year, which is interspersed with interviews, revisions, teaching observations, etc...  For a complete listing of the various deadlines, check the **Annual timeline for COE promotion and tenure activities** on the [CoE Promotion and Tenure Page](https://engineering.oregonstate.edu/promotion-tenure){:target="\_blank"}. It is non-trivial to understand, but the really important dates and time-frames to look for (and some aren't on the Calendar) are...
 
 1. Speak with School Head regarding candidacy
     - You should do this at or before your performance review for your second FTE year.
@@ -61,7 +61,7 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
 5. "Peer evaluation of teaching"
     - in September/October, Promotion Year 1
     - For this the EECS P&T Committee will task several (2-3) reviewers to observe your teaching, perhaps interview you, and write a letter in support (or not) of your promotion.
-    - It is recommended to use the OSU [Peer-Review of Online Teaching Guidelines](https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/peer_review_observation_formrev.pdf) since course observation of online courses is very different from traditional courses.
+    - It is recommended to use the OSU [Peer-Review of Online Teaching Guidelines](https://senate.oregonstate.edu/sites/senate.oregonstate.edu/files/peer_review_observation_formrev.pdf){:target="\_blank"} since course observation of online courses is very different from traditional courses.
 6. "Candidate Signs Section X of the Dossier"
     - The deadline is later, but often this is signed when the Dossier is submitted (Step 3 above)
     - In this section you may sign away permission to view the dossier in its entirety (possibly containing negative reviews and letters)

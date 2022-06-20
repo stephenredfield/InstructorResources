@@ -1,6 +1,6 @@
 # Repl.it Setup
 
-[Repl.it](repl.it) is a tool that allows instructors to embed interactive code within web pages. It will work in Canvas, HTML pages, really anywhere that an iframe or oEmbed is supported.
+[Repl.it](repl.it){:target="\_blank"} is a tool that allows instructors to embed interactive code within web pages. It will work in Canvas, HTML pages, really anywhere that an iframe or oEmbed is supported.
 
 Instructors are strongly encouraged to make any code example that exists within course content interactive if possible. 
 
@@ -14,7 +14,7 @@ The other option to display code is via an assignment. An image of this is shown
 
 ![Classroom Assignment](./images/repl-class.gif)
 
-Comprehensive documentation of Repl.it can be found [at their official docs page](https://repl.it/site/docs/repls/intro). For most topics, that is where you should go to get information on Repl.it.
+Comprehensive documentation of Repl.it can be found [at their official docs page](https://repl.it/site/docs/repls/intro){:target="\_blank"}. For most topics, that is where you should go to get information on Repl.it.
 
 ## OSU Specifics
 

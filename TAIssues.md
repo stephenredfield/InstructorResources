@@ -7,11 +7,11 @@
 - Complains about the number of work hours per Week
 - Rude to Students
 - Doesn’t know material
-- Out of the country (See [TA Organization](TAOrganization.html))
+- Out of the country (See [TA Organization](TAOrganization.html){:target="\_blank"})
 
 ## Standard Resolution Techniques
 
-In general, it is easy to remedy these issues if you have established a rapport with the TA, and are sensitive to any issues they may be going through. See [Ben Brewster's Leadership Tips](LeadershipTechniques.html) for help doing this.  Keeping these tips in mind, here are some possible remediation paths.
+In general, it is easy to remedy these issues if you have established a rapport with the TA, and are sensitive to any issues they may be going through. See [Ben Brewster's Leadership Tips](LeadershipTechniques.html){:target="\_blank"} for help doing this.  Keeping these tips in mind, here are some possible remediation paths.
 
 - Send reminders and Inquire with Empathy  
   In general, when you send a reminder about a pre-determined task, it is easy to cause offense. If you inquire about any lateness with empathy, it is far more likely to generate a positive outcomes.
@@ -30,4 +30,4 @@ From time to time I've had to resort to more extreme measures to get the wheels 
 
 ## TA Evaluation
 
-Part of the reason we keep records of these interactions is for TA evaluation. For undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the [GTA evaluation system](https://apps.ideal-logic.com/osueecs).  If you are having issues with a GTA and you're able to identify these issues early in the term, and have already taken steps toward resolution which have failed, you can utilize this evaluation system for [Off-Cycle TA Evaluations](https://apps.ideal-logic.com/osueecs) to streamline corrective processes and enable proper tracking, in accordance with the GTA union guidelines.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html).
+Part of the reason we keep records of these interactions is for TA evaluation. For undergrad TAs, having this information will let us track which of our undergrad TAs are performing at a high level.  For GTAs, you'll want to submit this information to Assoc. Head Glencora Borradaile at the end of the term with the [GTA evaluation system](https://apps.ideal-logic.com/osueecs){:target="\_blank"}.  If you are having issues with a GTA and you're able to identify these issues early in the term, and have already taken steps toward resolution which have failed, you can utilize this evaluation system for [Off-Cycle TA Evaluations](https://apps.ideal-logic.com/osueecs){:target="\_blank"} to streamline corrective processes and enable proper tracking, in accordance with the GTA union guidelines.  It is possible for GTAs to lose their appointment. For more info on TA evaluation, see the page on [TA Organization](TAOrganization.html){:target="\_blank"}.

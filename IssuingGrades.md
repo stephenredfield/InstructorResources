@@ -1,6 +1,6 @@
 # Grade Submission
 
-All students who finished the class without withdrawing need to receive a final grade.  This includes students who you have elected to offer Incomplete grades to.  Check the [Incomplete Grades Guide](Incompletes.html) for more info on requirements and implementation of the Incomplete process.
+All students who finished the class without withdrawing need to receive a final grade.  This includes students who you have elected to offer Incomplete grades to.  Check the [Incomplete Grades Guide](Incompletes.html){:target="\_blank"} for more info on requirements and implementation of the Incomplete process.
 
 ## Pulling Data from Canvas
 
@@ -14,7 +14,7 @@ This will download the grades as a comma-separated values (CSV) file.
 3. Open the downloaded spreadsheet in the editor of your choice.
 4. _(Optional)_ Delete unneeded columns  
 The only data columns required for grade submission are **SIS User ID** and **Unposted Final Grade**, though it is recommended to keep **Student** as well.  
-NOTE: For more information on what each column header means, see the [Canvas Grade Export Guide](https://community.canvaslms.com/docs/DOC-16545-4152813648).
+NOTE: For more information on what each column header means, see the [Canvas Grade Export Guide](https://community.canvaslms.com/docs/DOC-16545-4152813648){:target="\_blank"}.
 The only data columns required for grade submission are **SIS User ID** and **Unposted Final Grade**, though it is recommended to keep **Student** as well to simplify adding last-date-of-attendance for students with F-grades.
 
 ### Last Date of Participation (Students with F's and Incompletes)
@@ -29,16 +29,16 @@ _NOTE: Ensure this column is not auto-formatted (in Excel, select the column, ri
 2. After the roster loads, search the student's name.
 3. Pull the **Last Activity** date.
 4. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
-   - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar). Enter this date for any students whose participation outlasted Dead Week.
+   - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
    - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format.
 
-Repeat this process for any students you'll be giving [Incompletes](Incompletes.html) to.
+Repeat this process for any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to.
 
 _NOTE: For these students, the final grade should I/X where X is the letter grade they'll receive if they never complete their course materials._
 
 ## Uploading Grades
 
-1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/){:target="\_blank"}. 
 2. Navigate to the **Resources** tab (near the top of the page).
 3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
 4. Select **Final Grades - File Upload**
@@ -63,7 +63,7 @@ It's always a good idea to check your work.  To verify there are no missing fina
 
 Sometimes we have a reason to modify an existing grade.  There is a period of approximately one week after the grading window closes (5pm Monday after the term ends for Fall/Winter/Spring) where we cannot make changes, but outside that window we can change a final grade at any time. To do so...
 
-1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/){:target="\_blank"}.
 2. Navigate to the **Resources** tab (near the top of the page).
 3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
 4. Select **Final Grades - Change Posted Grades**.
@@ -78,7 +78,7 @@ When pulling preliminary grade data, follow the [Final Grade Data](#final-grade-
 
 ### Uploading Preliminary Grades
 
-1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/). 
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/){:target="\_blank"}.
 2. Navigate to the **Resources** tab (near the top of the page).
 3. In the **Find Resources** search bar, type **Grades** and select **Spring Preliminary Grades**.
 4. Select **Preliminary Grades - File Upload** or **Preliminary Grades - Keyed Entry**.

@@ -4,9 +4,9 @@ Microsoft Teams is a multi-platform connectivity app which is FERPA-approved and
 
 Teams is used to communicate with your students and encourage their learning in what feels like a much more in-person way. We've decided to incorporate it the standard tool for synchronous communications in our courses, and encourage you to employ it as much as possible.  This can take the form of office hours for yourself and your TAs, and tele-/video-conferencing at-a-click.  It can also be a place for you to talk about course-related and program-related materials in a more personal and approachable setting.  We will also use it for intra-departmental communication.
 
-There are multiple methods to connect to Teams.  We recommend using the desktop application and mobile app. You can find links to download these at the [University IT Teams Site](https://is.oregonstate.edu/teams). You can also log in directly to Teams through a browser via the [Microsoft Teams URL](https://teams.microsoft.com/): https://teams.microsoft.com/ 
+There are multiple methods to connect to Teams.  We recommend using the desktop application and mobile app. You can find links to download these at the [University IT Teams Site](https://is.oregonstate.edu/teams){:target="\_blank"}. You can also log in directly to Teams through a browser via the [Microsoft Teams URL](https://teams.microsoft.com/){:target="\_blank"}: https://teams.microsoft.com/ 
 
-NOTE: Chris Thompson, College of Engineering IT Director, has made available a [recorded session demonstrating normal Teams functionality](https://it.engr.oregonstate.edu/lists/lt.php?tid=cUhbUwNVU1dQBRRTWgdVSAdTBwgaA1MEBxoHUQ0BB1UOBQxSVAVOAwBVCgdaB1BIVQdUCxpWAwsBGl9VUgFLAVwHAQIEBwRSVAQPTQYHVVNRUVcIGgQOV1MaUlQNXUsJCwVaHVAEBwdUVFgEUgBXBA). The [University IT Teams Site](https://is.oregonstate.edu/teams) also has Knowledge Base articles and Trainings available.
+NOTE: Chris Thompson, College of Engineering IT Director, has made available a [recorded session demonstrating normal Teams functionality](https://it.engr.oregonstate.edu/lists/lt.php?tid=cUhbUwNVU1dQBRRTWgdVSAdTBwgaA1MEBxoHUQ0BB1UOBQxSVAVOAwBVCgdaB1BIVQdUCxpWAwsBGl9VUgFLAVwHAQIEBwRSVAQPTQYHVVNRUVcIGgQOV1MaUlQNXUsJCwVaHVAEBwdUVFgEUgBXBA){:target="\_blank"}. The [University IT Teams Site](https://is.oregonstate.edu/teams){:target="\_blank"} also has Knowledge Base articles and Trainings available.
 
 ## Connecting to our Departmental Team
 
@@ -31,7 +31,7 @@ Here's how we use the OnlineCS Team. Feel free to request an invite if you're no
 
 Now that you're set up and ready to go, it's time to create a Team for your students to connect to!  We are working on a method with increased automation, but for now the following is a workable method:
 
-1. Open the [University IT Teams Site](https://is.oregonstate.edu/teams) and select "Request a Team".  
+1. Open the [University IT Teams Site](https://is.oregonstate.edu/teams){:target="\_blank"} and select "Request a Team".  
   ![Request A Team](images/TeamsRequestTeam.png "Request A Team")
 2. Click the Big Orange "Request Service" button. This will require you to log in with your ONID.
 3. Fill in the form with your class information. We recommend including the course number, relevant section material, and the term, for record-keeping purposes.  
@@ -55,7 +55,7 @@ From anywhere in Teams, you can select that same dropdown window and "Edit Team"
 
 Updating the Team Picture will make it easier to navigate to the correct class' Team for students and for yourself.
 
-1. Download your class' Teams Icon from [HERE](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9).
+1. Download your class' Teams Icon from the [Teams Icon Repository](https://drive.google.com/drive/folders/1RKscY825h54A9blY-hL6_dQesOgg6TG9){:target="\_blank"}.
 2. From the "Manage Team" window, select the "Settings" tab, then find "Team Picture"
 3. Upload the Teams Icon and select it as the Team Picture.
 
@@ -124,7 +124,7 @@ Students are encouraged to utilize Teams as an official course resource, so they
 
 ## Adding your Students
 
-Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long. You may elect to paste this [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students) into your courses. Don't forget to snag the image and edit the page (specifically the join method and any changes to the channels) to fit your class!. I recommend putting this in the class Introduction module or in the Tools syllabus page subsection.
+Once your class Team is created and set up, there are a few methods add your students. The in-client method is cumbersome and takes far too long. You may elect to paste this [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students){:target="\_blank"} into your courses. Don't forget to snag the image and edit the page (specifically the join method and any changes to the channels) to fit your class!. I recommend putting this in the class Introduction module or in the Tools syllabus page subsection.
 
 ### Option 1 - Provide students a "Join Code" (Preferred)
 
@@ -136,7 +136,7 @@ For this method, you will create a short "Teams" page within Canvas and provide 
 3. Copy this code for later.
 4. In Canvas, create a Teams Page in your Course Introduction Module.
 5. In this Page, reference the nav button and provide something like the following directions to the students:
-   1. To join us on Microsoft Teams, visit the link in the nav bar ([https://teams.microsoft.com/](https://teams.microsoft.com/)).
+   1. To join us on Microsoft Teams, visit the link in the nav bar ([https://teams.microsoft.com/](https://teams.microsoft.com/){:target="\_blank"}).
    2. Login with your OSU ONID and password
    3. Join the (Class Number) Team Channel using the Team Code (Team Code)
 
@@ -160,7 +160,7 @@ This is in progress and not functional yet. It should obsolete Options 1 and 2!
 
 ## Encouraging Use of Teams
 
-One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students) may also help in driving students to the Teams channels.
+One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students){:target="\_blank"} may also help in driving students to the Teams channels.
 
 ## Teams Tips & Tricks
 

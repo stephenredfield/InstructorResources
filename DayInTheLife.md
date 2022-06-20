@@ -4,7 +4,7 @@ This page briefly describes activities to be engaged in as part of fulfilling bo
 
 ## Continuous Student Engagement
 
-[Instructor Presence](InstructorPresence.html) has been shown to increase both student success and student satisfaction, and is vital to our success individually and as a Program.
+[Instructor Presence](InstructorPresence.html){:target="\_blank"} has been shown to increase both student success and student satisfaction, and is vital to our success individually and as a Program.
 
 Methods include:
 
@@ -14,7 +14,7 @@ Methods include:
 - Sharing relevant personal stories - not just in response, but as a new thread of discussion.
 - Sharing relevant technology current events, also as a new thread.
 
-It is easy to fall into the trap of thinking that the students are in a correspondence course or are engaging in a “self-directed tour” of your materials. The goal is not to just “clear the board” and leave Piazza, but to create new engagements with your students, however you can.
+It is easy to fall into the trap of thinking that the students are in a correspondence course or are engaging in a “self-directed tour” of your materials. The goal is not to just “clear the board” and leave Ed Discussions, but to create new engagements with your students, however you can.
 
 **_Reflection: How can I show my students that I am here and that I care?_**
 
@@ -24,7 +24,7 @@ Students will frequently report issues with your course. These range from typos 
 
 ## Modifying and Adding New Material
 
-The Course Owner will be in communication with you about writing new assignments and test questions. Normally, any major exams need to be updated at least in part every term. Often, assignments need to be updated so as to reduce the temptation for students to cheat. This is especially relevant with [Portfolio assignments](PortfolioAssignments.html), which students are allowed to host publicly.
+The Course Owner will be in communication with you about writing new assignments and test questions. Normally, any major exams need to be updated at least in part every term. Often, assignments need to be updated so as to reduce the temptation for students to cheat. This is especially relevant with [Portfolio assignments](PortfolioAssignments.html){:target="\_blank"}, which students are allowed to host publicly.
 
 Over the course of a term, all faculty engaged with a course should be collecting information about what students struggle with, or topics which would benefit from  expanded explorations. Any new course materials should be added before the students can access the module they're associated with, so as to not violate the general rule: “do not modify a running course”. If they cannot be, they should be pushed to the next term.
 
@@ -62,7 +62,7 @@ Your Supervisor and Program Director will help you find relevant and useful prof
 
 Keep track of all the things you do - you’ll need this when you write your list of accomplishments for your performance evaluation. Set your vision and goals and work towards them!
 
-More information can be found at [Continuing Education & Professional Development](./index.html#improving-as-an-instructor).
+More information can be found at [Continuing Education & Professional Development](./index.html#improving-as-an-instructor){:target="\_blank"}.
 
 ## A Night in the Life of an Online CS Teacher
 

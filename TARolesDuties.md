@@ -2,7 +2,7 @@
 
 Teaching assistants (GTAs) can be invaluable to the success of your course. Learning the best way to utilize these people is vital.
 The most critical duty of a TA is to know the material in the class they are assigned. Graduate TAs will start their assignment 1-4 weeks before the beginning of the term so it is imperative that the GTA has access to the syllabus so they can determine any deficiencies and learn the material.
-NOTE: Much of this document is taken from, or adapted from, the [EECS Graduate Handbook](https://eecs.oregonstate.edu/grad-handbook).
+NOTE: Much of this document is taken from, or adapted from, the [EECS Graduate Handbook](https://eecs.oregonstate.edu/grad-handbook){:target="\_blank"}.
 
 Duties of a GTA may include:
 
@@ -34,6 +34,6 @@ For large classes with many GTAs, a lead GTA may be identified who will primaril
   - Handle grading rubric standardization (for consistency).
 - Filter/Handle extension requests before they get to the faculty.
 - Filter/Handle grading disputes before they get to the faculty.
-- Assist faculty with collecting evidence for academic misconduct cases. [Resource](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty)
+- Assist faculty with collecting evidence for academic misconduct cases. [Resource](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"}
 
 Regardless of the nature of duty, the duties of a TA for any given course should be given in written form before the first day of class along with the due dates for grading and exams, with the understanding that adjustments may need to occur as the course progresses.

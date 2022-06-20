@@ -1,29 +1,29 @@
 # Handling Academic Misconduct
 
 Quick Links...
-- [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) (File Reports Here)
-- [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/edited_code_of_student_conduct.pdf)
-- [moss usage guide](mossGuide.html)
+- [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"} (File Reports Here)
+- [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/edited_code_of_student_conduct.pdf){:target="\_blank"}
+- [moss usage guide](mossGuide.html){:target="\_blank"}
 
 ## Identification
 
-Identification of Academic Misconduct can be tricky.  Firstly, please familiarize yourself with Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf).  This, combined with whichever specific policies you've outlined in your syllabus, set the boundaries for what will be considered academic misconduct in your course.
+Identification of Academic Misconduct can be tricky.  Firstly, please familiarize yourself with Section 4.2 of the [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf){:target="\_blank"}.  This, combined with whichever specific policies you've outlined in your syllabus, set the boundaries for what will be considered academic misconduct in your course.
 
 One common method of identifying potential academic misconduct is by inspection.  A TA or Instructor may be grading assignments and come across that just seem too similar.  This is perfectly valid.  Remember, our job is only to identify **potential cases** of misconduct and provide evidence.  The *College Hearing Officer* will investigate and interview the student and make a determination of responsibility.  Beyond manual inspection, there are some tools which can make the process of identifying potential misconduct far less onerous...
 
 ### Programming Assignments - moss
 
-[moss](https://theory.stanford.edu/~aiken/moss/) is a powerful piece of software written at Stanford for detecting similarity in software.  It supports most of the languages we use in our program and can be run from command-line (e.g. on flip by a script) or using one of the GUIs or clients written for it.
+[moss](https://theory.stanford.edu/~aiken/moss/){:target="\_blank"} is a powerful piece of software written at Stanford for detecting similarity in software.  It supports most of the languages we use in our program and can be run from command-line (e.g. on flip by a script) or using one of the GUIs or clients written for it.
 
-It isn't the most user-friendly piece of software, however.  I've written a [moss usage guide](mossGuide.html) which can help you get set up initially to run it by command-line, and understand the results.  After reviewing the results, if you believe there has been a violation of the code of conduct, please check the *Reporting* section of this page.
+It isn't the most user-friendly piece of software, however.  I've written a [moss usage guide](mossGuide.html){:target="\_blank"} which can help you get set up initially to run it by command-line, and understand the results.  After reviewing the results, if you believe there has been a violation of the code of conduct, please check the *Reporting* section of this page.
 
 ### Written Assignments - TurnItIn
 
-OSU subscribes to a service called [TurnItIn](https://www.turnitin.com/), which is integrated in Canvas.  It is useful for detecting plagiarism in written assignments.  For help getting started, and for usage, check the [eCampus TurnItIn Resource Page](https://ecampus.oregonstate.edu/faculty/resources/turnitin/).
+OSU subscribes to a service called [TurnItIn](https://www.turnitin.com/){:target="\_blank"}, which is integrated in Canvas.  It is useful for detecting plagiarism in written assignments.  For help getting started, and for usage, check the [eCampus TurnItIn Resource Page](https://ecampus.oregonstate.edu/faculty/resources/turnitin/){:target="\_blank"}.
 
 ## Reporting
 
-Once you have identified a case where you believe Academic Misconduct has occurred, it is important to submit a report. The Reporting Process is thoroughly detailed at the [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty).  It is a simple procedure and requires fairly little effort on your part. That being said, here are some important notes and tips...
+Once you have identified a case where you believe Academic Misconduct has occurred, it is important to submit a report. The Reporting Process is thoroughly detailed at the [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"}.  It is a simple procedure and requires fairly little effort on your part. That being said, here are some important notes and tips...
 
 ### Filing Tips
 

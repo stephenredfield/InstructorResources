@@ -17,9 +17,9 @@ Below are guides to help streamline logging onto Flip without the need of involv
 
 For this you will need:
 
-- [PuTTY Key Generator](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe) - a program to generate ssh private and public keys
-- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - a terminal emulator
-- [FileZilla](https://filezilla-project.org/) - an sFTP client
+- [PuTTY Key Generator](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe){:target="\_blank"} - a program to generate ssh private and public keys
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html){:target="\_blank"} - a terminal emulator
+- [FileZilla](https://filezilla-project.org/){:target="\_blank"} - an sFTP client
 
 ### Steps
 
@@ -100,7 +100,7 @@ For this you will need:
 For this you will need:
 
 - Access to a terminal
-- [Cyberduck](https://cyberduck.io/)
+- [Cyberduck](https://cyberduck.io/){:target="\_blank"}
 
 ### Steps
 
@@ -180,4 +180,4 @@ Given the large amounts of different Linux distributions there is no one guide t
 
 [Back to the top](#fixing-duo-issues-with-ssh-and-sftp)
 
-Eric Ianni authored this document. Additionally he wanted to make sure he acknowledged the very talented and motivated members of OSU's unofficial Slack group ([osu-cs.slack.com/](https://osu-cs.slack.com/)). They were the motivation to create these guides and much of the content was covered users' discussions, but it is his hope this will provide a more permanent source of information.
+Eric Ianni authored this document. Additionally he wanted to make sure he acknowledged the very talented and motivated members of OSU's unofficial Slack group ([osu-cs.slack.com/](https://osu-cs.slack.com/){:target="\_blank"}). They were the motivation to create these guides and much of the content was covered users' discussions, but it is his hope this will provide a more permanent source of information.

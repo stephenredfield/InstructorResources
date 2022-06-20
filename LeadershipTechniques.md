@@ -1,6 +1,6 @@
 # Leadership Techniques
 
-The following is excerpted from a presentation by Benjamin Brewster ([slides available](./docs/Training_LeadershipTools.pdf)). The purpose of this interactive presentation was to aid in developing leadership techniques in working with Teaching and Learning Assistants, and with students. Interspersed are several "Self Reflection" questions intended to cause the reader to think more deeply about these topics.
+The following is excerpted from a presentation by Benjamin Brewster ([slides available](./docs/Training_LeadershipTools.pdf){:target="\_blank"}). The purpose of this interactive presentation was to aid in developing leadership techniques in working with Teaching and Learning Assistants, and with students. Interspersed are several "Self Reflection" questions intended to cause the reader to think more deeply about these topics.
 
 ### Tools of Leadership
 
