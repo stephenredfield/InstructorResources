@@ -3,7 +3,7 @@
 ## Course Facilitation
 
 - Course Requirements
-  - [Week 0 Module and Pre-Term Checklist](Week0List.html)
+  - [Week 0 Module and Pre-Term Checklist](Week0List.html){:target="\_blank"}
   - [ABET Accreditation Tool Guide](ABETGuide.html)
   - Grades
     - [Final Grades and Spring Preliminary Grades](IssuingGrades.html)
