@@ -48,11 +48,10 @@ It's an occasional occurrence that a proctor misinterpret a rule (such as "Windo
 - The "End Date" on this form is the time by which students must **submit** their exam, not **begin** it.  
 For example, a 60-minute exam with an End Date time set to 11:55pm will not allow proctors to start an instance of that exam after 10:55pm.
 - The "destroyed by proctor" option for Notes is unlikely to actually happen.
-- When allowing students to use scratch paper please check the "Whiteboard allowed" option, as this allows ProctorU to verify the student is not keeping their exam scratch work, unless you don't mind students keeping these.
 
-### Prepare your Students for a ProctorU Exam
+### Prepare your Students for a Proctorio Exam
 
-The following guide may be useful in preparing your students for their ProctorU experience: [Proctorio FAQ](https://learn.oregonstate.edu/canvas/proctorio-qa-students).
+The following guide may be useful in preparing your students for their Proctorio experience: [Proctorio FAQ](https://learn.oregonstate.edu/canvas/proctorio-qa-students).
 
 ## Common Issues
 
@@ -65,8 +64,7 @@ If something out of the ordinary occurs during a proctoring session you will rec
 If a student's connection drops for a significant amount of time, you may hear about it from the student, and it may show up in the Proctorio flags.  Unfortunately, there is a massive grey area in what is considered significant and potentially malicious, and your students may have lost time for various reasons without you ever hearing about it. If you do hear about it, there are a number of ways to handle this, and whichever you pick is up to you.
 
 - **Full or Partial Exam Retake**  
-To allow this, add an attempt in Canvas and ensure the student's Assignment window includes enough time for them to reschedule the exam.  You'll also have to notify their proctor.  In general you can message eCampus Testing (ecampustesting@oregonstate.edu) to notify them of the retake and extension, so they can communicate that information to the student's proctor.  If the student's Proctor is ProctorU, you can also directly message them (passwords@proctoru.com) 24/7 to expedite matters.  
-NOTE: If you do directly email ProctorU, you should request the grant the additional attempt at no charge to the student.
+To allow this, add an attempt in Canvas and ensure the student's Assignment window includes enough time for them to reschedule the exam.  You'll also have to notify their proctor.  In general you can message eCampus Testing (ecampustesting@oregonstate.edu) to notify them of the retake and extension, so they can communicate that information to the student's proctor.
 - **Alternate Exam**  
 This is essentially the same as the first option, but you'll make a separate Canvas Quiz and notify eCampus (or the student's proctor) of the Canvas Quiz name.
 
@@ -89,8 +87,6 @@ The process for offering exam extensions can be simple, depending on the proctor
 2. In Canvas, open the associated Quiz and select **Edit**.
 3. Under **Assign**.
 4. Under **Assign to** enter the name of the student being offered an extension and set the new timeframe for this student in **Due**, **Available from**, and **Until**.
-
-NOTE: If the incident requiring an extension occurs on the weekend, Ecampus Testing may not be able to get this done very quickly.  In that event, you may choose to email the proctor directly.  For ProctorU the appropriate email address is passwords@proctoru.com .
 
 ## Proctor Approval
 
