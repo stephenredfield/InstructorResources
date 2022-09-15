@@ -1,6 +1,6 @@
 # Proctored Exams in the Online CS Program
 
-A number of our courses have exams which are proctored virtually and scheduled through the [Ecampus Exams & Proctoring Form](https://secure.oregonstate.edu/ecampus/proctoring/).  Proctorio is the standard online proctor used by this program and is free of charge for students. In some cases students may insist on an on-site proctor, which they may find using the [Ecampus Guide](https://ecampus.oregonstate.edu/services/proctoring/finding_proctor.htm).
+A number of our courses have exams which are proctored virtually and scheduled through the [Ecampus Exams & Proctoring Form](https://ecampus.oregonstate.edu/forms/proctoring/).  Proctorio is the standard online proctor used by this program and is free of charge for students. In some cases students may insist on an on-site proctor, which they may find using the [Ecampus Guide](https://ecampus.oregonstate.edu/services/proctoring/finding_proctor.htm).
 
 ## Best Practices
 
@@ -90,7 +90,7 @@ The process for offering exam extensions can be simple, depending on the proctor
 
 ## Proctor Approval
 
-OSU Ecampus' Testing and Proctoring coordinators handle approval of proctors for all the online courses.  If you wish to see which proctors your students are using, you may view this information on the [Ecampus Proctoring Site](https://secure.oregonstate.edu/ecampus/proctoring/).
+OSU Ecampus' Testing and Proctoring coordinators handle approval of proctors for all the online courses.  If you wish to see which proctors your students are using, you may view this information on the [Ecampus Proctoring Site](https://ecampus.oregonstate.edu/forms/proctoring/).
 
 - Sign in at the above link
 - Select **Exam Information**
