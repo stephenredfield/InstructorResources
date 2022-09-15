@@ -16,11 +16,9 @@ Issues happen with proctored exams.  Proctors can receive incorrect information 
 
 ## Setting Up a Proctored Exam
 
-More details about Proctio and how to set it up for individual exams can be found at the [Ecampus About Proctorio Site](https://ecampus.oregonstate.edu/faculty/exam-proctoring/about.htm)
-
 ### Passwords  
 
-Proctorio automatically sets passwords for any Proctorio-enabled exams, but you need to ensure the "Secure Exam Proctor" is dragged into the active course modules in Canvas.  Go to Settings->Navigation then ensure it is in the upper grouping.  If students are receiving an "Access Code Required" error, the most likely issue is that their Proctorio browser extension (titled "Secure Exam Proctor") is either uninstalled, out of date, or does not have access to the exam page. More troubleshooting tips can be found [at this link](https://ecampus.oregonstate.edu/faculty/exam-proctoring/ProctorioAccessCodeTroubleshooting.pdf). Feel free to link to that PDF from your exam instructions so the students can access it.
+Proctorio automatically sets passwords for any Proctorio-enabled exams, but you need to ensure the "Secure Exam Proctor" is dragged into the active course modules in Canvas.  Go to Settings->Navigation then ensure it is in the upper grouping.  If students are receiving an "Access Code Required" error, the most likely issue is that their Proctorio browser extension (titled "Secure Exam Proctor") is either uninstalled, out of date, or does not have access to the exam page.
 
 ### Canvas Exam Setup
 
@@ -52,7 +50,7 @@ For example, a 60-minute exam with an End Date time set to 11:55pm will not allo
 
 ### Prepare your Students for a ProctorU Exam
 
-The following guide may be useful in preparing your students for their ProctorU experience: [Proctorio FAQ](https://learn.oregonstate.edu/canvas/proctorio-qa-students).
+The following guide may be useful in preparing your students for their ProctorU experience: [What to Expect from a ProctorU Session](ProctorUWhatToExpect.html).
 
 ## Common Issues
 
@@ -62,7 +60,7 @@ If something out of the ordinary occurs during a proctoring session you will rec
 
 #### Major Connectivity Loss
 
-If a student's connection drops for a significant amount of time, you may hear about it from the student, and it may show up in the Proctorio flags.  Unfortunately, there is a massive grey area in what is considered significant and potentially malicious, and your students may have lost time for various reasons without you ever hearing about it. If you do hear about it, there are a number of ways to handle this, and whichever you pick is up to you.
+If a student's connection drops for a significant amount of time, you may hear about it in an incident report.  Unfortunately, there is a massive grey area in what is considered significant enough to require a report, and your students may have lost time for various reasons without you ever hearing about it, especially if the student doesn't complain to their proctor.  If you do hear about it, there are a number of ways to handle this, and whichever you pick is up to you.
 
 - **Full or Partial Exam Retake**  
 To allow this, add an attempt in Canvas and ensure the student's Assignment window includes enough time for them to reschedule the exam.  You'll also have to notify their proctor.  In general you can message eCampus Testing (ecampustesting@oregonstate.edu) to notify them of the retake and extension, so they can communicate that information to the student's proctor.  If the student's Proctor is ProctorU, you can also directly message them (passwords@proctoru.com) 24/7 to expedite matters.  
@@ -72,7 +70,7 @@ This is essentially the same as the first option, but you'll make a separate Can
 
 #### Suspected Academic Misconduct or Exam Rule Violation
 
-When Proctorio suspects academic misconduct, it is flagged in the Proctorio report.  If you do believe the student violated the rules of the exam, [Submit a Academic Misconduct report](https://cm.maxient.com/reportingform.php?OregonStateUniv&layout_id=6).  You can read more about the student code of conduct [HERE](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) or check the page on it [HERE](AcademicMisconduct.html).
+When a proctor suspects academic misconduct, they report it to our eCampus Testing coordinator.  The coordinator will review the case and email you with their thoughts.  It is strongly recommended to request the recorded session so you can review it yourself and make a determination.  If you do believe the student violated the rules of the exam, [Submit a Academic Misconduct report](https://cm.maxient.com/reportingform.php?OregonStateUniv&layout_id=6).  You can read more about the student code of conduct [HERE](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty) or check the page on it [HERE](AcademicMisconduct.html).
 
 ### Life Emergency
 
@@ -100,6 +98,6 @@ OSU Ecampus' Testing and Proctoring coordinators handle approval of proctors for
 - Select **Exam Information**
 - Directly under the section information for each course, select **Student Proctor Information**.
 
-## Ideas for things to add to this page
+## Things to add to this page
 
 - "What a Proctored Exam Looks Like for a Student" section
