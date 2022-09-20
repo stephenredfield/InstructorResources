@@ -29,6 +29,8 @@ NOTE: If you need to view the student's section number (most likely for grade-re
 
 ![Course Merge Student Section](images/CourseMergeStudentSection.png "Course Merge Student Section")
 
-## Course Merge FAQ
+## Course Merge TIPS
 
-... None yet...
+- Check near the beginning of the term to see if any course sections have been added. If they have, you'll need to merge them in with the others.
+- If you merge courses at any point after adding TAs, you'll need to add the TAs again using the "Add TA..." tool. You don't have to remove them and re-add them, just add them again and select any sections they are lacking access to.
+- After merging your course sections, you may want to move the merge tool out of the "visible" section in the course navigation settings.
