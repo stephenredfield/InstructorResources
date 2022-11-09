@@ -20,6 +20,6 @@ See the [Issuing Grades Guide](IssuingGrades.html){:target="\_blank"} for detail
 
 ## Possible Issues
 
-Occasionally Ecampus will _Conclude_ a course which still has students enrolled with Incomplete grades.  If this happens, you'll need to contact Ecampus Support to have them re-open a course for yourself and the appropriate students.
+Occasionally Ecampus will _Conclude_ a course which still has students enrolled with Incomplete grades.  If this happens, you'll need to email canvas@oregonstate.edu, with details about the course and the students to have them re-open a course for yourself and the appropriate students.
 
 Additionally, don't forget to adjust due dates for these students to match the agreed-on timeline!
