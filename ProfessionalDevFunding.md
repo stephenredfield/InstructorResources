@@ -6,6 +6,13 @@ There are several ways to fund your Professional Development at Oregon State Uni
 
 All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the School of EECS are provided with up to $1,500 per fiscal year (7/01 - 6/30) of funds earmarked for professional development.  These funds can also supplement professional development funded through another source which may not fully cover expenses. Other costs it can be used to pay for include, but are not limited to, courses, learning materials and supplies, and conferences.  If you have an idea which isn't listed here, please contact your supervisor to verify that it is something which can be funded.
 
+The best way to get approval for professional development is to follow this procedure
+
+1. Get approved for a Concur Expense Card (https://health.oregonstate.edu/faculty-staff/college-resources/concur)
+2. Create a New Expense on Concur and provide all details relevant to the expense (whether it be a conference, a course, a book, etc...)
+
+For more training on all things Concur, check the [Concur Training Videos](https://fa.oregonstate.edu/training-videos)
+
 ## Ecampus Research Funding
 
 Oregon State Ecampus provides [Professional Development Funds](https://ecampus.oregonstate.edu/research/opportunities/professional-development/){:target="\_blank"} for learning in the areas of Online/Distance and Hybrid Education, up to $5,000 per person per term, with the small caveat that you must present the information you learned at one of the several annual [Ecampus Special Events](https://ecampus.oregonstate.edu/faculty/development/events.htm){:target="\_blank"}.  The above website has details on timing and applications.  This money can be used toward...
