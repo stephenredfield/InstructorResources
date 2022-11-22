@@ -8,10 +8,10 @@ All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the Sc
 
 The best way to get approval for professional development is to follow this procedure
 
-1. Get approved for a Concur Expense Card (https://health.oregonstate.edu/faculty-staff/college-resources/concur)
+1. Get approved for a Concur Expense Card (https://health.oregonstate.edu/faculty-staff/college-resources/concur){:target="\_blank"}
 2. Create a New Expense on Concur and provide all details relevant to the expense (whether it be a conference, a course, a book, etc...)
 
-For more training on all things Concur, check the [Concur Training Videos](https://fa.oregonstate.edu/training-videos)
+For more training on all things Concur, check the [Concur Training Videos](https://fa.oregonstate.edu/training-videos){:target="\_blank"}
 
 ## Ecampus Research Funding
 
