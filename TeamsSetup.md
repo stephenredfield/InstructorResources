@@ -71,7 +71,7 @@ Off-topic discussions, class related articles, memes, etc... within your course.
 
 ## Encouraging Use of Teams
 
-One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://oregonstate.instructure.com/courses/1622724/pages/teams-how-to-for-students){:target="\_blank"} may also help in driving students to the Teams channels.
+One hurdle you may face is getting your students on-board and engaged. One significant way to boost usage is to hold all office hours (yours and your TAs') on Teams, but of course you need to give the students the information they need to get it up and running! The [Teams - How To (For Students) page](https://canvas.oregonstate.edu/courses/1622724/pages/teams-how-to-for-students){:target="\_blank"} may also help in driving students to the Teams channels.
 
 ## Teams Tips & Tricks
 
