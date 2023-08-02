@@ -56,7 +56,7 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
     - By May, Promotion Year 1
     - This is the section where you notify the department of your candidacy and work on building your initial dossier, submit, receive feedback, revise, and resubmit. It is the bulk of your role in the process.
 4. Identify potential Evaluators (Student, Internal, and External)
-    - By June, Promotion Year 1
+    - By June, Promotion Year 1 (Only for Promotion to Senior Instructor II)
     - See section below on Letter Writers
 5. "Peer evaluation of teaching"
     - in September/October, Promotion Year 1
@@ -84,6 +84,8 @@ During the time you work at OSU, you should be building a contacts directory for
 1. Students
 2. Higher-rank faculty (Promoted Professors are ranked higher than un-promoted Instructors but not vice versa)
 3. Folk outside EECS (Ecampus, CoE, OSU, External)
+
+NOTE: As of AY2023, the requirement for evaluators was removed for promotion to Senior Instructor I. It is still in place for promotion to Senior Instructor II.
 
 ### Students
 
