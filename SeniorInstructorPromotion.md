@@ -2,12 +2,13 @@
 
 DISCLAIMER: This information is intended for Fixed-Term Instructors, but term-to-term instructors are also eligible for promotion under much the same process. Speak to Tom Weller for details.  Time spent as a term-to-term instructors does count toward promotion for fixed-term instructors.
 
-During Summer 2020, the OSU Faculty Union (UAOSU) successfully bargained for a reduction in the "time served" requirement for promotion from Instructor to Senior Instructior I, and likewise from SI-1 to SI-2. The exact language regarding this can be viewed on the [UAOSU Site](https://www.uaosu.org/contract/){:target="\_blank"} but is abbreviated here:
-
 > All Instructors ... are eligible to apply for promotion this coming academic year if they began employment at OSU no later than Fall 2017 and **will have accumulated at least 3.0 FTE years in service by the end of the 2020-2021 academic year**. Previously promoted faculty in these categories are eligible for their second promotion to Senior II if they were promoted no later than Fall 2017 and will, by the end of the 2020-2021 academic year, **have accumulated 3.0 FTE years in service since promotion**.  
             - [UAOSU Timely Update](https://www.uaosu.org/2020/08/13/timely-contract-highlights-for-fixed-term-faculty/){:target="\_blank"}
 
 To clarify, 1.0 FTE year is one year of service at your annually contracted service duration, so 9 months for 9-months contracted instructors and 12 months for 12-month instructors. In general (for 1.0 instructors), you should start the process in February-April of your 3rd year, and be sure to let Tom Weller know!
+
+You should also review the 
+[EECS Promotion and Tenure Guide (here)](docs\EECS_General_Promotion_and_Tenure_Manual_231005.pdf "EECS Promotion and Tenure Guide"){:target="\_blank"}, as this is the document that EECS will use internally to track candidate information.
 
 ## The Promotion Process
 
