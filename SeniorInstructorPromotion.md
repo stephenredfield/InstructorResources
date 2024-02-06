@@ -76,7 +76,7 @@ The current requirements allow you to apply for promotion after 3.0 FTE years of
     - In this time-frame you'll meet 1:1 with the Dean of CoE to talk about the promotion process and learn whether or not they will support your promotion.
     - You seldom get a chance to have a 1:1 with the Dean - use it wisely!
 9. Get Promoted/Paid
-    - Your salary and rank will update in September of Promotion Year 2, approximately 18 month after the process started. What a ride!
+    - Your salary and rank will update in September of Promotion Year 2 for 9-month contracts, or July for 12-month contracts; approximately 18 months after the process started. What a ride!
 
 ## Letter Writers
 
