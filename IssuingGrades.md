@@ -48,7 +48,8 @@ NOTE: The Grade Entry process is undergoing changes. The current instructions fo
 8. On the "Map" step, you have to manually map the "Narrative Grade" column to "Narrative Grade". No, I don't know what a Narrative Grade is, either.
 9. (Optional) Cross your fingers and, if the urge takes you, pray this works correctly.
 10. (Optional) Immediately go and manually check everything worked correctly. No, I don't trust it yet either.
-11. Repeat from step 2 for every single section, one at a time. Yep. All 8-12 of them. Enjoy this shiny new tool!
+11. Repeat from step 2 for every single section, one at a time. Yes, it un-sorts the table every time you upload. Yes, for all 8-12 of them. 
+12. Enjoy this shiny new tool!
 
 ## Check for Missing Grades
 
