@@ -8,7 +8,7 @@ All students who finished the class without withdrawing need to receive a final 
 - Take the "Before using the tool" part seriously. Especially the "Post Grades" and "Enter Zeros" parts!
 - If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the *Final Grades* Canvas tool or in the resultant Excel spreadsheet.
 
-### For each student with an Incomplete grade...
+### For each student with an Incomplete grade
 
 For any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to, or any students with outstanding Academic Misconduct reports...
 NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.
