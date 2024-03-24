@@ -6,33 +6,33 @@ All students who finished the class without withdrawing need to receive a final 
 
 NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
 
-Additional warnings/steps follow
+### For each student with an Incomplete grade...
 
-**Don't forget to select Incomplete (I/...) for any outstanding Incomplete grades from Misconduct reports or special extensions, etc..**
+For any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to, or any students with outstanding Academic Misconduct reports...
 
-#### Last Date of Participation (Students with F's and Incompletes)
+**NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.**
+
+1. Adjust the final grade to I/X, where X is the letter grade that the final grade initially populated to (this is the grade they'll receive if they never complete their course materials)._
+2. Follow the "Last Date of Participation" steps below
+
+### Last Date of Participation (Students with F's and Incompletes)
 
 For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
 
-** DO NOT close or refresh this while you're working on it. It will lose all your work **
+**NOTE 1: DO NOT close or refresh this while you're working on it. It will lose all your work**
+**NOTE 2: You can't sort to make this simple. Try not to miss any.**
 
-#### For each student with an F grade...
+### For each student with an F or an I/X grade...
 
-1. From the Course **Navigation** sidebar, select **People**.
+1. IN a different tab, from the Course **Navigation** sidebar, select **People**.
 2. After the roster loads, search the student's name.
 3. Pull the **Last Activity** date.
-4. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
+4. Return to the Faculty Grade Entry tool.
+5. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
    - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
    - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format.
 
 **No, you can't sort to make this simple. Try not to miss any.**
-
-#### For each student with an Incomplete grade...
-
-1. Repeat this process for any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to.
-2. Adjust the final grade to I/X, where X is the letter grade that the final grade initially populated to (this is the grade they'll receive if they never complete their course materials)._
-
-**No, you can't sort to make this simple. Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.**
 
 ## Uploading Grades
 
@@ -44,7 +44,7 @@ NOTE: The Grade Entry process is undergoing changes. The current instructions fo
 4. Scroll down to make sure some student names show up, because sometimes they don't.
 5. Click on the Tools wheel up by your name (No clue why it doesn't pop up contextually when you select a row).
 6. Click where it says "Browse" (I know it looks like a text entry field. It isn't.)
-7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and "Continue"
+7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and "Continue". If you don't hit "Upload" first it won't work and no, the "Continue" button doesn't change based on whether or not you've uploaded the file yet.
 8. On the "Map" step, you have to manually map the "Narrative Grade" column to "Narrative Grade". No, I don't know what a Narrative Grade is, either.
 9. (Optional) Cross your fingers and, if the urge takes you, pray this works correctly.
 10. (Optional) Immediately go and manually check everything worked correctly. No, I don't trust it yet either.
