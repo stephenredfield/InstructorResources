@@ -22,7 +22,7 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 - DO NOT close or refresh this while you're working on it. It will lose all your work
 - You can't sort to make this simple. Try not to miss any.**
 
-### For each student with an F or an I/X grade...
+#### For each student with an F or an I/X grade...
 
 1. In a different tab, from the Course **Navigation** sidebar, select **People**.
 2. After the roster loads, search the student's name.
