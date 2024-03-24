@@ -4,17 +4,24 @@ All students who finished the class without withdrawing need to receive a final 
 
 ## Pulling Data from Canvas
 
-NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
+### Final Grade Data
 
-Additional warnings/steps follow
+The best place to start is by downloading the grades spreadsheet from Canvas Grade Center.
 
-**Don't forget to select Incomplete (I/...) for any outstanding Incomplete grades from Misconduct reports or special extensions, etc..**
+1. While in _Grades_ Center_, click the **Actions** dropdown.
+2. Click **Export**.  
+This will download the grades as a comma-separated values (CSV) file.
+3. Open the downloaded spreadsheet in the editor of your choice.
+4. _(Optional)_ Delete unneeded columns  
+The only data columns required for grade submission are **SIS User ID** and **Unposted Final Grade**, though it is recommended to keep **Student** as well.  
+NOTE: For more information on what each column header means, see the [Canvas Grade Export Guide](https://community.canvaslms.com/docs/DOC-16545-4152813648){:target="\_blank"}.
+The only data columns required for grade submission are **SIS User ID** and **Unposted Final Grade**, though it is recommended to keep **Student** as well to simplify adding last-date-of-attendance for students with F-grades.
 
-#### Last Date of Participation (Students with F's and Incompletes)
+### Last Date of Participation (Students with F's and Incompletes)
 
-For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
+For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes. First, in the downloaded grading spreadsheet, add a column for this data.  
 
-** DO NOT close or refresh this while you're working on it. It will lose all your work **
+_NOTE: Ensure this column is not auto-formatted (in Excel, select the column, right-click, **Format Cells**, and select **Text**). If this isn't done, the date-format will be overwritten when you save the file and will not be accepted by the system for upload._
 
 #### For each student with an F grade...
 
@@ -25,39 +32,32 @@ For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of
    - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
    - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format.
 
-**No, you can't sort to make this simple. Try not to miss any.**
+Repeat this process for any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to.
 
-#### For each student with an Incomplete grade...
-
-1. Repeat this process for any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to.
-2. Adjust the final grade to I/X, where X is the letter grade that the final grade initially populated to (this is the grade they'll receive if they never complete their course materials)._
-
-**No, you can't sort to make this simple. Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.**
+_NOTE: For these students, the final grade should I/X where X is the letter grade they'll receive if they never complete their course materials._
 
 ## Uploading Grades
 
-NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
-
-1. Now bounce over to **Faculty Grade Entry** in [My.Oregonstate.Edu](https://my.oregonstate.edu){:target="_blank"} clicking Resources and searching in "Find Resources" for the text "Entry".
-2. Sort by term to find the current term (No, it doesn't do this automatically). You should see "In Progress" on the left for any sections currently allowing grade entry
-3. Click on one (yep, just one at a time)
-4. Scroll down to make sure some student names show up, because sometimes they don't.
-5. Click on the Tools wheel up by your name (No clue why it doesn't pop up contextually when you select a row).
-6. Click where it says "Browse" (I know it looks like a text entry field. It isn't.)
-7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and "Continue"
-8. On the "Map" step, you have to manually map the "Narrative Grade" column to "Narrative Grade". No, I don't know what a Narrative Grade is, either.
-9. (Optional) Cross your fingers and, if the urge takes you, pray this works correctly.
-10. (Optional) Immediately go and manually check everything worked correctly. No, I don't trust it yet either.
-11. Repeat from step 2 for every single section, one at a time. Yep. All 8-12 of them. Enjoy this shiny new tool!
+1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/){:target="\_blank"}. 
+2. Navigate to the **Resources** tab (near the top of the page).
+3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
+4. Select **Final Grades - File Upload**
+5. Select the term you wish to enter grades for.  
+_NOTE: From this point on, if you wish to change the Term or Course you may click **RETURN TO MENU**, then **Final Grades Menu** and finally **Term Selection** or **CRN Selection** links._
+6. The page which opens is an archaic interface, but there are only a few fields which you need.
+    - For **Path/Filename** select **Choose File** and select the .csv file you've been modifying.
+    - You may use EITHER **Subject/Course** OR **CRN** to select the course whose grades you're uploading. If you select both, the upload will fail.
+    - For **Data Item Name** and **Location** associate the columns in your .csv to the appropriate data field.  This is required only for **Student ID** (SIS User ID), **Grade** (Unposted Final Grade), and **Last Attend. Date** (For F-grade students and Incompletes).
+7. Click **Process File**.
 
 ## Check for Missing Grades
 
 It's always a good idea to check your work.  To verify there are no missing final grades...
 
-1. **??**
-2. **??**
-3. **??**
-4. 
+1. **RETURN TO MENU**
+2. **Final Grades Menu**
+3. **View Missing Final Grades**
+4. Select the Term and Submit.
 
 ## Modifying Posted Grades
 
