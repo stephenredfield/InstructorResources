@@ -32,8 +32,6 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
    - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
    - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format.
 
-**No, you can't sort to make this simple. Try not to miss any.**
-
 ## Uploading Grades
 
 NOTE: The grade uploading process is undergoing changes. The current instructions for uploading the grades files correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with detailed steps below, based on my experience.
