@@ -29,7 +29,7 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 3. Pull the **Last Activity** date.
 4. Return to the Faculty Grade Entry tool.
 5. Enter the last date of activity for the student in the respective column in the format MM/DD/YYYY (e.g. 01/04/2019).  
-   - NOTE:  The last date the system accepts is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
+   - NOTE:  The last date the system will accept is the last day of Dead Week (Friday before Finals week). This day can be found on the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar){:target="\_blank"}. Enter this date for any students whose participation outlasted Dead Week.
    - NOTE:  This format is **required**. The upload will fail for students who have date entries which don't match this format.
 
 ## Uploading Grades
