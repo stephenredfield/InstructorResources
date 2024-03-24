@@ -20,7 +20,7 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 
 - For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
 - DO NOT close or refresh this while you're working on it. It will lose all your work
-- You can't sort to make this simple. Try not to miss any.**
+- You can't sort to make this simple. Try not to miss any.
 
 #### For each student with an F or an I/X grade...
 
