@@ -4,9 +4,9 @@ All students who finished the class without withdrawing need to receive a final 
 
 ## Pulling Data from Canvas
 
-- The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
+- The Canvas grades export process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with comments and tips below...
 - Take the "Before using the tool" part seriously. Especially the "Post Grades" and "Enter Zeros" parts!
-- If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the Faculty Grade Entry Canvas tool (not the My.Oregonstate.Edu tool) or in the resultant Excel spreadsheet.
+- If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the *Final Grades* Canvas tool or in the resultant Excel spreadsheet.
 
 ### For each student with an Incomplete grade...
 
@@ -36,7 +36,7 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 
 ## Uploading Grades
 
-NOTE: The Grade Uploading process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} or follow the steps below.
+NOTE: The grade uploading process is undergoing changes. The current instructions for uploading the grades files correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with detailed steps below, based on my experience.
 
 1. Now bounce over to **Faculty Grade Entry** in [My.Oregonstate.Edu](https://my.oregonstate.edu){:target="_blank"} clicking Resources and searching in "Find Resources" for the text "Entry".
 2. Sort by term to find the current term (No, it doesn't do this automatically). You should see "In Progress" on the left for any sections currently allowing grade entry
