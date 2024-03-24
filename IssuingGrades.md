@@ -6,6 +6,9 @@ All students who finished the class without withdrawing need to receive a final 
 
 NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
 
+- Take the "Before using the tool" part seriously. Especially the "Post Grades" and "Enter Zeros" parts!
+- If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the Faculty Grade Entry Canvas tool (not the My.Oregonstate.Edu tool) or in the resultant Excel spreadsheet.
+
 ### For each student with an Incomplete grade...
 
 For any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to, or any students with outstanding Academic Misconduct reports...
