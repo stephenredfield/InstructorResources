@@ -4,30 +4,27 @@ All students who finished the class without withdrawing need to receive a final 
 
 ## Pulling Data from Canvas
 
-NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
-
+- The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
 - Take the "Before using the tool" part seriously. Especially the "Post Grades" and "Enter Zeros" parts!
 - If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the Faculty Grade Entry Canvas tool (not the My.Oregonstate.Edu tool) or in the resultant Excel spreadsheet.
 
 ### For each student with an Incomplete grade...
 
 For any students you'll be giving [Incompletes](Incompletes.html){:target="\_blank"} to, or any students with outstanding Academic Misconduct reports...
-
-**NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.**
+NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster and entering the wrong grade accidentally.
 
 1. Adjust the final grade to I/X, where X is the letter grade that the final grade initially populated to (this is the grade they'll receive if they never complete their course materials)._
 2. Follow the "Last Date of Participation" steps below
 
 ### Last Date of Participation (Students with F's and Incompletes)
 
-For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
-
-**NOTE 1: DO NOT close or refresh this while you're working on it. It will lose all your work**
-**NOTE 2: You can't sort to make this simple. Try not to miss any.**
+- For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
+- DO NOT close or refresh this while you're working on it. It will lose all your work
+- You can't sort to make this simple. Try not to miss any.**
 
 ### For each student with an F or an I/X grade...
 
-1. IN a different tab, from the Course **Navigation** sidebar, select **People**.
+1. In a different tab, from the Course **Navigation** sidebar, select **People**.
 2. After the roster loads, search the student's name.
 3. Pull the **Last Activity** date.
 4. Return to the Faculty Grade Entry tool.
@@ -39,7 +36,7 @@ For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of
 
 ## Uploading Grades
 
-NOTE: The Grade Entry process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"}
+NOTE: The Grade Uploading process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Using the Final Grades tool](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} or follow the steps below.
 
 1. Now bounce over to **Faculty Grade Entry** in [My.Oregonstate.Edu](https://my.oregonstate.edu){:target="_blank"} clicking Resources and searching in "Find Resources" for the text "Entry".
 2. Sort by term to find the current term (No, it doesn't do this automatically). You should see "In Progress" on the left for any sections currently allowing grade entry
@@ -56,7 +53,7 @@ NOTE: The Grade Entry process is undergoing changes. The current instructions fo
 
 ## Check for Missing Grades
 
-It's always a good idea to check your work.  To verify there are no missing final grades...
+It's always a good idea to check your work.  To verify there are no missing final grades... I dunno yet...
 
 1. **??**
 2. **??**
