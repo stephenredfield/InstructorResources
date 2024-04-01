@@ -49,23 +49,16 @@ NOTE: The grade uploading process is undergoing changes. The current instruction
 11. Repeat from step 2 for every single section, one at a time. Yes, it un-sorts the table every time you upload. Yes, for all 8-12 of them. 
 12. Enjoy this shiny new tool!
 
-## Check for Missing Grades
-
-It's always a good idea to check your work.  To verify there are no missing final grades... I dunno yet...
-
-1. **??**
-2. **??**
-3. **??**
-4. 
-
 ## Modifying Posted Grades
 
 Sometimes we have a reason to modify an existing grade.  There is a period of approximately one week after the grading window closes (5pm Monday after the term ends for Fall/Winter/Spring) where we cannot make changes, but outside that window we can change a final grade at any time. To do so...
 
 1. Access the My Oregonstate Portal by opening [MyOSU](https://my.oregonstate.edu/){:target="\_blank"}.
 2. Navigate to the **Resources** tab (near the top of the page).
-3. In the **Find Resources** search bar, type **Grades** and select **Final Grades Menu**.
-4. Select **Final Grades - Change Posted Grades**.
+3. In the **Find Resources** search bar, type **Grades** and select **Change Posted Grades**.
+4. Select the Term from the relevant dropdown menu, then click the Section you wish to change a grade for (it will remain highlighted in blue)
+5. Select the student from the **Students** dropdown menu, then click their name in the table below (it will remain highlighted in blue)
+6. Select the new grade from the new dropdown menu titled **Grade Options** and click "Submit".
 
 ## Spring Term Preliminary Grades
 
