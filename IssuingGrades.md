@@ -5,6 +5,7 @@ All students who finished the class without withdrawing need to receive a final 
 ## Pulling Data from Canvas
 
 - The Canvas grades export process is undergoing changes. The current instructions for getting the grades file exported correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with comments and tips below...
+- If you open the resultant Excel spreadsheet and change the column header "Narrative Grade" to "Narrative Grade Comment" it will save you time later.
 - Take the "Before using the tool" part seriously. Especially the "Post Grades" and "Enter Zeros" parts!
 - If you wish to adjust any edge-cases (students with exceptional participation, super-close edge cases, etc) you can do that in the *Final Grades* Canvas tool or in the resultant Excel spreadsheet.
 
@@ -19,8 +20,8 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 ### Last Date of Participation (Students with F's and Incompletes)
 
 - For _ONLY_ students with F-grades or Incompletes, you'll need the _Final Date of Participation_ for financial aid purposes.
-- DO NOT close or refresh this while you're working on it. It will lose all your work
-- You can't sort to make this simple. Try not to miss any.
+- DO NOT close or refresh this page while you're working on it. It will lose all your work
+- Sorting this table is not enabled, so please try not to miss any.
 
 #### For each student with an F or an I/X grade...
 
@@ -37,17 +38,14 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 NOTE: The grade uploading process is undergoing changes. The current instructions for uploading the grades files correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with detailed steps below, based on my experience.
 
 1. Now bounce over to **Faculty Grade Entry** in [My.Oregonstate.Edu](https://my.oregonstate.edu){:target="_blank"} clicking Resources and searching in "Find Resources" for the text "Entry".
-2. Sort by term to find the current term (No, it doesn't do this automatically). You should see "In Progress" on the left for any sections currently allowing grade entry
-3. Click on one (yep, just one at a time)
-4. Scroll down to make sure some student names show up, because sometimes they don't.
-5. Click on the Tools wheel up by your name (No clue why it doesn't pop up contextually when you select a row).
-6. Click where it says "Browse" (I know it looks like a text entry field. It isn't.)
-7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and "Continue". If you don't hit "Upload" first it won't work and no, the "Continue" button doesn't change based on whether or not you've uploaded the file yet.
-8. On the "Map" step, you have to manually map the "Narrative Grade" column to "Narrative Grade". No, I don't know what a Narrative Grade is, either.
-9. (Optional) Cross your fingers and, if the urge takes you, pray this works correctly.
-10. (Optional) Immediately go and manually check everything worked correctly. No, I don't trust it yet either.
-11. Repeat from step 2 for every single section, one at a time. Yes, it un-sorts the table every time you upload. Yes, for all 8-12 of them. 
-12. Enjoy this shiny new tool!
+2. Sort by term to find the current term. You should see "In Progress" on the left for any sections currently allowing grade entry
+3. Click on one section (multi-section uploads are not possible at this time)
+4. Scroll down to verify the section is selected; student names should be visible.
+5. Click on the Tools wheel at the top of the page, by your name.
+6. Click where it says "Browse" (It looks like a text entry field, but isn't.)
+7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and then "Continue". Note, the "Continue" button doesn't change color/emphasis based on whether or not you've uploaded the file yet.
+8. If you didn't change the "Narrative Grade" column header in the XLS file to "Narrative Grade Comment", then on the "Map" step you need to manually map the "Narrative Grade" column to "Narrative Grade".
+9. Repeat from step 2 for each section.
 
 ## Modifying Posted Grades
 
