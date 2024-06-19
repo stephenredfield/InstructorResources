@@ -9,13 +9,13 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 ## General Course Setup Requirements
 
 - **Multiple-Section Courses Merged using the [Course Merge Tool](CourseMerge.html){:target="\_blank"}** (Some exceptions).
-- **Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs){:target="\_blank"}**
-  1. Add link to Canvas Syllabus via TEACH
-  2. Go to [ENGR TEACH](https://teach.engr.oregonstate.edu/){:target="\_blank"}
-  3. Select "Class Administration" (Bottom Right)
-  4. “Add a different URL to http://classes.engr.oregonstate.edu”
-  5. Update your class’ link to be the Syllabus page of your Canvas class.  
-*NOTE: The format of this URL will be https://canvas.oregonstate.edu/courses/\*\*/assignments/syllabus , where \*\* is the Canvas Course ID#.*
+- ~~Canvas Syllabus Page linked in [myCOE course list](http://classes.engr.oregonstate.edu/eecs){:target="\_blank"}~~ Temporarily suspended, as we wait for the replacement system to go live.
+  1. ~~Add link to Canvas Syllabus via TEACH~~
+  2. ~~Go to [ENGR TEACH](https://teach.engr.oregonstate.edu/){:target="\_blank"}~~
+  3. ~~Select "Class Administration" (Bottom Right)~~
+  4. ~~“Add a different URL to http://classes.engr.oregonstate.edu”~~
+  5. ~~Update your class’ link to be the Syllabus page of your Canvas class.  
+*NOTE: The format of this URL will be https://canvas.oregonstate.edu/courses/\*\*/assignments/syllabus , where \*\* is the Canvas Course ID#.*~~
   6. Make your class’ syllabus page public via “Settings” -> "Course Details" in Canvas.  
 *NOTE: The course must be published for these pages to be visible to prospective students*
   ![Canvas Public Syllabus Page](images/CanvasPublicSyllabus.png "Canvas Public Syllabus Page")
