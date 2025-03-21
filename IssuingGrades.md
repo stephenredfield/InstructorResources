@@ -35,7 +35,7 @@ NOTE: Be careful when adjusting grades via dropdown - it's a recipe for disaster
 
 ## Uploading Grades
 
-NOTE: The grade uploading process is undergoing changes. The current instructions for uploading the grades files correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=70831){:target="\_blank"} with detailed steps below, based on my experience.
+NOTE: The grade uploading process is undergoing changes. The current instructions for uploading the grades files correctly can be found here: [Canvas: Move final (letter) grades from Canvas into MyOregonState (Banner)](https://mysupport.oregonstate.edu/esp?id=kb_article_view&sysparm_article=KB0010600){:target="\_blank"} with detailed steps below, based on my experience.
 
 1. Now bounce over to **Faculty Grade Entry** in [My.Oregonstate.Edu](https://my.oregonstate.edu){:target="_blank"} clicking Resources and searching in "Find Resources" for the text "Entry".
 2. Sort by term to find the current term. You should see "In Progress" on the left for any sections currently allowing grade entry
