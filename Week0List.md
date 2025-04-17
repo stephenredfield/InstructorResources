@@ -4,7 +4,7 @@ The intent of this document is to provide a handy checklist of items which each 
 
 **Required Items are BOLD**.
 
-Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students. To do so, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [Course and Syllabus List]https://it.engineering.oregonstate.edu/course-and-syllabus-list){:target="\_blank"}, and click the link for your class.
+Upon completion of this list, test whether the Syllabus page is visible in the correct format to current and prospective students. To do so, utilize a cache-free browser mode such as Chrome's Incognito, browse to the [Course and Syllabus List](https://it.engineering.oregonstate.edu/course-and-syllabus-list){:target="\_blank"}, and click the link for your class.
 
 ## General Course Setup Requirements
 
