@@ -47,6 +47,7 @@
 
 ## Course Design
 
+- [Course Development Guide](https://web.engr.oregonstate.edu/~safonted/osu-course-dev-guide.html){:target="\_blank"}
 - [Ecampus Markdown Workflow](MarkdownWorkflow.html){:target="\_blank"}
 - [Gradescope - How To](Gradescope.html){:target="\_blank"}
 - [Replit - How To](Replit.html){:target="\_blank"}
