@@ -44,8 +44,7 @@ NOTE: The grade uploading process is undergoing changes. The current instruction
 5. Click on the Tools wheel at the top of the page, by your name.
 6. Click where it says "Browse" (It looks like a text entry field, but isn't.)
 7. Browse to the XLS file provided when you exported using the "Faculty Grade Entry" Canvas tool, then hit "Upload" and then "Continue". Note, the "Continue" button doesn't change color/emphasis based on whether or not you've uploaded the file yet.
-8. If you didn't change the "Narrative Grade" column header in the XLS file to "Narrative Grade Comment", then on the "Map" step you need to manually map the "Narrative Grade" column to "Narrative Grade".
-9. Repeat from step 2 for each section.
+8. Repeat from step 2 for each section.
 
 ## Modifying Posted Grades
 
