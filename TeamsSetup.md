@@ -10,7 +10,7 @@ NOTE: Chris Thompson, College of Engineering IT Director, has made available a [
 
 ## Starting a new Class Team
 
-Now that you're set up and ready to go, it's time to create a Team for your students to connect to!  There is a new Canvas integration that makes creating the class Team and adding students very easy. Just follow the instructions on the [Teams Teamdynamix Site](https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/ArticleDet?ID=147744){:target="\_blank"}.
+Now that you're set up and ready to go, it's time to create a Team for your students to connect to!  There is a new Canvas integration that makes creating the class Team and adding students very easy. Just follow the instructions on the [Teams KnowledgeBase Site](https://mysupport.oregonstate.edu/esp?id=kb_article_view&sysparm_article=KB0010617){:target="\_blank"}.
 
 ## Configuring your Class Team
 
