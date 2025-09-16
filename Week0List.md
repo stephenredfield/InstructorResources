@@ -16,9 +16,9 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
   2. The course will appear, and the link will auto-create, once your course is published.
 - **Course Syllabus (page or PDF) has a “Communication Policy” which specifies the proper mechanism to get in touch with Instructor/TAs.**
 - **Course Syllabus conforms to [Academic Integrity Requirements](PreventingAcademicMisconduct.html).**
-- **Ed Discussions set up for course and present in Navigation bar**  
+- **Ed Discussions set up for course and present in Navigation bar** 
 See [Ed Discussions – How To](EDSetup.html){:target="\_blank"}
-- **Class Team setup for course and present in Navigation bar**  
+- **Class Team setup for course and present in Navigation bar** (F2025 NOTE: May also be in Syllabus or Modules)  
 See [Teams – How To](TeamsSetup.html){:target="\_blank"}
 - **TutorMe or CoE Tutoring (https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) link present in Navigation bar**  
 For the following classes, use ONLY CoE Tutoring (no TutorMe support): CS 161, CS 162, CS 261, CS 271, and CS 344
