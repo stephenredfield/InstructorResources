@@ -1,7 +1,7 @@
 # Handling Academic Misconduct
 
 Quick Links...
-- [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"} (File Reports Here)
+- [Faculty Academic Misconduct Page](https://engineering.oregonstate.edu/tools-services/academic-integrity-resources-faculty){:target="\_blank"} (**File Reports Here**)
 - [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/edited_code_of_student_conduct.pdf){:target="\_blank"}
 - [moss usage guide](mossGuide.html){:target="\_blank"}
 
