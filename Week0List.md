@@ -42,6 +42,8 @@ With the exception of a few classes (CS101, CS161, CS225) all our online offerin
 
 ## Canvas Syllabus Page Requirements
 
+SPRING 2026 NOTE: In the coming terms the structure of this will change. If your course is not actively being re-developed, this structure is still the standard. 
+
 Please use this [template file](docs/Week0Template.txt) for assistance in formatting the Syllabus page. There is also a more detailed [video guide](media/Week0DemoVideo.mp4).
 
 - **The following materials are part of the Canvas “Syllabus” page, and are presented by HTML tabs.**
