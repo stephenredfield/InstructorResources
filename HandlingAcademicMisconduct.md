@@ -1,7 +1,7 @@
 # Handling Academic Misconduct
 
 Quick Links...
-- [Faculty Academic Misconduct Page](https://engineering.oregonstate.edu/tools-services/academic-integrity-resources-faculty){:target="\_blank"} (**File Reports Here**)
+- [College of Engineering Misconduct Page](https://engineering.oregonstate.edu/tools-services/academic-integrity-resources-faculty){:target="\_blank"} (**File Reports Here**)
 - [Student Code of Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/edited_code_of_student_conduct.pdf){:target="\_blank"}
 - [moss usage guide](mossGuide.html){:target="\_blank"}
 
@@ -23,7 +23,7 @@ OSU subscribes to a service called [TurnItIn](https://www.turnitin.com/){:target
 
 ## Reporting
 
-Once you have identified a case where you believe Academic Misconduct has occurred, it is important to submit a report. The Reporting Process is thoroughly detailed at the [Faculty Academic Misconduct Page](https://studentlife.oregonstate.edu/studentconduct/academicmisconduct-faculty){:target="\_blank"}.  It is a simple procedure and requires fairly little effort on your part. That being said, here are some important notes and tips...
+Once you have identified a case where you believe Academic Misconduct has occurred, it is important to submit a report. The Reporting Process is thoroughly detailed at the [College of Engineering Academic Misconduct Page](https://engineering.oregonstate.edu/tools-services/academic-integrity-resources-faculty){:target="\_blank"}.  It is a simple procedure and requires fairly little effort on your part. That being said, here are some important notes and tips...
 
 ### Filing Tips
 
@@ -56,7 +56,7 @@ There are some exceptions to the official standard:
 ## General Notes
 
 - A common method of dealing with the grade while the investigation is in progress is make a note in an area it won't be missed at the end of the term (such as an un-published module page), then email the student (or post an Assignment comment in Canvas) informing them of the process.  This may include text such as...  
-*Your assignment is under review for a potential case of academic misconduct.  The College of Engineering Hearing Officer will be in touch soon regarding the incident, and any inquiries should go to them.  Your grade will remain unassigned until the case has been reviewed and a determination has been made by the College Hearing Officer.  For more information on the process, please check the Academic Misconduct Student Resource Page at [https://studentlife.oregonstate.edu/studentconduct/academic-misconduct-students](https://studentlife.oregonstate.edu/studentconduct/academic-misconduct-students)  Grade if found Not Responsible:  X/Y*
+*Your assignment is under review for a potential case of academic misconduct.  The College of Engineering Hearing Officer will be in touch soon regarding the incident, and any inquiries should go to them.  Your grade will remain unassigned until the case has been reviewed and a determination has been made by the College Hearing Officer.  For more information on the process, please check the Academic Misconduct Student Resource Page at [https://scs.oregonstate.edu/student-resources](https://scs.oregonstate.edu/student-resources)  Grade if found Not Responsible:  X/Y*
 - If it's time to submit grades and you haven't received confirmation of Responsibility from the College, we've been advised to give students a grade of I/X where X is the letter grade they would receive if they were found responsible (i.e. they did commit academic misconduct).
 - When the college finds the student responsible/not responsible, faculty must go in and change the grade accordingly as soon as possible, but in all cases within one week of notification.
 - **Assisting** is considered misconduct. This means that if Student A copied Student B with B's knowledge, both of them should have reports filed. Instructors do not bear the burden of determining who cheated from whom. If this is a concern, include both students and both charges (cheating/assisting or plagiarism/assisting) and the CHO will attempt to sort out the details.
