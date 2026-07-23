@@ -10,9 +10,9 @@ Due to budget issues, Instructor PD funding has been cut off, for now.
 
 ~~The best way to get approval for professional development is to follow this procedure~~
 
-~~1. Email [Jonathan Rich](mailto:Jonathan.Rich@oregonstate.edu) and CC Chris Hundhausen explaining the what the funding will be used for, so Chris can notify Jonathan of approval. ~~
+~~ 1. Email [Jonathan Rich](mailto:Jonathan.Rich@oregonstate.edu) and CC Chris Hundhausen explaining the what the funding will be used for, so Chris can notify Jonathan of approval. ~~
 
-~~Additionally, eventually the Concur Expense Report will be required, for this: ~~
+~~ Additionally, eventually the Concur Expense Report will be required, for this: ~~
 
 ~~2. Get approved for a Concur Expense Card (https://health.oregonstate.edu/faculty-staff/college-resources/concur){:target="\_blank"}. This can be very helpful but is not required.~~
 ~~3. Create a New Expense on Concur and provide all details relevant to the expense (whether it be a conference, a course, a book, etc...)~~
