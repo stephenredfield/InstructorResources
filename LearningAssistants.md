@@ -4,6 +4,10 @@ As the Online CS Program has grown, the benefit of recruiting learning assistant
 
 The primary qualities of a successful undergraduate ULA are not just subject knowledge but also the level of engagement they provide to the students and the instructors.  The purpose of this document is to outline some time- and resource-efficient methods of recruiting undergraduate learning assistants for your course, and to assist in guiding these students through the hiring process.
 
+Once you have gathered a list of potential ULAs from the above or other methods, the students must apply to the Ecampus TA job posting. This posting changes every Academic Year but can be easily found as the EECS Ecampus TA position from [this Workday query](https://oregonstate.wd501.myworkdayjobs.com/en-US/OSU_Careers_Site?locations=20b0877ce9ce1000a8fb618715520000&Appointment_Type=7cbee41429921000e7b9f235aafc0000){:target="\_blank"}.  Students applicants must apply to this posting and fill in the associated survey.
+
+From the instructor end, you should notify the ULA Guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)) your preferred list of ULAs at your earliest opportunity to help expedite the process.
+
 ## ULA Rules / Clarifications
 
 The work situation of ULAs is different from graduate TAs. Firstly, ULAs are strict hourly employees rather than the quasi-salaried status of GTAs.
@@ -43,9 +47,3 @@ These are the people whose contributions have been marked as helpful by others. 
 Teams doesn't seem to have user-specific analytics, but you can still pay attention to your Teams channel (and ask your TAs) to see who is being active and helpful!
 
 **_NOTE: It is important to verify that, though active, these students were also successful in the course.  A check over their grades and submitted assignments in Canvas is strongly recommended._**
-
-## The Undergraduate Learning Assistant Hiring Process
-
-Once you have gathered a list of potential ULAs from the above or other methods, the students must apply to the Ecampus TA job posting. This posting changes every Academic Year but can be easily found as the EECS Ecampus TA position from [this jobs.oregonstate.edu query](https://jobs.oregonstate.edu/postings/search?utf8=%E2%9C%93&query=Ecampus&query_v0_posted_at_date=&1970%5B%5D=8&query_organizational_tier_3_id%5B%5D=594&225=&commit=Search){:target="\_blank"}.  Students applicants must apply to this posting and fill in the associated survey.
-
-From the instructor end, you should notify the ULA Guru ([Sherry Barrett](mailto:sherry.barrett@oregonstate.edu)) your preferred list of ULAs at your earliest opportunity to help expedite the process.
