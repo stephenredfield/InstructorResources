@@ -9,9 +9,8 @@ Due to budget issues, Instructor PD funding has been cut off, for now.
 ~~All 1.0 FTE 9-month or 12-month Online Instructors in Computer Science in the School of EECS are provided with up to $1,500 per fiscal year (7/01 - 6/30) of funds earmarked for professional development.  These funds can also supplement professional development funded through another source which may not fully cover expenses. Other costs it can be used to pay for include, but are not limited to, courses, learning materials and supplies, and conferences.  If you have an idea which isn't listed here, please contact your supervisor to verify that it is something which can be funded.~~
 
 ~~The best way to get approval for professional development is to follow this procedure~~
-
-~~ 1. Email [Jonathan Rich](mailto:Jonathan.Rich@oregonstate.edu) and CC Chris Hundhausen explaining the what the funding will be used for, so Chris can notify Jonathan of approval. ~~
-~~ Additionally, eventually the Concur Expense Report will be required, for this: ~~
+~~2. Email [Jonathan Rich](mailto:Jonathan.Rich@oregonstate.edu) and CC Chris Hundhausen explaining the what the funding will be used for, so Chris can notify Jonathan of approval.~~
+~~Additionally, eventually the Concur Expense Report will be required, for this:~~
 ~~2. Get approved for a Concur Expense Card (https://health.oregonstate.edu/faculty-staff/college-resources/concur){:target="\_blank"}. This can be very helpful but is not required.~~
 ~~3. Create a New Expense on Concur and provide all details relevant to the expense (whether it be a conference, a course, a book, etc...)~~
 
