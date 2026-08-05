@@ -4,7 +4,7 @@ GradeScope is a tool that is used to automate testing of student homework submis
 
 ## Canvas and GradeScope
 
-Ecampus provides guidance on [getting GradeScope synced up with a Canvas course](https://learn.oregonstate.edu/faq/what-gradescope){:target="\_blank"}. This will get your GradeScope account and your Canvas account linked and sync up the course roster. Note that while you can select a GradeScope type assignment by choosing it as an external tool when creating an assignment, this does not actually create individual GradeScope assignments and should be avoided. Instead follow the directions on the Ecampus page to create assignments in GradeScope and in Canvas then link the two.
+Ecampus provides guidance on [getting GradeScope synced up with a Canvas course](https://learn.oregonstate.edu/using-canvas/gradescope){:target="\_blank"}. This will get your GradeScope account and your Canvas account linked and sync up the course roster. Note that while you can select a GradeScope type assignment by choosing it as an external tool when creating an assignment, this does not actually create individual GradeScope assignments and should be avoided. Instead follow the directions on the Ecampus page to create assignments in GradeScope and in Canvas then link the two.
 
 ## Grade Script Setup
 
