@@ -8,7 +8,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 
 ## General Course Setup Requirements
 
-**NOTE:** New courses developed in 2026 or later should meet the new [Course Syllabus Page and Start Here module requirements](https://web.engr.oregonstate.edu/~safonted/course_development_content_checklist.html#starthere).
+**NOTE: New courses developed in 2026 or later should meet the new [Course Syllabus Page and Start Here module requirements](https://web.engr.oregonstate.edu/~safonted/course_development_content_checklist.html#starthere).**
 
 - **Multiple-Section Courses Merged using the [Course Merge Tool](CourseMerge.html){:target="\_blank"}** (Some exceptions).
 - **Canvas Syllabus Page linked in [CoE IT Course and Syllabus List](https://it.engineering.oregonstate.edu/course-and-syllabus-list)**
