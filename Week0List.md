@@ -20,9 +20,10 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 - **Course Syllabus Meets New (Fall '26) Syllabus Requirements. [Click Here for Guidelines](https://web.engr.oregonstate.edu/~safonted/course_development_content_checklist.html#starthere)**
 - **Ed Discussions set up for course and present in Navigation bar** 
 See [Ed Discussions – How To](EDSetup.html){:target="\_blank"}
-- **Class Team setup for course and present in Navigation bar**
-NOTE: For courses developed after Summer 2025, Teams cannot be added to the Nav bar. [Click here for the Ecampus Workaround recommendation](https://mysupport.oregonstate.edu/esp?id=kb_article&sysparm_article=KB0010617)
-See [Teams – How To](TeamsSetup.html){:target="\_blank"}
+- **Class Team setup for course and present in Navigation bar**  
+See [Teams – How To](TeamsSetup.html){:target="\_blank"}  
+NOTE: For courses developed after Summer 2025, Teams cannot be added to the Nav bar. [Click Here for the Ecampus Workaround recommendation](https://mysupport.oregonstate.edu/esp?id=kb_article&sysparm_article=KB0010617).
+
 - **TutorMe or CoE Tutoring (https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) link present in Navigation bar**  
 For the following classes, use ONLY CoE Tutoring (no TutorMe support): CS 161, CS 162, CS 261, CS 271, and CS 344
 - **Course Home Page (page you land on when you enter a course through the Canvas Class List) includes post-bacc Banner for the course**  
