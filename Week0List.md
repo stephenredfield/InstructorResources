@@ -21,6 +21,7 @@ Upon completion of this list, test whether the Syllabus page is visible in the c
 - **Ed Discussions set up for course and present in Navigation bar** 
 See [Ed Discussions – How To](EDSetup.html){:target="\_blank"}
 - **Class Team setup for course and present in Navigation bar**
+NOTE: For courses developed after Summer 2025, Teams cannot be added to the Nav bar. [Click here for the Ecampus Workaround recommendation](https://mysupport.oregonstate.edu/esp?id=kb_article&sysparm_article=KB0010617)
 See [Teams – How To](TeamsSetup.html){:target="\_blank"}
 - **TutorMe or CoE Tutoring (https://engineering.oregonstate.edu/current-students/academic-support/undergraduate-tutoring) link present in Navigation bar**  
 For the following classes, use ONLY CoE Tutoring (no TutorMe support): CS 161, CS 162, CS 261, CS 271, and CS 344
